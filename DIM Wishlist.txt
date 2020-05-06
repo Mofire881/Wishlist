@@ -1731,6 +1731,8 @@ dimwishlist:item=2919334548&perks=1087426260,4071163871,3425386926#notes: Extend
 dimwishlist:item=2919334548&perks=1087426260,4071163871,2360754333#notes: Extended/ThreatDetector/TrenchBarrel
 dimwishlist:item=2919334548&perks=1087426260,4071163871,3300816228#notes: Extended/ThreatDetector/AutoLoading
 —————————————————————————
+dimwishlist:item=1821724780&perks=000
+—————————————————————————
 Sniper Rifles
 —————————————————————————
 Tatara Gaze - 35 Rolls
