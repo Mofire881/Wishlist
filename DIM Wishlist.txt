@@ -1210,9 +1210,9 @@ dimwishlist:item=105567493&perks=1885400500,2387244414,4071163871#notes: Ricoche
 dimwishlist:item=105567493&perks=1885400500,957782887,1015611457#notes: Ricochet/Snapshot/KillClip 
 dimwishlist:item=105567493&perks=1885400500,957782887,1781483875#notes: Ricochet/Snapshot/TapTheTrigger 
 dimwishlist:item=105567493&perks=1885400500,957782887,4071163871#notes: Ricochet/Snapshot/ThreatDetector
-dimwishlist:item=105567493&perks=1885400500,957782887,1015611457#notes: Ricochet/Slideways/KillClip 
-dimwishlist:item=105567493&perks=1885400500,957782887,1781483875#notes: Ricochet/Slideways/TapTheTrigger 
-dimwishlist:item=105567493&perks=1885400500,957782887,4071163871#notes: Ricochet/Slideways/ThreatDetector
+dimwishlist:item=105567493&perks=1885400500,2039302152,1015611457#notes: Ricochet/Slideways/KillClip 
+dimwishlist:item=105567493&perks=1885400500,2039302152,1781483875#notes: Ricochet/Slideways/TapTheTrigger 
+dimwishlist:item=105567493&perks=1885400500,2039302152,4071163871#notes: Ricochet/Slideways/ThreatDetector
 —————————————————————————
 —————————————————————————
 Sidearms 
