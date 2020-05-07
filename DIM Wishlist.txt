@@ -1229,6 +1229,16 @@ dimwishlist:item=1786797708&perks=3177308360,4071163871,1546637391 #notes: Stead
 dimwishlist:item=1786797708&perks=3177308360,2387244414,706527188#notes: Steady/ZenMoment/Quickdraw
 dimwishlist:item=1786797708&perks=3177308360,2387244414,1546637391 #notes: Steady/ZenMoment/Vorpal
 —————————————————————————
+Hard Truths - 9 Rolls
+dimwishlist:item=105567493&perks=1885400500,2387244414,1015611457#notes: Ricochet/ZenMoment/KillClip 
+dimwishlist:item=105567493&perks=1885400500,2387244414,1781483875#notes: Ricochet/ZenMoment/TapTheTrigger 
+dimwishlist:item=105567493&perks=1885400500,2387244414,2360754333#notes: Ricochet/ZenMoment/ThreatDetector
+dimwishlist:item=105567493&perks=1885400500,957782887,1015611457#notes: Ricochet/Snapshot/KillClip 
+dimwishlist:item=105567493&perks=1885400500,957782887,1781483875#notes: Ricochet/Snapshot/TapTheTrigger 
+dimwishlist:item=105567493&perks=1885400500,957782887,2360754333#notes: Ricochet/Snapshot/ThreatDetector
+dimwishlist:item=105567493&perks=1885400500,957782887,1015611457#notes: Ricochet/Slideways/KillClip 
+dimwishlist:item=105567493&perks=1885400500,957782887,1781483875#notes: Ricochet/Slideways/TapTheTrigger 
+dimwishlist:item=105567493&perks=1885400500,957782887,2360754333#notes: Ricochet/Slideways/ThreatDetector
 —————————————————————————
 —————————————————————————
 Sidearms 
