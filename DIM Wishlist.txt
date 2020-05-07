@@ -1163,32 +1163,6 @@ dimwishlist:item=2422664927&perks=2054312701,3230963543,2039302152,1015611457#no
 dimwishlist:item=2422664927&perks=2054312701,3230963543,2387244414,1015611457#notes: SDThermal/FlaredMag/ZenMoment/KillClip
 dimwishlist:item=2422664927&perks=2054312701,3230963543,957782887,1015611457#notes: SDThermal/FlaredMag/Snapshot/KillClip
 —————————————————————————
-Hard Truths - 24 Rolls
-dimwishlist:item=105567493&perks=2209280307,1885400500,957782887,1015611457#notes: IS2/Ricochet/Snapshot/KillClip
-dimwishlist:item=105567493&perks=2209280307,1885400500,957782887,1890422124#notes: IS2/Ricochet/Snapshot/TapTheTrigger
-dimwishlist:item=105567493&perks=2209280307,1885400500,957782887,4071163871#notes: IS2/Ricochet/Snapshot/ThreatDetector
-dimwishlist:item=105567493&perks=2209280307,1885400500,957782887,1359896290#notes: IS2/Ricochet/Snapshot/DynamicSway
-dimwishlist:item=105567493&perks=2209280307,1885400500,588594999,1015611457#notes: IS2/Ricochet/MovingTarget/KillClip
-dimwishlist:item=105567493&perks=2209280307,1885400500,588594999,1890422124#notes: IS2/Ricochet/MovingTarget/TapTheTrigger
-dimwishlist:item=105567493&perks=2209280307,1885400500,588594999,4071163871#notes: IS2/Ricochet/MovingTarget/ThreatDetector
-dimwishlist:item=105567493&perks=2209280307,1885400500,588594999,1359896290#notes: IS2/Ricochet/MovingTarget/DynamicSway
-dimwishlist:item=105567493&perks=2209280307,1885400500,2039302152,1015611457#notes: IS2/Ricochet/Slideways/KillClip
-dimwishlist:item=105567493&perks=2209280307,1885400500,2039302152,1890422124#notes: IS2/Ricochet/Slideways/TapTheTrigger
-dimwishlist:item=105567493&perks=2209280307,1885400500,2039302152,407116387#notes1: IS2/Ricochet/Slideways/ThreatDetector
-dimwishlist:item=105567493&perks=2209280307,1885400500,2039302152,1359896290#notes: IS2/Ricochet/Slideways/DynamicSway
-dimwishlist:item=105567493&perks=2209280307,3230963543,957782887,1015611457#notes: IS2/FlaredMag/Snapshot/KillClip
-dimwishlist:item=105567493&perks=2209280307,3230963543,957782887,1890422124#notes: IS2/FlaredMag/Snapshot/TapTheTrigger
-dimwishlist:item=105567493&perks=2209280307,3230963543,957782887,4071163871#notes: IS2/FlaredMag/Snapshot/ThreatDetector
-dimwishlist:item=105567493&perks=2209280307,3230963543,957782887,1359896290#notes: IS2/FlaredMag/Snapshot/DynamicSway
-dimwishlist:item=105567493&perks=2209280307,3230963543,588594999,1015611457#notes: IS2/FlaredMag/MovingTarget/KillClip
-dimwishlist:item=105567493&perks=2209280307,3230963543,588594999,1890422124#notes: IS2/FlaredMag/MovingTarget/TapTheTrigger
-dimwishlist:item=105567493&perks=2209280307,3230963543,588594999,4071163871#notes: IS2/FlaredMag/MovingTarget/ThreatDetector
-dimwishlist:item=105567493&perks=2209280307,3230963543,588594999,1359896290#notes: IS2/FlaredMag/MovingTarget/DynamicSway
-dimwishlist:item=105567493&perks=2209280307,3230963543,2039302152,1015611457#notes: IS2/FlaredMag/Slideways/KillClip
-dimwishlist:item=105567493&perks=2209280307,3230963543,2039302152,1890422124#notes: IS2/FlaredMag/Slideways/TapTheTrigger
-dimwishlist:item=105567493&perks=2209280307,3230963543,2039302152,4071163871#notes: IS2/FlaredMag/Slideways/ThreatDetector
-dimwishlist:item=105567493&perks=2209280307,3230963543,2039302152,1359896290#notes: IS2/FlaredMag/Slideways/DynamicSway
-—————————————————————————
 Escape Velocity - 38 Rolls
 dimwishlist:item=1786797708&perks=106909392,3643424744,706527188#notes: TacMag/Overflow/Quickdraw
 dimwishlist:item=1786797708&perks=106909392,3643424744,3708227201#notes: TacMag/Overflow/Surrounded
@@ -1232,13 +1206,13 @@ dimwishlist:item=1786797708&perks=3177308360,2387244414,1546637391 #notes: Stead
 Hard Truths - 9 Rolls
 dimwishlist:item=105567493&perks=1885400500,2387244414,1015611457#notes: Ricochet/ZenMoment/KillClip 
 dimwishlist:item=105567493&perks=1885400500,2387244414,1781483875#notes: Ricochet/ZenMoment/TapTheTrigger 
-dimwishlist:item=105567493&perks=1885400500,2387244414,2360754333#notes: Ricochet/ZenMoment/ThreatDetector
+dimwishlist:item=105567493&perks=1885400500,2387244414,4071163871#notes: Ricochet/ZenMoment/ThreatDetector
 dimwishlist:item=105567493&perks=1885400500,957782887,1015611457#notes: Ricochet/Snapshot/KillClip 
 dimwishlist:item=105567493&perks=1885400500,957782887,1781483875#notes: Ricochet/Snapshot/TapTheTrigger 
-dimwishlist:item=105567493&perks=1885400500,957782887,2360754333#notes: Ricochet/Snapshot/ThreatDetector
+dimwishlist:item=105567493&perks=1885400500,957782887,4071163871#notes: Ricochet/Snapshot/ThreatDetector
 dimwishlist:item=105567493&perks=1885400500,957782887,1015611457#notes: Ricochet/Slideways/KillClip 
 dimwishlist:item=105567493&perks=1885400500,957782887,1781483875#notes: Ricochet/Slideways/TapTheTrigger 
-dimwishlist:item=105567493&perks=1885400500,957782887,2360754333#notes: Ricochet/Slideways/ThreatDetector
+dimwishlist:item=105567493&perks=1885400500,957782887,4071163871#notes: Ricochet/Slideways/ThreatDetector
 —————————————————————————
 —————————————————————————
 Sidearms 
