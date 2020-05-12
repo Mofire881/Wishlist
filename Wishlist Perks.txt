@@ -90,6 +90,7 @@ DIM Wishlist Perk Codes:
 2869569095 FieldPrep
 1771339417 FiringLine
 2888557110 FullCourt
+2117683199 FullAuto
 863260328 Genesis
 1631667848 GraveRobber
 1015611457 KillClip
