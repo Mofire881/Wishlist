@@ -1581,7 +1581,7 @@ dimwishlist:item=1723380073&perks=445755704,1885400500,47981717,2846385770#notes
 dimwishlist:item=1723380073&perks=445755704,2420895100,1631667848,4082225868#notes: Tactic/Extended/GraveRobber/Swashbuckler
 —————————————————————————
 Seven Seraph SI-2 - 144
-dimwishlist:item=3937866388&perks=000
+dimwishlist:item=3937866388&perks=
 dimwishlist:item=2778883494&perks=4090651448,106909392,2117683199,1546637391#notes: Corkscrew/TacMag/FullAuto/Vorpal
 dimwishlist:item=2778883494&perks=4090651448,106909392,2117683199,2848615171#notes: Corkscrew/TacMag/FullAuto/Dragonfly
 dimwishlist:item=2778883494&perks=4090651448,106909392,2117683199,3708227201#notes: Corkscrew/TacMag/FullAuto/Surrounded
