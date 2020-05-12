@@ -1785,6 +1785,7 @@ dimwishlist:item=1449922174&perks=1840239774,3177308360,957782887,47981717#notes
 —————————————————————————
 Fate Cries Foul - X Rolls
 —————————————————————————
+Sole Survivor - 
 —————————————————————————
 Dreaded Venture - 4 Rolls
 dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,3300816228#notes: Arrowhead/Extended/TripleTap/AutoLoading
