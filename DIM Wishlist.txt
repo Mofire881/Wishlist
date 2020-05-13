@@ -1011,18 +1011,25 @@ dimwishlist:item=834081972&perks=3230963543,2846385770,1015611457#notes: FlaredM
 —————————————————————————
 Submachine Guns
 —————————————————————————
-Bad Reputation - 11 Rolls
+Bad Reputation - 18 Rolls
+dimwishlist:item=2105827099&perks=1288081797,3230963543,2387244414,1015611457#notes: KingsightK1/FlaredMag/ZenMoment/KillCLip
+dimwishlist:item=2105827099&perks=1288081797,3230963543,1781483875,1015611457#notes: KingsightK1/FlaredMag/TapTheTrigger/KillCLip
+dimwishlist:item=2105827099&perks=1288081797,2039302152,1890422124,1015611457#notes: KingsightK1/FlaredMag/Slideways/KillCLip
+dimwishlist:item=2105827099&perks=1288081797,679225683,2387244414,1015611457#notes: KingsightK1/LightMag/ZenMoment/KillCLip
+dimwishlist:item=2105827099&perks=1288081797,679225683,1781483875,1015611457#notes: KingsightK1/LightMag/TapTheTrigger/KillCLip
+dimwishlist:item=2105827099&perks=1288081797,679225683,1890422124,1015611457#notes: KingsightK1/LightMag/Slideways/KillCLip
+dimwishlist:item=2105827099&perks=1288081796,3230963543,2387244414,1015611457#notes: WolfSight/FlaredMag/ZenMoment/KillCLip
+dimwishlist:item=2105827099&perks=1288081796,3230963543,1781483875,1015611457#notes: WolfSight/FlaredMag/TapTheTrigger/KillCLip
+dimwishlist:item=2105827099&perks=1288081796,2039302152,1890422124,1015611457#notes: WolfSight/FlaredMag/Slideways/KillCLip
+dimwishlist:item=2105827099&perks=1288081796,679225683,2387244414,1015611457#notes: WolfSight/LightMag/ZenMoment/KillCLip
+dimwishlist:item=2105827099&perks=1288081796,679225683,1781483875,1015611457#notes: WolfSight/LightMag/TapTheTrigger/KillCLip
+dimwishlist:item=2105827099&perks=1288081796,679225683,1890422124,1015611457#notes: WolfSight/LightMag/Slideways/KillCLip
+dimwishlist:item=2105827099&perks=1452368632,1885400500,2387244414,957782887#notes: WolfDot/RicochetRnds/ZenMoment/Snapshot
+dimwishlist:item=2105827099&perks=1452368632,1885400500,2039302152,957782887#notes: WolfDot/RicochetRnds/Slideways/Snapshot
+dimwishlist:item=2105827099&perks=1452368632,1885400500,1890422124,957782887#notes: WolfDot/RicochetRnds/TaptheTrigger/Snapshot
+dimwishlist:item=2105827099&perks=1452368633,1885400500,2387244414,957782887#notes: KingdotK2/RicochetRnds/ZenMoment/Snapshot
 dimwishlist:item=2105827099&perks=1452368633,1885400500,2039302152,957782887#notes: KingdotK2/RicochetRnds/Slideways/Snapshot
 dimwishlist:item=2105827099&perks=1452368633,1885400500,1890422124,957782887#notes: KingdotK2/RicochetRnds/TaptheTrigger/Snapshot
-dimwishlist:item=2105827099&perks=1288081797,3230963543,1890422124,1015611457#notes: KingsightK1/FlaredMag/TapTheTrigger/KillCLip
-dimwishlist:item=2105827099&perks=1288081797,679225683,1890422124,1015611457#notes: KingsightK1/LightMag/TapTheTrigger/KillCLip
-dimwishlist:item=2105827099&perks=1288081797,3230963543,1890422124,1015611457#notes: DusksightD1/FlaredMag/TapTheTrigger/KillCLip
-dimwishlist:item=2105827099&perks=1288081798,679225683,1890422124,1015611457#notes: DusksightD1/LightMag/TapTheTrigger/KillCLip
-dimwishlist:item=2105827099&perks=1288081796,3230963543,1890422124,1015611457#notes: WolfSightW1/FlaredMag/TapTheTrigger/KillCLip
-dimwishlist:item=2105827099&perks=1288081796,679225683,1890422124,1015611457#notes: WolfsightW1/LightMag/TapTheTrigger/KillCLip
-dimwishlist:item=2105827099&perks=1288081797,1885400500,1890422124,1359896290#notes: KingsightK1/RicochetRnds/TapTheTrigger/DynamicSway
-dimwishlist:item=2105827099&perks=1288081798,1885400500,1890422124,1359896290#notes: DusksightD1/RicochetRnds/TapTheTrigger/DynamicSway
-dimwishlist:item=2105827099&perks=1288081796,1885400500,1890422124,1359896290#notes: WolfsightW1/RicochetRnds/TapTheTrigger/DynamicSway
 —————————————————————————
 Antiope-D - 81 Rolls   
 dimwishlist:item=2561659919&perks=87986588,1561002382,2039302152,1359896290#notes: GBIron/High-Cal/Slideways/DynamicSway
