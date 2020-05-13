@@ -1385,9 +1385,9 @@ dimwishlist:item=2009277538&perks=445755704,1885400500,706527188,1890422124#note
 dimwishlist:item=2009277538&perks=445755704,1885400500,706527188,47981717#notes:TacticSAS/RicochetRnds/Quickdraw/OpeningShot
 dimwishlist:item=2009277538&perks=445755704,1885400500,4071163871,1890422124#notes:TacticSAS/RicochetRnds/ThreatDetector/TapTheTrigger
 dimwishlist:item=2009277538&perks=445755704,1885400500,4071163871,47981717#notes:TacticSAS/RicochetRnds/ThreatDetector/OpeningShot
-dimwishlist:item=2009277538&perks=445755704,1885400500,1168162263,2846385770#notes:TacticSAS/LightMag/MovingTarget/KillClip
-dimwishlist:item=2009277538&perks=445755704,1885400500,706527188,2846385770#notes:TacticSAS/LightMag/Quickdraw/KillClip
-dimwishlist:item=2009277538&perks=445755704,1885400500,4071163871,2846385770#notes:TacticSAS/LightMag/ThreatDetector/KillClip
+dimwishlist:item=2009277538&perks=445755704,1885400500,1168162263,1015611457#notes:TacticSAS/LightMag/MovingTarget/KillClip
+dimwishlist:item=2009277538&perks=445755704,1885400500,706527188,1015611457#notes:TacticSAS/LightMag/Quickdraw/KillClip
+dimwishlist:item=2009277538&perks=445755704,1885400500,4071163871,1015611457#notes:TacticSAS/LightMag/ThreatDetector/KillClip
 dimwishlist:item=2009277538&perks=445755710,2420895100,1168162263,1015611457#notes:Farpoint/ExtendedMag/Outlaw/KillClip
 dimwishlist:item=2009277538&perks=445755710,2420895100,1168162263,77836843#notes:Farpoint/ExtendedMag/Outlaw/Dragonfly
 dimwishlist:item=2009277538&perks=445755710,1561002382,1168162263,1015611457#notes:Farpoint/High-Cal/Outlaw/KillClip
