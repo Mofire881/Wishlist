@@ -1214,6 +1214,39 @@ dimwishlist:item=105567493&perks=1885400500,2039302152,1015611457#notes: Ricoche
 dimwishlist:item=105567493&perks=1885400500,2039302152,1781483875#notes: Ricochet/Slideways/TapTheTrigger 
 dimwishlist:item=105567493&perks=1885400500,2039302152,4071163871#notes: Ricochet/Slideways/ThreatDetector
 —————————————————————————
+Seventh Seraph VY-7 - 32 Rolls
+dimwishlist:item=766323545&perks=1840239774,1087426260,2010801679,2779035018#notes: Fluted/Appended/Ambitious/FeedingFrenzy
+dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,1546637391#notes: Fluted/TacMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,2848615171#notes: Fluted/TacMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=1840239774,2420895100,2010801679,2779035018#notes: Fluted/Extended/Ambitious/FeedingFrenzy
+dimwishlist:item=766323545&perks=1840239774,4134353779,1354429876,1546637391#notes: Fluted/DropMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=1840239774,4134353779,1354429876,2848615171#notes: Fluted/DropMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=1840239774,3230963543,1354429876,1546637391#notes: Fluted/FlaredMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=1840239774,3230963543,1354429876,2848615171#notes: Fluted/FlaredMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=1482024992,1087426260,2010801679,2779035018#notes: Smallbore/Appended/Ambitious/FeedingFrenzy
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,1546637391#notes: Smallbore/TacMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,2848615171#notes: Smallbore/TacMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=1482024992,2420895100,2010801679,2779035018#notes: Smallbore/Extended/Ambitious/FeedingFrenzy
+dimwishlist:item=766323545&perks=1482024992,4134353779,1354429876,1546637391#notes: Smallbore/DropMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=1482024992,4134353779,1354429876,2848615171#notes: Smallbore/DropMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=1482024992,3230963543,1354429876,1546637391#notes: Smallbore/FlaredMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=1482024992,3230963543,1354429876,2848615171#notes: Smallbore/FlaredMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=3250034553,1087426260,2010801679,2779035018#notes: HammerForged/Appended/Ambitious/FeedingFrenzy
+dimwishlist:item=766323545&perks=3250034553,106909392,1354429876,1546637391#notes: HammerForged/TacMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=3250034553,106909392,1354429876,2848615171#notes: HammerForged/TacMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=3250034553,2420895100,2010801679,2779035018#notes: HammerForged/Extended/Ambitious/FeedingFrenzy
+dimwishlist:item=766323545&perks=3250034553,4134353779,1354429876,1546637391#notes: HammerForged/DropMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=3250034553,4134353779,1354429876,2848615171#notes: HammerForged/DropMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=3250034553,3230963543,1354429876,1546637391#notes: HammerForged/FlaredMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=3250034553,3230963543,1354429876,2848615171#notes: HammerForged/FlaredMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=4090651448,1087426260,2010801679,2779035018#notes: Corkscrew/Appended/Ambitious/FeedingFrenzy
+dimwishlist:item=766323545&perks=4090651448,106909392,1354429876,1546637391#notes: Corkscrew/TacMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=4090651448,106909392,1354429876,2848615171#notes: Corkscrew/TacMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=4090651448,2420895100,2010801679,2779035018#notes: Corkscrew/Extended/Ambitious/FeedingFrenzy
+dimwishlist:item=766323545&perks=4090651448,4134353779,1354429876,1546637391#notes: Corkscrew/DropMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=4090651448,4134353779,1354429876,2848615171#notes: Corkscrew/DropMag/FourthTime/Dragonfly
+dimwishlist:item=766323545&perks=4090651448,3230963543,1354429876,1546637391#notes: Corkscrew/FlaredMag/FourthTime/Vorpal
+dimwishlist:item=766323545&perks=4090651448,3230963543,1354429876,2848615171#notes: Corkscrew/FlaredMag/FourthTime/Dragonfly
 —————————————————————————
 Sidearms 
 —————————————————————————
@@ -1580,7 +1613,7 @@ dimwishlist:item=1723380073&perks=445755704,1885400500,47981717,247725512#notes:
 dimwishlist:item=1723380073&perks=445755704,1885400500,47981717,2846385770#notes: Tactic/Ricochet/OpeningShot/Rangefinder
 dimwishlist:item=1723380073&perks=445755704,2420895100,1631667848,4082225868#notes: Tactic/Extended/GraveRobber/Swashbuckler
 —————————————————————————
-Seven Seraph SI-2 - 144
+Seventh Seraph SI-2 - 144
 dimwishlist:item=3937866388&perks=4090651448,106909392,2117683199,1546637391#notes: Corkscrew/TacMag/FullAuto/Vorpal
 dimwishlist:item=3937866388&perks=4090651448,106909392,2117683199,2848615171#notes: Corkscrew/TacMag/FullAuto/Dragonfly
 dimwishlist:item=3937866388&perks=4090651448,106909392,2117683199,3708227201#notes: Corkscrew/TacMag/FullAuto/Surrounded
