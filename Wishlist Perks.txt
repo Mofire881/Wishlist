@@ -51,13 +51,13 @@ DIM Wishlist Perk Codes:
 2969185026 Projection
 ---
 839105230 Arrowhead
+3661387068 Chambered
 4090651448 Corkscrew
 1467527085 ExtendedBarrel
-202670084 FullBore
-1392496348 Polygonal
-3661387068 Chambered
-3250034553 HammerForged
 1840239774 Fluted
+202670084 FullBore
+3250034553 HammerForged
+1392496348 Polygonal
 1332244541 Rifled
 1482024992 Smallbore
 ---
