@@ -2498,12 +2498,96 @@ dimwishlist:item=2278995296&perks=2405638014,3142289711,588594999,47981717#notes
 dimwishlist:item=2278995296&perks=2405638014,4134353779,3400784728,3425386926#notes: RedDotMicro/DropMag/TripleTap/Rampage
 dimwishlist:item=2278995296&perks=2405638014,4134353779,2387244414,1015611457#notes: RedDotMicro/DropMag/ZenMoment/KillClip
 dimwishlist:item=2278995296&perks=2405638014,4134353779,588594999,1015611457#notes: RedDotMicro/DropMag/MovingTarget/KillClip
-
-
-
-
-
-
+—————————————————————————
+Machine Guns
+—————————————————————————
+Seventh Seraph SAW - 84 Rolls
+dimwishlist:item=2582755344&perks=839105230,1087426260,3300816228,1546637391#notes: Arrowhead/Appended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=839105230,1087426260,3300816228,1771339417#notes: Arrowhead/Appended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=839105230,1087426260,2869569095,1546637391#notes: Arrowhead/Appended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=839105230,1087426260,2869569095,1771339417#notes: Arrowhead/Appended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,1546637391#notes: Arrowhead/High-Cal/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,1771339417#notes: Arrowhead/High-Cal/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=839105230,1561002382,2869569095,1546637391#notes: Arrowhead/High-Cal/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=839105230,1561002382,2869569095,1771339417#notes: Arrowhead/High-Cal/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=839105230,1561002382,2387244414,1546637391#notes: Arrowhead/High-Cal/ZenMoment/Vorpal
+dimwishlist:item=2582755344&perks=839105230,1561002382,2387244414,47981717#notes: Arrowhead/High-Cal/ZenMoment/OpeningShot
+dimwishlist:item=2582755344&perks=839105230,1885400500,3300816228,1546637391#notes: Arrowhead/Ricochet/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=839105230,1885400500,3300816228,1771339417#notes: Arrowhead/Ricochet/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=839105230,1885400500,2869569095,1546637391#notes: Arrowhead/Ricochet/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=839105230,1885400500,2869569095,1771339417#notes: Arrowhead/Ricochet/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=839105230,1885400500,2387244414,1546637391#notes: Arrowhead/Ricochet/ZenMoment/Vorpal
+dimwishlist:item=2582755344&perks=839105230,1885400500,2387244414,47981717#notes: Arrowhead/Ricochet/ZenMoment/OpeningShot
+dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes: Arrowhead/Extended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1771339417#notes: Arrowhead/Extended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1546637391#notes: Arrowhead/Extended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=839105230,2420895100,2869569095,1771339417#notes: Arrowhead/Extended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1840239774,1087426260,3300816228,1546637391#notes: Fluted/Appended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1840239774,1087426260,3300816228,1771339417#notes: Fluted/Appended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1840239774,1087426260,2869569095,1546637391#notes: Fluted/Appended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1840239774,1087426260,2869569095,1771339417#notes: Fluted/Appended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,1546637391#notes: Fluted/High-Cal/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,1771339417#notes: Fluted/High-Cal/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1840239774,1561002382,2869569095,1546637391#notes: Fluted/High-Cal/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1840239774,1561002382,2869569095,1771339417#notes: Fluted/High-Cal/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1840239774,1885400500,3300816228,1546637391#notes: Fluted/Ricochet/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1840239774,1885400500,3300816228,1771339417#notes: Fluted/Ricochet/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1840239774,1885400500,2869569095,1546637391#notes: Fluted/Ricochet/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1840239774,1885400500,2869569095,1771339417#notes: Fluted/Ricochet/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1840239774,2420895100,3300816228,1546637391#notes: Fluted/Extended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1840239774,2420895100,3300816228,1771339417#notes: Fluted/Extended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1840239774,2420895100,2869569095,1546637391#notes: Fluted/Extended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1840239774,2420895100,2869569095,1771339417#notes: Fluted/Extended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1392496348,1087426260,3300816228,1546637391#notes: Polygonal/Appended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1392496348,1087426260,3300816228,1771339417#notes: Polygonal/Appended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1392496348,1087426260,2869569095,1546637391#notes: Polygonal/Appended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1392496348,1087426260,2869569095,1771339417#notes: Polygonal/Appended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1392496348,1561002382,3300816228,1546637391#notes: Polygonal/High-Cal/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1392496348,1561002382,3300816228,1771339417#notes: Polygonal/High-Cal/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1392496348,1561002382,2869569095,1546637391#notes: Polygonal/High-Cal/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1392496348,1561002382,2869569095,1771339417#notes: Polygonal/High-Cal/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1392496348,1885400500,3300816228,1546637391#notes: Polygonal/Ricochet/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1392496348,1885400500,3300816228,1771339417#notes: Polygonal/Ricochet/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1392496348,1885400500,2869569095,1546637391#notes: Polygonal/Ricochet/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1392496348,1885400500,2869569095,1771339417#notes: Polygonal/Ricochet/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1392496348,2420895100,3300816228,1546637391#notes: Polygonal/Extended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1392496348,2420895100,3300816228,1771339417#notes: Polygonal/Extended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1392496348,2420895100,2869569095,1546637391#notes: Polygonal/Extended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1392496348,2420895100,2869569095,1771339417#notes: Polygonal/Extended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1482024992,1087426260,3300816228,1546637391#notes: Smallbore/Appended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1482024992,1087426260,3300816228,1771339417#notes: Smallbore/Appended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1482024992,1087426260,2869569095,1546637391#notes: Smallbore/Appended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1482024992,1087426260,2869569095,1771339417#notes: Smallbore/Appended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1482024992,1561002382,3300816228,1546637391#notes: Smallbore/High-Cal/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1482024992,1561002382,3300816228,1771339417#notes: Smallbore/High-Cal/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1482024992,1561002382,2869569095,1546637391#notes: Smallbore/High-Cal/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1482024992,1561002382,2869569095,1771339417#notes: Smallbore/High-Cal/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1482024992,1885400500,3300816228,1546637391#notes: Smallbore/Ricochet/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1482024992,1885400500,3300816228,1771339417#notes: Smallbore/Ricochet/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1482024992,1885400500,2869569095,1546637391#notes: Smallbore/Ricochet/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1482024992,1885400500,2869569095,1771339417#notes: Smallbore/Ricochet/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=1482024992,2420895100,3300816228,1546637391#notes: Smallbore/Extended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=1482024992,2420895100,3300816228,1771339417#notes: Smallbore/Extended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=1482024992,2420895100,2869569095,1546637391#notes: Smallbore/Extended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=1482024992,2420895100,2869569095,1771339417#notes: Smallbore/Extended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=4090651448,1087426260,3300816228,1546637391#notes: Corkscrew/Appended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=4090651448,1087426260,3300816228,1771339417#notes: Corkscrew/Appended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=4090651448,1087426260,2869569095,1546637391#notes: Corkscrew/Appended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=4090651448,1087426260,2869569095,1771339417#notes: Corkscrew/Appended/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=4090651448,1561002382,3300816228,1546637391#notes: Corkscrew/High-Cal/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=4090651448,1561002382,3300816228,1771339417#notes: Corkscrew/High-Cal/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=4090651448,1561002382,2869569095,1546637391#notes: Corkscrew/High-Cal/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=4090651448,1561002382,2869569095,1771339417#notes: Corkscrew/High-Cal/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=4090651448,1885400500,3300816228,1546637391#notes: Corkscrew/Ricochet/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=4090651448,1885400500,3300816228,1771339417#notes: Corkscrew/Ricochet/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=4090651448,1885400500,2869569095,1546637391#notes: Corkscrew/Ricochet/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=4090651448,1885400500,2869569095,1771339417#notes: Corkscrew/Ricochet/FieldPrep/FiringLine
+dimwishlist:item=2582755344&perks=4090651448,2420895100,3300816228,1546637391#notes: Corkscrew/Extended/AutoLoading/Vorpal
+dimwishlist:item=2582755344&perks=4090651448,2420895100,3300816228,1771339417#notes: Corkscrew/Extended/AutoLoading/FiringLine
+dimwishlist:item=2582755344&perks=4090651448,2420895100,2869569095,1546637391#notes: Corkscrew/Extended/FieldPrep/Vorpal
+dimwishlist:item=2582755344&perks=4090651448,2420895100,2869569095,1771339417#notes: Corkscrew/Extended/FieldPrep/FiringLine
+—————————————————————————
+—————————————————————————
 —————————————————————————
 —————————————————————————
 —————————————————————————
