@@ -77,6 +77,7 @@ DIM Wishlist Perk Codes:
 3177308360 Steady
 106909392 TacMag
 ---
+2010801679 Ambitious
 3300816228 AutoLoading
 1600092898 BackupPlan
 2551157718 BoxBreathing
@@ -89,8 +90,8 @@ DIM Wishlist Perk Codes:
 2779035018 FeedingFrenzy
 2869569095 FieldPrep
 1771339417 FiringLine
+1354429876 FourthTime
 2888557110 FullCourt
-2117683199 FullAuto
 863260328 Genesis
 1631667848 GraveRobber
 1015611457 KillClip
