@@ -55,7 +55,7 @@ DIM Wishlist Perk Codes:
 4090651448 Corkscrew
 1467527085 ExtendedBarrel
 1840239774 Fluted
-202670084 FullBore
+202670084 Fullbore
 3250034553 HammerForged
 1392496348 Polygonal
 1332244541 Rifled
