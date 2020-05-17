@@ -2241,11 +2241,31 @@ dimwishlist:item=2712244741&perks=3230963543,1015611457,3161816588#notes: Flared
 dimwishlist:item=2712244741&perks=679225683,1015611457,3161816588#notes: LightMag/KillClip/Slideshot
 dimwishlist:item=2712244741&perks=1087426260,3425386926,1168162263#notes: Appended/Rampage/Outlaw
 dimwishlist:item=2712244741&perks=1087426260,1015611457,1168162263#notes: Appended/KillClip/Outlaw
-
-
-
-
 —————————————————————————
+Infinite Paths 8 - 22 Rolls
+dimwishlist:item=3233390913&perks=1467527085,3142289711,3523296417,2387244414#notes: ExtendedBarrel/Accurized/Demolitionist/ZenMoment 
+dimwishlist:item=3233390913&perks=1467527085,3142289711,3523296417,699525795#notes: ExtendedBarrel/Accurized/Demolitionist/EyeOfTheStorm
+dimwishlist:item=3233390913&perks=1467527085,3142289711,3523296417,47981717#notes: ExtendedBarrel/Accurized/Demolitionist/OpeningShot
+dimwishlist:item=3233390913&perks=1467527085,3142289711,588594999,2387244414#notes: ExtendedBarrel/Accurized/MovingTarget/ZenMoment 
+dimwishlist:item=3233390913&perks=1467527085,3142289711,588594999,699525795#notes: ExtendedBarrel/Accurized/MovingTarget/EyeOfTheStorm
+dimwishlist:item=3233390913&perks=1467527085,3142289711,588594999,47981717#notes: ExtendedBarrel/Accurized/MovingTarget/OpeningShot
+dimwishlist:item=3233390913&perks=1467527085,106909392,3523296417,2848615171#notes: ExtendedBarrel/TacMag/Demolitionist/Dragonfly
+dimwishlist:item=3233390913&perks=1467527085,1087426260,1631667848,4082225868#notes: ExtendedBarrel/Appended/GraveRobber/Swashbuckler
+dimwishlist:item=3233390913&perks=1467527085,3230963543,3523296417,2848615171#notes: ExtendedBarrel/FlaredMag/Demolitionist/Dragonfly
+dimwishlist:item=3233390913&perks=1467527085,4134353779,3523296417,2848615171#notes: ExtendedBarrel/DropMag/Demolitionist/Dragonfly
+dimwishlist:item=3233390913&perks=1467527085,2420895100,1631667848,4082225868#notes: ExtendedBarrel/Extended/GraveRobber/Swashbuckler
+dimwishlist:item=3233390913&perks=202670084,3142289711,3523296417,2387244414#notes: Fullbore/Accurized/Demolitionist/ZenMoment 
+dimwishlist:item=3233390913&perks=202670084,3142289711,3523296417,699525795#notes: Fullbore/Accurized/Demolitionist/EyeOfTheStorm
+dimwishlist:item=3233390913&perks=202670084,3142289711,3523296417,47981717#notes: Fullbore/Accurized/Demolitionist/OpeningShot
+dimwishlist:item=3233390913&perks=202670084,3142289711,588594999,2387244414#notes: Fullbore/Accurized/MovingTarget/ZenMoment 
+dimwishlist:item=3233390913&perks=202670084,3142289711,588594999,699525795#notes: Fullbore/Accurized/MovingTarget/EyeOfTheStorm
+dimwishlist:item=3233390913&perks=202670084,3142289711,588594999,47981717#notes: Fullbore/Accurized/MovingTarget/OpeningShot
+dimwishlist:item=3233390913&perks=202670084,106909392,3523296417,2848615171#notes: Fullbore/TacMag/Demolitionist/Dragonfly
+dimwishlist:item=3233390913&perks=202670084,1087426260,1631667848,4082225868#notes: Fullbore/Appended/GraveRobber/Swashbuckler
+dimwishlist:item=3233390913&perks=202670084,3230963543,3523296417,2848615171#notes: Fullbore/FlaredMag/Demolitionist/Dragonfly
+dimwishlist:item=3233390913&perks=202670084,4134353779,3523296417,2848615171#notes: Fullbore/DropMag/Demolitionist/Dragonfly
+dimwishlist:item=3233390913&perks=202670084,2420895100,1631667848,4082225868#notes: Fullbore/Extended/GraveRobber/Swashbuckler
+dimwishlist:item=3233390913&perks=1332244541,3142289711,588594999,699525795#notes: (Krispi's Roll) Rifled/Accurized/MovingTarget/EyeOfTheStorm
 —————————————————————————
 —————————————————————————
 —————————————————————————
