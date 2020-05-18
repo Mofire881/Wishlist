@@ -162,6 +162,39 @@ dimwishlist:item=1839565992&perks=1452368633,3230963543,1631667848,3425386926#no
 dimwishlist:item=1839565992&perks=1452368633,679225683,2387244414,3425386926#notes: KingDot/LightMag/ZenMoment/Rampage
 dimwishlist:item=1839565992&perks=1452368633,679225683,1631667848,3425386926#notes: KingDot/LightMag/GraveRobber/Rampage
 —————————————————————————
+Misfit - X Rolls - 31 Rolls
+dimwishlist:item=819441402&perks=1288081797,1561002382,1781483875,2039302152#notes:KingSight/Hi-Cal/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081797,1561002382,1781483875,588594999#notes:KingSight/Hi-Cal/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081797,1561002382,2387244414,2039302152#notes:KingSight/Hi-Cal/ZenMoment/Slideways 
+dimwishlist:item=819441402&perks=1288081797,1561002382,2387244414,588594999#notes:KingSight/Hi-Cal/ZenMoment/MovingTarget
+dimwishlist:item=819441402&perks=1288081797,1885400500,1781483875,2039302152#notes:KingSight/Ricochet/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081797,1885400500,1781483875,588594999#notes:KingSight/Ricochet/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081797,1885400500,2387244414,2039302152#notes:KingSight/Ricochet/ZenMoment/Slideways 
+dimwishlist:item=819441402&perks=1288081797,1885400500,2387244414,588594999#notes:KingSight/Ricochet/ZenMoment/MovingTarget
+dimwishlist:item=819441402&perks=1288081798,1561002382,1781483875,2039302152#notes:DuskSight/Hi-Cal/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081798,1561002382,1781483875,588594999#notes:DuskSight/Hi-Cal/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081798,1561002382,2387244414,2039302152#notes:DuskSight/Hi-Cal/ZenMoment/Slideways 
+dimwishlist:item=819441402&perks=1288081798,1561002382,2387244414,588594999#notes:DuskSight/Hi-Cal/ZenMoment/MovingTarget
+dimwishlist:item=819441402&perks=1288081798,1885400500,1781483875,2039302152#notes:DuskSight/Ricochet/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081798,1885400500,1781483875,588594999#notes:DuskSight/Ricochet/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081798,1885400500,2387244414,2039302152#notes:DuskSight/Ricochet/ZenMoment/Slideways 
+dimwishlist:item=819441402&perks=1288081798,1885400500,2387244414,588594999#notes:DuskSight/Ricochet/ZenMoment/MovingTarget
+dimwishlist:item=819441402&perks=1288081794,1561002382,1631667848,3425386926#notes:DuskDot/Hi-Cal/GraveRobber/Rampage 
+dimwishlist:item=819441402&perks=1288081794,2420895100,1631667848,3425386926#notes:DuskDot/Extended/GraveRobber/Rampage 
+dimwishlist:item=819441402&perks=1288081794,1087426260,1631667848,3425386926#notes:DuskDot/Appended/GraveRobber/Rampage 
+dimwishlist:item=819441402&perks=1288081796,1561002382,1781483875,2039302152#notes:WolfSight/Hi-Cal/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081796,1561002382,1781483875,588594999#notes:WolfSight/Hi-Cal/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081796,1561002382,2387244414,2039302152#notes:WolfSight/Hi-Cal/ZenMoment/Slideways 
+dimwishlist:item=819441402&perks=1288081796,1561002382,2387244414,588594999#notes:WolfSight/Hi-Cal/ZenMoment/MovingTarget
+dimwishlist:item=819441402&perks=1288081796,1885400500,1781483875,2039302152#notes:WolfSight/Ricochet/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081796,1885400500,1781483875,588594999#notes:WolfSight/Ricochet/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081796,1885400500,2387244414,2039302152#notes:WolfSight/Ricochet/ZenMoment/Slideways 
+dimwishlist:item=819441402&perks=1288081796,1885400500,2387244414,588594999#notes:WolfSight/Ricochet/ZenMoment/MovingTarget
+dimwishlist:item=819441402&perks=1452368632,1561002382,957782887,588594999#notes:WolfDot/Hi-Cal/Snapshot/MovingTarget 
+dimwishlist:item=819441402&perks=1452368632,1561002382,706527188,588594999#notes:WolfDot/Hi-Cal/Quickdraw/MovingTarget 
+dimwishlist:item=819441402&perks=1452368632,1885400500,957782887,588594999#notes:WolfDot/Ricochet/Snapshot/MovingTarget 
+dimwishlist:item=819441402&perks=1452368632,1885400500,706527188,588594999#notes:WolfDot/Ricochet/Quickdraw/MovingTarget 
+—————————————————————————
 Hazard of the Cast 
 dimwishlist:item=178934724---9&perks= 
 —————————————————————————
