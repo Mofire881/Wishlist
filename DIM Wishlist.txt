@@ -2415,6 +2415,20 @@ dimwishlist:item=720351795&perks=2801223209,3827198035,706527188,3365897133#note
 dimwishlist:item=720351795&perks=2801223209,3827198035,706527188,201365942#notes: PolymerString/StraightFletch/Quickdraw/ArchTempo
 —————————————————————————
 —————————————————————————
+Redrix's Broadsword - 13 Rolls
+dimwishlist:item=1161276682&perks=4090651448,2420895100#notes: Corkscrew/Extended
+dimwishlist:item=1161276682&perks=4090651448,1087426260#notes: Corkscrew/Appended  
+dimwishlist:item=1161276682&perks=4090651448,1561002382#notes: Corkscrew/High-Cal
+dimwishlist:item=1161276682&perks=1840239774,1885400500#notes: Fluted/Ricochet
+dimwishlist:item=1161276682&perks=202670084,2420895100#notes: Fullbore/Extended
+dimwishlist:item=1161276682&perks=202670084,1087426260#notes: Fullbore/Appended  
+dimwishlist:item=1161276682&perks=202670084,1561002382#notes: Fullbore/High-Cal
+dimwishlist:item=1161276682&perks=3250034553,2420895100#notes: HammerForged/Extended
+dimwishlist:item=1161276682&perks=3250034553,1087426260#notes: HammerForged/Appended  
+dimwishlist:item=1161276682&perks=3250034553,1561002382#notes: HammerForged/High-Cal
+dimwishlist:item=1161276682&perks=1482024992,2420895100#notes: Smallbore/Extended
+dimwishlist:item=1161276682&perks=1482024992,1087426260#notes: Smallbore/Appended  
+dimwishlist:item=1161276682&perks=1482024992,1561002382#notes: Smallbore/High-Cal
 —————————————————————————
 Scout Rifles 
 —————————————————————————
