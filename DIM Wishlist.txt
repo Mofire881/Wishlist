@@ -2300,6 +2300,20 @@ dimwishlist:item=3233390913&perks=202670084,4134353779,3523296417,2848615171#not
 dimwishlist:item=3233390913&perks=202670084,2420895100,1631667848,4082225868#notes: Fullbore/Extended/GraveRobber/Swashbuckler
 dimwishlist:item=3233390913&perks=3250034553,3142289711,588594999,699525795#notes: (Krispi's Roll) HammerForged/Accurized/MovingTarget/EyeOfTheStorm
 —————————————————————————
+Eystein-D - 13 Rolls
+dimwishlist:item=3199662972&perks=3230963543,588594999,1015611457#notes: FlaredMag/MovingTarget/KillClip
+dimwishlist:item=3199662972&perks=679225683,588594999,1015611457#notes: LightMag/MovingTarget/KillClip 
+dimwishlist:item=3199662972&perks=1561002382,1168162263,3425386926#notes: Hi-Cal/Outlaw/Rampage
+dimwishlist:item=3199662972&perks=1561002382,1168162263,1015611457#notes: Hi-Cal/Outlaw/KillClip
+dimwishlist:item=3199662972&perks=2420895100,1168162263,3425386926#notes: Extended/Outlaw/Rampage
+dimwishlist:item=3199662972&perks=2420895100,1168162263,1015611457#notes: Extended/Outlaw/KillClip 
+dimwishlist:item=3199662972&perks=1087426260,1168162263,3425386926#notes: Appended/Outlaw/Rampage
+dimwishlist:item=3199662972&perks=1087426260,1168162263,1015611457#notes: Appended/Outlaw/KillClip 
+dimwishlist:item=3199662972&perks=1885400500,1168162263,3425386926#notes: Ricochet/Outlaw/Rampage
+dimwishlist:item=3199662972&perks=1885400500,1168162263,1015611457#notes: Ricochet/Outlaw/KillClip
+dimwishlist:item=3199662972&perks=1885400500,588594999,2387244414#notes: Ricochet/MovingTarget/ZenMoment
+dimwishlist:item=3199662972&perks=1885400500,588594999,1015611457#notes: Ricochet/MovingTarget/KillClip
+dimwishlist:item=3199662972&perks=1885400500,588594999,957782887#notes: Ricochet/MovingTarget/Snapshot
 —————————————————————————
 —————————————————————————
 Bows 
