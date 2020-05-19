@@ -362,7 +362,7 @@ dimwishlist:item=4211534763&perks=1926090095,4134353779,957782887,1015611457#not
 dimwishlist:item=4211534763&perks=1926090093,2420895100,1168162263,1015611457#notes:HitMark/ExtendedMag/Outlaw/KillClip
 dimwishlist:item=4211534763&perks=1926090090,2420895100,1168162263,1015611457#notes:Crossfire/ExtendedMag/Outlaw/KillClip 
 —————————————————————————
-Ten Paces - 60 Rolls
+Ten Paces - 66 Rolls
 dimwishlist:item=2112909415&perks=1926090094,3142289711,588594999,1954620775#notes:FastDraw/Accurized/MovingTarget/TimedPayload
 dimwishlist:item=2112909415&perks=1926090094,3142289711,588594999,2387244414#notes:FastDraw/Accurized/MovingTarget/ZenMoment
 dimwishlist:item=2112909415&perks=1926090094,3142289711,588594999,47981717#notes:FastDraw/Accurized/MovingTarget/OpeningShot
@@ -402,12 +402,18 @@ dimwishlist:item=2112909415&perks=1926090092,3177308360,3161816588,47981717#note
 dimwishlist:item=4211534763&perks=1926090093,3142289711,588594999,1954620775#notes:Hitmark/Accurized/MovingTarget/TimedPayload
 dimwishlist:item=2112909415&perks=1926090093,3142289711,588594999,2387244414#notes:Hitmark/Accurized/MovingTarget/ZenMoment
 dimwishlist:item=2112909415&perks=1926090093,3142289711,588594999,47981717#notes:Hitmark/Accurized/MovingTarget/OpeningShot
+dimwishlist:item=4211534763&perks=1926090093,3142289711,706527188,1954620775#notes:Hitmark/Accurized/Quickdraw/TimedPayload
+dimwishlist:item=2112909415&perks=1926090093,3142289711,706527188,2387244414#notes:Hitmark/Accurized/Quickdraw/ZenMoment
+dimwishlist:item=2112909415&perks=1926090093,3142289711,706527188,47981717#notes:Hitmark/Accurized/Quickdraw/OpeningShot
 dimwishlist:item=2112909415&perks=1926090093,3142289711,3161816588,1954620775#notes:Hitmark/Accurized/Slideshot/TimedPayload
 dimwishlist:item=2112909415&perks=1926090093,3142289711,3161816588,2387244414#notes:Hitmark/Accurized/Slideshot/ZenMoment
 dimwishlist:item=2112909415&perks=1926090093,3142289711,3161816588,47981717#notes:Hitmark/Accurized/Slideshot/OpeningShot
 dimwishlist:item=2112909415&perks=1926090093,3177308360,588594999,1954620775#notes:Hitmark/SteadyRounds/MovingTarget/TimedPayload
 dimwishlist:item=2112909415&perks=1926090093,3177308360,588594999,2387244414#notes:Hitmark/SteadyRounds/MovingTarget/ZenMoment
 dimwishlist:item=2112909415&perks=1926090093,3177308360,588594999,47981717#notes:Hitmark/SteadyRounds/MovingTarget/OpeningShot
+dimwishlist:item=2112909415&perks=1926090093,3177308360,706527188,1954620775#notes:Hitmark/SteadyRounds/Quickdraw/TimedPayload
+dimwishlist:item=2112909415&perks=1926090093,3177308360,706527188,2387244414#notes:Hitmark/SteadyRounds/Quickdraw/ZenMoment
+dimwishlist:item=2112909415&perks=1926090093,3177308360,706527188,47981717#notes:Hitmark/SteadyRounds/Quickdraw/OpeningShot
 dimwishlist:item=2112909415&perks=1926090093,3177308360,3161816588,1954620775#notes:Hitmark/SteadyRounds/Slideshot/TimedPayload
 dimwishlist:item=2112909415&perks=1926090093,3177308360,3161816588,2387244414#notes:Hitmark/SteadyRounds/Slideshot/ZenMoment
 dimwishlist:item=2112909415&perks=1926090093,3177308360,3161816588,47981717#notes:Hitmark/SteadyRounds/Slideshot/OpeningShot
