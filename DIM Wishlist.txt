@@ -2,21 +2,27 @@
 —————————————————————————
 title: Mo's God Roll Wish List
 —————————————————————————
+—————————————————————————
 Index:
 [1]: Auto Rifles
 [2]: Hand Cannons
 [3]: Submachine Guns
-[4]: Shotguns
-[5]: Sniper Rifles
-[6]: Pulse Rifles
-[7]: Bows
-[8]: Scout Rifles
-[9]: Grenade Launchers
-[10]: Rocket Launchers
-[11]: Linear Fusion Rifles
+[4]: Sidearms
+[5]: Shotguns
+[6]: Sniper Rifles
+[7]: Fusion Rifles
+[8]: Pulse Rifles
+[9]: Bows
+[10]: Scout Rifles
+[11]: Machine Guns
+[12]: Grenade Launchers
+[13]: Rocket Launchers
+[14]: Linear Fusion Rifles
+[15]: Universal Sword Rolls
+[16]: Universal Perk Synergies
 —————————————————————————
 —————————————————————————
-Auto Rifles 
+[1]: Auto Rifles 
 —————————————————————————
 Halfdan-D - 43 Rolls
 dimwishlist:item=1518042134&perks=2054312700,106909392,1359896290,1015611457#notes:SCHolo/TacMag/DynamSwayReduc/KillClip
@@ -162,7 +168,7 @@ dimwishlist:item=1839565992&perks=1452368633,3230963543,1631667848,3425386926#no
 dimwishlist:item=1839565992&perks=1452368633,679225683,2387244414,3425386926#notes: KingDot/LightMag/ZenMoment/Rampage
 dimwishlist:item=1839565992&perks=1452368633,679225683,1631667848,3425386926#notes: KingDot/LightMag/GraveRobber/Rampage
 —————————————————————————
-Misfit - X Rolls - 31 Rolls
+Misfit - 31 Rolls
 dimwishlist:item=819441402&perks=1288081797,1561002382,1781483875,2039302152#notes:KingSight/Hi-Cal/TapTheTrigger/Slideways 
 dimwishlist:item=819441402&perks=1288081797,1561002382,1781483875,588594999#notes:KingSight/Hi-Cal/TapTheTrigger/MovingTarget 
 dimwishlist:item=819441402&perks=1288081797,1561002382,2387244414,2039302152#notes:KingSight/Hi-Cal/ZenMoment/Slideways 
@@ -195,21 +201,6 @@ dimwishlist:item=819441402&perks=1452368632,1561002382,706527188,588594999#notes
 dimwishlist:item=819441402&perks=1452368632,1885400500,957782887,588594999#notes:WolfDot/Ricochet/Snapshot/MovingTarget 
 dimwishlist:item=819441402&perks=1452368632,1885400500,706527188,588594999#notes:WolfDot/Ricochet/Quickdraw/MovingTarget 
 —————————————————————————
-Hazard of the Cast 
-dimwishlist:item=178934724---9&perks= 
-—————————————————————————
-Misfit
-dimwishlist:item=81944140---2&perks=000,000#notes: 
-—————————————————————————
-The Ringing Nail 
-dimwishlist:item=158942690---3&perks=000,000#notes: 
-—————————————————————————
-Galliard-42 XN7568
-dimwishlist:item=177580419---8&perks=000,000#notes: 
-—————————————————————————
-Valakadyn
-dimwishlist:item=151804213---5&perks=000,000#notes: 
-—————————————————————————
 Age Old Bond - 10 Rolls
 dimwishlist:item=601592879&perks=2467967826,1885400500,1359896290,1015611457#notes: ChamberedComp/RicochetRnds/DynamSwayReduc/KC
 dimwishlist:item=601592879&perks=4090651448,1885400500,1359896290,1015611457#notes: CorkscrewRif/RicochetRnds/DynamSwayReduc/KC
@@ -221,15 +212,6 @@ dimwishlist:item=601592879&perks=2467967826,1885400500,1890422124,1015611457#not
 dimwishlist:item=601592879&perks=4090651448,1885400500,1890422124,1015611457#notes: CorkscrewRif/RicochetRnds/TapTheTrigger/KC
 dimwishlist:item=601592879&perks=1482024992,1885400500,1890422124,1015611457#notes: Smallbore/RicochetRnds/TaptheTrigger/KC
 dimwishlist:item=601592879&perks=3400784728,77836843#notes: Triple Tap/Dragon Fly
-—————————————————————————
-Gnawing Hunger
-dimwishlist:item=82115460---3&perks=000,000#notes: 
-—————————————————————————
-Arc Logic
-dimwishlist:item=272390951---9&perks=000,000#notes: 
-—————————————————————————
-Steelfeather Repeater
-dimwishlist:item=15930353---9&perks=000,000#notes: 
 —————————————————————————
 Uriel's Gift - 38 Rolls
 dimwishlist:item=3863882743&perks=1628165636,1561002382,706527188,1890422124#notes: TorchHS3/HighCal/Quickdraw/TapTheTrigger
@@ -271,17 +253,7 @@ dimwishlist:item=3863882743&perks=1628165637,1087426260,1359896290,588594999#not
 dimwishlist:item=3863882743&perks=1628165637,679225683,706527188,1015611457#notes: FlashHS5/LightMag/Quickdraw/KillClip
 dimwishlist:item=3863882743&perks=1628165637,679225683,1359896290,1015611457#notes: FlashHS5/LightMag/DynamicSway/KillClip
 —————————————————————————
-Nameless Midnight
-dimwishlist:item=304074268---2&perks=000,000#notes: 
-—————————————————————————
-TITLE
-dimwishlist:item=000&perks=000,000#notes: 
-—————————————————————————
-TITLE
-dimwishlist:item=000&perks=000,000#notes: 
-—————————————————————————
-—————————————————————————
-Hand Cannons 
+[2]: Hand Cannons 
 —————————————————————————
 The Old Fashioned - 53 Rolls
 dimwishlist:item=3569802112&perks=1926090093,3142289711,3161816588,957782887#notes:HitMark/Accurized/Slideshot/Snapshot
@@ -1093,8 +1065,7 @@ dimwishlist:item=834081972&perks=3142289711,2846385770,957782887#notes: Accurize
 dimwishlist:item=834081972&perks=3230963543,588594999,1015611457#notes: FlaredMag/MovingTarget/KillClip
 dimwishlist:item=834081972&perks=3230963543,2846385770,1015611457#notes: FlaredMag/Rangefinder/KillClip
 —————————————————————————
-—————————————————————————
-Submachine Guns
+[3]: Submachine Guns
 —————————————————————————
 Bad Reputation - 18 Rolls
 dimwishlist:item=2105827099&perks=1288081797,3230963543,2387244414,1015611457#notes: KingsightK1/FlaredMag/ZenMoment/KillCLip
@@ -1340,7 +1311,7 @@ dimwishlist:item=766323545&perks=4090651448,4134353779,1354429876,2848615171#not
 dimwishlist:item=766323545&perks=4090651448,3230963543,1354429876,1546637391#notes: Corkscrew/FlaredMag/FourthTime/Vorpal
 dimwishlist:item=766323545&perks=4090651448,3230963543,1354429876,2848615171#notes: Corkscrew/FlaredMag/FourthTime/Dragonfly
 —————————————————————————
-Sidearms 
+[4]: Sidearms 
 —————————————————————————
 Smuggler's Word - 70 Rolls
 dimwishlist:item=1843044399&perks=445755706,1561002382,1168162263,1015611457#notes:ControlSAS/High-Cal/Outlaw/KillClip 
@@ -1854,7 +1825,7 @@ dimwishlist:item=3937866388&perks=1482024992,3230963543,4071163871,3708227201#no
 —————————————————————————
 —————————————————————————
 —————————————————————————
-Shotguns
+[5]: Shotguns
 —————————————————————————
 Baligant XU7743 - 33 Rolls
 dimwishlist:item=3461377698&perks=1047830412,3142289711,3161816588,3458972548#notes: RifledBarrel/Accurized/Slideshot/Snapshot
@@ -2016,7 +1987,7 @@ dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,957782887#not
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391#notes: FullChoke/Accurized/Quickdraw/Vorpal
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,957782887#notes: FullChoke/Accurized/Quickdraw/Snapshot
 —————————————————————————
-Sniper Rifles
+[6]: Sniper Rifles
 —————————————————————————
 Tatara Gaze - 35 Rolls
 dimwishlist:item=1449922174&perks=839105230,106909392,706527188,1015611457#notes: Arrowhead/TacMag/Quickdraw/KillClip
@@ -2056,10 +2027,6 @@ dimwishlist:item=1449922174&perks=1840239774,3177308360,706527188,47981717#notes
 dimwishlist:item=1449922174&perks=1840239774,3177308360,957782887,1015611457#notes: Fluted/SteadyRounds/Snapshot/KillClip
 dimwishlist:item=1449922174&perks=1840239774,3177308360,957782887,47981717#notes: Fluted/SteadyRounds/Snapshot/OpeningShot
 —————————————————————————
-Fate Cries Foul - X Rolls
-—————————————————————————
-Sole Survivor - 
-—————————————————————————
 Dreaded Venture - 4 Rolls
 dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,3300816228#notes: Arrowhead/Extended/TripleTap/AutoLoading
 dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,247725512#notes: Arrowhead/Extended/TripleTap/RapidHit
@@ -2098,7 +2065,7 @@ dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,957782887#not
 dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,706527188#notes: ExtendedBarrel/Steady/LeadFromGold/Quickdraw
 dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,957782887#notes: ExtendedBarrel/Steady/LeadFromGold/Snapshot
 —————————————————————————
-Fusion Rifles
+[7]: Fusion Rifles
 —————————————————————————
 Timelines' Vertex - 26 Rolls
 dimwishlist:item=3055192515&perks=1687452232,1556840489,3523296417#notes: Liquid/LeadFromGold/Demolitionist
@@ -2133,7 +2100,7 @@ dimwishlist:item=3055192515&perks=2969185026,3300816228,1600092898#notes: Projec
 —————————————————————————
 —————————————————————————
 —————————————————————————
-Pulse Rifles
+[8]: Pulse Rifles
 —————————————————————————
 Blast Furnace - 78
 dimwishlist:item=3843477312&perks=1096957638,1087426260,1168162263,1015611457#notes: RasmussenISA/Appended/Outlaw/KillClip
@@ -2347,8 +2314,22 @@ dimwishlist:item=3199662972&perks=1885400500,588594999,2387244414#notes: Ricoche
 dimwishlist:item=3199662972&perks=1885400500,588594999,1015611457#notes: Ricochet/MovingTarget/KillClip
 dimwishlist:item=3199662972&perks=1885400500,588594999,957782887#notes: Ricochet/MovingTarget/Snapshot
 —————————————————————————
+Redrix's Broadsword - 13 Rolls
+dimwishlist:item=1161276682&perks=4090651448,2420895100#notes: Corkscrew/Extended
+dimwishlist:item=1161276682&perks=4090651448,1087426260#notes: Corkscrew/Appended  
+dimwishlist:item=1161276682&perks=4090651448,1561002382#notes: Corkscrew/High-Cal
+dimwishlist:item=1161276682&perks=1840239774,1885400500#notes: Fluted/Ricochet
+dimwishlist:item=1161276682&perks=202670084,2420895100#notes: Fullbore/Extended
+dimwishlist:item=1161276682&perks=202670084,1087426260#notes: Fullbore/Appended  
+dimwishlist:item=1161276682&perks=202670084,1561002382#notes: Fullbore/High-Cal
+dimwishlist:item=1161276682&perks=3250034553,2420895100#notes: HammerForged/Extended
+dimwishlist:item=1161276682&perks=3250034553,1087426260#notes: HammerForged/Appended  
+dimwishlist:item=1161276682&perks=3250034553,1561002382#notes: HammerForged/High-Cal
+dimwishlist:item=1161276682&perks=1482024992,2420895100#notes: Smallbore/Extended
+dimwishlist:item=1161276682&perks=1482024992,1087426260#notes: Smallbore/Appended  
+dimwishlist:item=1161276682&perks=1482024992,1561002382#notes: Smallbore/High-Cal
 —————————————————————————
-Bows 
+[9]: Bows 
 —————————————————————————
 The Spiteful Fang - 20 Rolls
 dimwishlist:item=421573768&perks=2801223209,3429800428,201365942,3365897133#notes: ElasticString/FiberGlass/ArchTempo/ExplosiveHead
@@ -2441,22 +2422,7 @@ dimwishlist:item=720351795&perks=2801223209,3827198035,706527188,3365897133#note
 dimwishlist:item=720351795&perks=2801223209,3827198035,706527188,201365942#notes: PolymerString/StraightFletch/Quickdraw/ArchTempo
 —————————————————————————
 —————————————————————————
-Redrix's Broadsword - 13 Rolls
-dimwishlist:item=1161276682&perks=4090651448,2420895100#notes: Corkscrew/Extended
-dimwishlist:item=1161276682&perks=4090651448,1087426260#notes: Corkscrew/Appended  
-dimwishlist:item=1161276682&perks=4090651448,1561002382#notes: Corkscrew/High-Cal
-dimwishlist:item=1161276682&perks=1840239774,1885400500#notes: Fluted/Ricochet
-dimwishlist:item=1161276682&perks=202670084,2420895100#notes: Fullbore/Extended
-dimwishlist:item=1161276682&perks=202670084,1087426260#notes: Fullbore/Appended  
-dimwishlist:item=1161276682&perks=202670084,1561002382#notes: Fullbore/High-Cal
-dimwishlist:item=1161276682&perks=3250034553,2420895100#notes: HammerForged/Extended
-dimwishlist:item=1161276682&perks=3250034553,1087426260#notes: HammerForged/Appended  
-dimwishlist:item=1161276682&perks=3250034553,1561002382#notes: HammerForged/High-Cal
-dimwishlist:item=1161276682&perks=1482024992,2420895100#notes: Smallbore/Extended
-dimwishlist:item=1161276682&perks=1482024992,1087426260#notes: Smallbore/Appended  
-dimwishlist:item=1161276682&perks=1482024992,1561002382#notes: Smallbore/High-Cal
-—————————————————————————
-Scout Rifles 
+[10]: Scout Rifles 
 —————————————————————————
 Patron of Lost Causes - 1 Roll
 dimwishlist:item=2723241847&perks=839105230,3142289711,247725512,3038247973#notes: ArrowheadBrake/Accurized/RapidHit/ExplosivePayload
@@ -2663,7 +2629,7 @@ dimwishlist:item=2278995296&perks=2405638014,4134353779,3400784728,3425386926#no
 dimwishlist:item=2278995296&perks=2405638014,4134353779,2387244414,1015611457#notes: RedDotMicro/DropMag/ZenMoment/KillClip
 dimwishlist:item=2278995296&perks=2405638014,4134353779,588594999,1015611457#notes: RedDotMicro/DropMag/MovingTarget/KillClip
 —————————————————————————
-Machine Guns
+[11]: Machine Guns
 —————————————————————————
 Seventh Seraph SAW - 84 Rolls
 dimwishlist:item=2582755344&perks=839105230,1087426260,3300816228,1546637391#notes: Arrowhead/Appended/AutoLoading/Vorpal
@@ -2755,7 +2721,7 @@ dimwishlist:item=2582755344&perks=4090651448,2420895100,2869569095,1771339417#no
 —————————————————————————
 —————————————————————————
 —————————————————————————
-Grenade Launchers
+[12]: Grenade Launchers
 —————————————————————————
 Edge Transit - 11 Rolls
 dimwishlist:item=218335759&perks=1478423395,409831596,4071163871,706527188#notes:Volatile/Proximity/ThreatDetector/Quickdraw
@@ -2804,9 +2770,8 @@ dimwishlist:item=3745974521&perks=981914802,1716000303,706527188,3300816228#note
 dimwishlist:item=3745974521&perks=981914802,3301904089,706527188,3300816228#notes: HardLaunch/Spike/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=981914802,3032599245,706527188,3300816228#notes: HardLaunch/Blinding/Quickdraw/AutoLoading 
 —————————————————————————
-
 —————————————————————————
-Rocket Launchers 
+[13]: Rocket Launchers 
 —————————————————————————
 Mos Epoch III - 16 Rolls
 dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1275731761#notes:QuickLaunch/AlloyCasing/Tracking/ClusterBomb
@@ -2898,7 +2863,7 @@ dimwishlist:item=3740842661&perks=3525010810,3796465595,3300816228,1275731761#no
 dimwishlist:item=3740842661&perks=3525010810,3796465595,2869569095,1275731761#notes:QuickLaunch/ImpactCasing/FieldPrep/ClusterBomb
 dimwishlist:item=3740842661&perks=981914802,3796465595,3300816228,706527188#notes:HardLaunch/ImpactCasing/Autoloading/Quickdraw
 —————————————————————————
-Linear Fusion Rifles
+[14]: Linear Fusion Rifles
 —————————————————————————
 Crooked Fang 4fr - 60 Rolls
 —————————————————————————
@@ -2973,7 +2938,7 @@ dimwishlist:item=946443267&perks=2969185026,588594999,1600092898#notes: Projecti
 —————————————————————————
 —————————————————————————
 —————————————————————————
-Sword Perk Rolls
+[15]: Universal Sword Rolls
 dimwishlist:item=-69420&perks=2349202967,2590710093,1685431615#notes: HeavyGuard/Tireless/EnGarde
 dimwishlist:item=-69420&perks=2349202967,2590710093,354401740#notes: HeavyGuard/Tireless/Assassin
 dimwishlist:item=-69420&perks=2349202967,2590710093,3708227201#notes: HeavyGuard/Tireless/Surrounded
@@ -2992,8 +2957,7 @@ dimwishlist:item=-69420&perks=2590710093,3708227201#notes: Tireless/Surrounded
 dimwishlist:item=-69420&perks=1749209109,3913600130#notes: Relentless/Whirlwind
 dimwishlist:item=-69420&perks=3708227201,354401740#notes: Surrounded/Assassin
 —————————————————————————
-
-Universal Perk Synergies
+[16]: Universal Perk Synergies
 —————————————————————————
 dimwishlist:item=-69420&perks=1168162263,1015611457#notes: Outlaw/KillClip
 dimwishlist:item=-69420&perks=1168162263,3425386926#notes: Outlaw/Rampage
@@ -3010,7 +2974,7 @@ dimwishlist:item=-69420&perks=247725512,3400784728#notes: RapidHit/TripleTap
 --
 dimwishlist:item=-69420&perks=706527188,3300816228#notes: Quickdraw/AutoLoading
 dimwishlist:item=-69420&perks=3458972548,588594999#notes: Snapshot/MovingTarget
-dimwishlist:item=-69420&perks=1890422124,4267945040#notes: TapTheTrigger/Full Auto
+dimwishlist:item=-69420&perks=1890422124,4267945040#notes: TapTheTrigger/FullAuto
 dimwishlist:item=-69420&perks=1631667848,4082225868#notes: GraveRobber/Swashbuckler
 —————————————————————————
 —————————————————————————
