@@ -37,6 +37,7 @@ DIM Wishlist Perk Codes:
 1628165636 TorchHS3
 1628165637 FlashHS5
 ---
+981914802 HardLaunch
 3525010810 QuickLaunch
 1478423395 Volatile
 ---
@@ -66,6 +67,8 @@ DIM Wishlist Perk Codes:
 1087426260 Appended
 791862061 AssaultMag
 1771897777 Augmented
+3032599245 Blinding
+1716000303 Concussion
 4134353779 DropMag
 2420895100 Extended
 3230963543 FlaredMag

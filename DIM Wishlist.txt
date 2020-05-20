@@ -270,9 +270,6 @@ dimwishlist:item=3863882743&perks=1628165637,3230963543,1359896290,1015611457#no
 dimwishlist:item=3863882743&perks=1628165637,1087426260,1359896290,588594999#notes: FlashHS5/AppendedMag/TripleTap/TapTheTrigger
 dimwishlist:item=3863882743&perks=1628165637,679225683,706527188,1015611457#notes: FlashHS5/LightMag/Quickdraw/KillClip
 dimwishlist:item=3863882743&perks=1628165637,679225683,1359896290,1015611457#notes: FlashHS5/LightMag/DynamicSway/KillClip
-
-
-
 —————————————————————————
 Nameless Midnight
 dimwishlist:item=304074268---2&perks=000,000#notes: 
@@ -283,8 +280,6 @@ dimwishlist:item=000&perks=000,000#notes:
 TITLE
 dimwishlist:item=000&perks=000,000#notes: 
 —————————————————————————
-The Militia's Birthright
-dimwishlist:item=3745974521&perks=409831596,706527188,3300816228#notes: PvP Roll
 —————————————————————————
 Hand Cannons 
 —————————————————————————
@@ -2763,6 +2758,22 @@ dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,3523296417#no
 dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,4082225868#notes: QuickLaunch/Augmented/FieldPrep/Swashbuckler
 dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,2888557110#notes: QuickLaunch/Augmented/FieldPrep/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,1771897777,1631667848,4082225868#notes: QuickLaunch/Augmented/GraveRobber/Swashbuckler
+—————————————————————————
+Militia's Birthright
+dimwishlist:item=3745974521&perks=3525010810,1716000303,2010801679,3300816228#notes: QuickLaunch/Concussion/Ambitious/AutoLoading 
+dimwishlist:item=3745974521&perks=3525010810,3301904089,2010801679,3300816228#notes: QuickLaunch/Spike/Ambitious/AutoLoading
+dimwishlist:item=3745974521&perks=3525010810,3032599245,2010801679,3300816228#notes: QuickLaunch/Blinding/Ambitious/AutoLoading
+dimwishlist:item=3745974521&perks=3525010810,409831596,706527188,3300816228#notes: Volatile/Proximity/Quickdraw/AutoLoading
+dimwishlist:item=3745974521&perks=3525010810,409831596,2010801679,3300816228#notes: Volatile/Proximity/Ambitious/AutoLoading
+dimwishlist:item=3745974521&perks=3525010810,1716000303,706527188,3300816228#notes: Volatile/Concussion/Quickdraw/AutoLoading 
+dimwishlist:item=3745974521&perks=3525010810,1716000303,2010801679,3300816228#notes: Volatile/Concussion/Ambitious/AutoLoading 
+dimwishlist:item=3745974521&perks=3525010810,3032599245,706527188,3300816228#notes: Volatile/Blinding/Quickdraw/AutoLoading
+dimwishlist:item=3745974521&perks=3525010810,3032599245,2010801679,3300816228#notes: Volatile/Blinding/Ambitious/AutoLoading
+dimwishlist:item=3745974521&perks=981914802,1716000303,706527188,3300816228#notes: HardLaunch/Concussion/Quickdraw/AutoLoading
+dimwishlist:item=3745974521&perks=981914802,3301904089,706527188,3300816228#notes: HardLaunch/Spike/Quickdraw/AutoLoading
+dimwishlist:item=3745974521&perks=981914802,3032599245,706527188,3300816228#notes: HardLaunch/Blinding/Quickdraw/AutoLoading 
+—————————————————————————
+
 —————————————————————————
 Rocket Launchers 
 —————————————————————————
