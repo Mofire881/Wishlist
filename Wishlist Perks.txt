@@ -84,6 +84,7 @@ DIM Wishlist Perk Codes:
 3300816228 AutoLoading
 1600092898 BackupPlan
 2551157718 BoxBreathing
+2284787283 Clown
 3523296417 Demolitionist
 1683379515 Disruption
 1359896290 DynamicSway

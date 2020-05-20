@@ -2066,6 +2066,37 @@ dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,247725512#note
 dimwishlist:item=3100452337&perks=1840239774,2420895100,3400784728,3300816228#notes: Fluted/Extended/TripleTap/AutoLoading
 dimwishlist:item=3100452337&perks=1840239774,2420895100,3400784728,247725512#notes: Fluted/Extended/TripleTap/RapidHit
 —————————————————————————
+Distant Tumulus - 30 Rolls
+dimwishlist:item=2807687156&perks=1840239774,106909392,1556840489,47981717#notes: Fluted/TacMag/LeadFromGold/OpeningShot
+dimwishlist:item=2807687156&perks=1840239774,3142289711,1556840489,47981717#notes: Fluted/Accurized/LeadFromGold/OpeningShot 
+dimwishlist:item=2807687156&perks=1840239774,3177308360,1556840489,47981717#notes: Fluted/Steady/LeadFromGold/OpeningShot
+dimwishlist:item=2807687156&perks=839105230,106909392,2848615171,1168162263#notes: Arrowhead/TacMag/Dragonfly/Outlaw
+dimwishlist:item=2807687156&perks=839105230,106909392,2284787283,1771339417#notes: Arrowhead/TacMag/Clown/FiringLine
+dimwishlist:item=2807687156&perks=839105230,106909392,1556840489,1771339417#notes: Arrowhead/TacMag/LeadFromGold/FiringLine
+dimwishlist:item=2807687156&perks=839105230,106909392,1556840489,706527188#notes: Arrowhead/TacMag/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=839105230,106909392,1556840489,957782887#notes: Arrowhead/TacMag/LeadFromGold/Snapshot
+dimwishlist:item=2807687156&perks=839105230,106909392,1556840489,47981717#notes: Arrowhead/TacMag/LeadFromGold/OpeningShot 
+dimwishlist:item=2807687156&perks=839105230,3142289711,1556840489,706527188#notes: Arrowhead/Accurized/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=839105230,3142289711,1556840489,957782887#notes: Arrowhead/Accurized/LeadFromGold/Snapshot
+dimwishlist:item=2807687156&perks=839105230,3142289711,1556840489,47981717#notes: Arrowhead/Accurized/LeadFromGold/OpeningShot
+dimwishlist:item=2807687156&perks=839105230,3142289711,1556840489,706527188#notes: Arrowhead/Steady/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=839105230,3142289711,1556840489,957782887#notes: Arrowhead/Steady/LeadFromGold/Snapshot
+dimwishlist:item=2807687156&perks=839105230,3142289711,1556840489,47981717#notes: Arrowhead/Steady/LeadFromGold/OpeningShot  
+dimwishlist:item=2807687156&perks=3661387068,106909392,2848615171,1168162263#notes: Chambered/TacMag/Dragonfly/Outlaw
+dimwishlist:item=2807687156&perks=3661387068,106909392,2284787283,1771339417#notes: Chambered/TacMag/Clown/FiringLine
+dimwishlist:item=2807687156&perks=3661387068,106909392,1556840489,1771339417#notes: Chambered/TacMag/LeadFromGold/FiringLine
+dimwishlist:item=2807687156&perks=3661387068,106909392,1556840489,706527188#notes: Chambered/TacMag/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=3661387068,106909392,1556840489,957782887#notes: Chambered/TacMag/LeadFromGold/Snapshot
+dimwishlist:item=2807687156&perks=3661387068,3142289711,1556840489,706527188#notes: Chambered/Accurized/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=3661387068,3142289711,1556840489,957782887#notes: Chambered/Accurized/LeadFromGold/Snapshot
+dimwishlist:item=2807687156&perks=3661387068,3142289711,1556840489,706527188#notes: Chambered/Steady/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=3661387068,3142289711,1556840489,957782887#notes: Chambered/Steady/LeadFromGold/Snapshot
+dimwishlist:item=2807687156&perks=1467527085,106909392,1556840489,706527188#notes: ExtendedBarrel/TacMag/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=1467527085,106909392,1556840489,957782887#notes: ExtendedBarrel/TacMag/LeadFromGold/Snapshot
+dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,706527188#notes: ExtendedBarrel/Accurized/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,957782887#notes: ExtendedBarrel/Accurized/LeadFromGold/Snapshot
+dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,706527188#notes: ExtendedBarrel/Steady/LeadFromGold/Quickdraw
+dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,957782887#notes: ExtendedBarrel/Steady/LeadFromGold/Snapshot
 —————————————————————————
 Fusion Rifles
 —————————————————————————
@@ -2759,18 +2790,16 @@ dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,4082225868#no
 dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,2888557110#notes: QuickLaunch/Augmented/FieldPrep/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,1771897777,1631667848,4082225868#notes: QuickLaunch/Augmented/GraveRobber/Swashbuckler
 —————————————————————————
-Militia's Birthright
+Militia's Birthright - 12 Rolls
 dimwishlist:item=3745974521&perks=3525010810,1716000303,2010801679,3300816228#notes: QuickLaunch/Concussion/Ambitious/AutoLoading 
 dimwishlist:item=3745974521&perks=3525010810,3301904089,2010801679,3300816228#notes: QuickLaunch/Spike/Ambitious/AutoLoading
 dimwishlist:item=3745974521&perks=3525010810,3032599245,2010801679,3300816228#notes: QuickLaunch/Blinding/Ambitious/AutoLoading
-
 dimwishlist:item=3745974521&perks=1478423395,409831596,706527188,3300816228#notes: Volatile/Proximity/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=1478423395,409831596,2010801679,3300816228#notes: Volatile/Proximity/Ambitious/AutoLoading
 dimwishlist:item=3745974521&perks=1478423395,1716000303,706527188,3300816228#notes: Volatile/Concussion/Quickdraw/AutoLoading 
 dimwishlist:item=3745974521&perks=1478423395,1716000303,2010801679,3300816228#notes: Volatile/Concussion/Ambitious/AutoLoading 
 dimwishlist:item=3745974521&perks=1478423395,3032599245,706527188,3300816228#notes: Volatile/Blinding/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=1478423395,3032599245,2010801679,3300816228#notes: Volatile/Blinding/Ambitious/AutoLoading
-
 dimwishlist:item=3745974521&perks=981914802,1716000303,706527188,3300816228#notes: HardLaunch/Concussion/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=981914802,3301904089,706527188,3300816228#notes: HardLaunch/Spike/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=981914802,3032599245,706527188,3300816228#notes: HardLaunch/Blinding/Quickdraw/AutoLoading 
