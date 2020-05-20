@@ -2763,12 +2763,14 @@ Militia's Birthright
 dimwishlist:item=3745974521&perks=3525010810,1716000303,2010801679,3300816228#notes: QuickLaunch/Concussion/Ambitious/AutoLoading 
 dimwishlist:item=3745974521&perks=3525010810,3301904089,2010801679,3300816228#notes: QuickLaunch/Spike/Ambitious/AutoLoading
 dimwishlist:item=3745974521&perks=3525010810,3032599245,2010801679,3300816228#notes: QuickLaunch/Blinding/Ambitious/AutoLoading
+
 dimwishlist:item=3745974521&perks=1478423395,409831596,706527188,3300816228#notes: Volatile/Proximity/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=1478423395,409831596,2010801679,3300816228#notes: Volatile/Proximity/Ambitious/AutoLoading
 dimwishlist:item=3745974521&perks=1478423395,1716000303,706527188,3300816228#notes: Volatile/Concussion/Quickdraw/AutoLoading 
 dimwishlist:item=3745974521&perks=1478423395,1716000303,2010801679,3300816228#notes: Volatile/Concussion/Ambitious/AutoLoading 
 dimwishlist:item=3745974521&perks=1478423395,3032599245,706527188,3300816228#notes: Volatile/Blinding/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=1478423395,3032599245,2010801679,3300816228#notes: Volatile/Blinding/Ambitious/AutoLoading
+
 dimwishlist:item=3745974521&perks=981914802,1716000303,706527188,3300816228#notes: HardLaunch/Concussion/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=981914802,3301904089,706527188,3300816228#notes: HardLaunch/Spike/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=981914802,3032599245,706527188,3300816228#notes: HardLaunch/Blinding/Quickdraw/AutoLoading 
