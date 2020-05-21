@@ -1065,6 +1065,120 @@ dimwishlist:item=834081972&perks=3142289711,2846385770,957782887#notes: Accurize
 dimwishlist:item=834081972&perks=3230963543,588594999,1015611457#notes: FlaredMag/MovingTarget/KillClip
 dimwishlist:item=834081972&perks=3230963543,2846385770,1015611457#notes: FlaredMag/Rangefinder/KillClip
 —————————————————————————
+Kindled Orchid - 111 Rolls
+dimwishlist:item=2575506895&perks=3250034553,3142289711,1015611457,247725512#notes:HammerForged/Accurized/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=3250034553,3142289711,1015611457,3038247973#notes:HammerForged/Accurized/KillClip/Explosive
+dimwishlist:item=2575506895&perks=3250034553,3142289711,2846385770,247725512#notes:HammerForged/Accurized/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=3250034553,3142289711,2846385770,3038247973#notes:HammerForged/Accurized/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=3250034553,3142289711,706527188,247725512#notes:HammerForged/Accurized/Quickdraw/RapidHit 
+dimwishlist:item=2575506895&perks=3250034553,3142289711,706527188,3038247973#notes:HammerForged/Accurized/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=3250034553,1087426260,1168162263,3425386926#notes:HammerForged/Appended/Outlaw/Rampage
+dimwishlist:item=2575506895&perks=3250034553,1087426260,1015611457,247725512#notes:HammerForged/Appended/KillClip/RapidHit
+dimwishlist:item=2575506895&perks=3250034553,106909392,1015611457,3425386926#notes:HammerForged/TacMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=3250034553,106909392,1015611457,3038247973#notes:HammerForged/TacMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=3250034553,106909392,2846385770,3038247973#notes:HammerForged/TacMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=3250034553,106909392,706527188,3038247973#notes:HammerForged/TacMag/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1015611457,3425386926#notes:HammerForged/FlaredMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1015611457,3038247973#notes:HammerForged/FlaredMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=3250034553,3230963543,2846385770,3038247973#notes:HammerForged/FlaredMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=3250034553,3230963543,706527188,3038247973#notes:HammerForged/FlaredMag/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=3250034553,4134353779,1015611457,3425386926#notes:HammerForged/DropMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=3250034553,4134353779,1015611457,3038247973#notes:HammerForged/DropMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=3250034553,2420895100,1168162263,3425386926#notes:HammerForged/Extended/Outlaw/Rampage
+dimwishlist:item=2575506895&perks=3250034553,2420895100,1015611457,247725512#notes:HammerForged/Extended/KillClip/RapidHit
+dimwishlist:item=2575506895&perks=3250034553,3177308360,1015611457,247725512#notes:HammerForged/Steady/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=3250034553,3177308360,1015611457,3038247973#notes:HammerForged/Steady/KillClip/Explosive
+dimwishlist:item=2575506895&perks=3250034553,3177308360,2846385770,247725512#notes:HammerForged/Steady/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=3250034553,3177308360,2846385770,3038247973#notes:HammerForged/Steady/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=3250034553,3177308360,706527188,247725512#notes:HammerForged/Steady/Quickdraw/RapidHit 
+dimwishlist:item=2575506895&perks=3250034553,3177308360,706527188,3038247973#notes:HammerForged/Steady/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=1482024992,3142289711,1015611457,247725512#notes:Smallbore/Accurized/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=1482024992,3142289711,1015611457,3038247973#notes:Smallbore/Accurized/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1482024992,3142289711,2846385770,247725512#notes:Smallbore/Accurized/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=1482024992,3142289711,2846385770,3038247973#notes:Smallbore/Accurized/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1482024992,3142289711,706527188,247725512#notes:Smallbore/Accurized/Quickdraw/RapidHit 
+dimwishlist:item=2575506895&perks=1482024992,3142289711,706527188,3038247973#notes:Smallbore/Accurized/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=1482024992,1087426260,1168162263,3425386926#notes:Smallbore/Appended/Outlaw/Rampage
+dimwishlist:item=2575506895&perks=1482024992,1087426260,1015611457,247725512#notes:Smallbore/Appended/KillClip/RapidHit
+dimwishlist:item=2575506895&perks=1482024992,106909392,1015611457,3425386926#notes:Smallbore/TacMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=1482024992,106909392,1015611457,3038247973#notes:Smallbore/TacMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1482024992,106909392,2846385770,3038247973#notes:Smallbore/TacMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1482024992,106909392,706527188,3038247973#notes:Smallbore/TacMag/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=1482024992,3230963543,1015611457,3425386926#notes:Smallbore/FlaredMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=1482024992,3230963543,1015611457,3038247973#notes:Smallbore/FlaredMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1482024992,3230963543,2846385770,3038247973#notes:Smallbore/FlaredMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1482024992,3230963543,706527188,3038247973#notes:Smallbore/FlaredMag/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=1482024992,4134353779,1015611457,3425386926#notes:Smallbore/DropMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=1482024992,4134353779,1015611457,3038247973#notes:Smallbore/DropMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1482024992,2420895100,1168162263,3425386926#notes:Smallbore/Extended/Outlaw/Rampage
+dimwishlist:item=2575506895&perks=1482024992,2420895100,1015611457,247725512#notes:Smallbore/Extended/KillClip/RapidHit
+dimwishlist:item=2575506895&perks=1482024992,3177308360,1015611457,247725512#notes:Smallbore/Steady/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=1482024992,3177308360,1015611457,3038247973#notes:Smallbore/Steady/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1482024992,3177308360,2846385770,247725512#notes:Smallbore/Steady/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=1482024992,3177308360,2846385770,3038247973#notes:Smallbore/Steady/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1482024992,3177308360,706527188,247725512#notes:Smallbore/Steady/Quickdraw/RapidHit 
+dimwishlist:item=2575506895&perks=1482024992,3177308360,706527188,3038247973#notes:Smallbore/Steady/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=4090651448,3142289711,1015611457,247725512#notes:Corkscrew/Accurized/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=4090651448,3142289711,1015611457,3038247973#notes:Corkscrew/Accurized/KillClip/Explosive
+dimwishlist:item=2575506895&perks=4090651448,3142289711,2846385770,247725512#notes:Corkscrew/Accurized/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=4090651448,3142289711,2846385770,3038247973#notes:Corkscrew/Accurized/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=4090651448,1087426260,1168162263,3425386926#notes:Corkscrew/Appended/Outlaw/Rampage
+dimwishlist:item=2575506895&perks=4090651448,1087426260,1015611457,247725512#notes:Corkscrew/Appended/KillClip/RapidHit
+dimwishlist:item=2575506895&perks=4090651448,106909392,1015611457,3425386926#notes:Corkscrew/TacMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=4090651448,106909392,1015611457,3038247973#notes:Corkscrew/TacMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=4090651448,106909392,2846385770,3038247973#notes:Corkscrew/TacMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=4090651448,3230963543,1015611457,3425386926#notes:Corkscrew/FlaredMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=4090651448,3230963543,1015611457,3038247973#notes:Corkscrew/FlaredMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=4090651448,3230963543,2846385770,3038247973#notes:Corkscrew/FlaredMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=4090651448,4134353779,1015611457,3425386926#notes:Corkscrew/DropMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=4090651448,4134353779,1015611457,3038247973#notes:Corkscrew/DropMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=4090651448,2420895100,1168162263,3425386926#notes:Corkscrew/Extended/Outlaw/Rampage
+dimwishlist:item=2575506895&perks=4090651448,2420895100,1015611457,247725512#notes:Corkscrew/Extended/KillClip/RapidHit
+dimwishlist:item=2575506895&perks=4090651448,3177308360,1015611457,247725512#notes:Corkscrew/Steady/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=4090651448,3177308360,1015611457,3038247973#notes:Corkscrew/Steady/KillClip/Explosive
+dimwishlist:item=2575506895&perks=4090651448,3177308360,2846385770,247725512#notes:Corkscrew/Steady/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=4090651448,3177308360,2846385770,3038247973#notes:Corkscrew/Steady/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1840239774,3142289711,1015611457,247725512#notes:Fluted/Accurized/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=1840239774,3142289711,1015611457,3038247973#notes:Fluted/Accurized/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1840239774,3142289711,2846385770,247725512#notes:Fluted/Accurized/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=1840239774,3142289711,2846385770,3038247973#notes:Fluted/Accurized/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1840239774,106909392,1015611457,3038247973#notes:Fluted/TacMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1840239774,106909392,2846385770,3038247973#notes:Fluted/TacMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1840239774,3230963543,1015611457,3038247973#notes:Fluted/FlaredMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1840239774,3230963543,2846385770,3038247973#notes:Fluted/FlaredMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1840239774,4134353779,1015611457,3038247973#notes:Fluted/DropMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1840239774,3177308360,1015611457,247725512#notes:Fluted/Steady/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=1840239774,3177308360,1015611457,3038247973#notes:Fluted/Steady/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1840239774,3177308360,2846385770,247725512#notes:Fluted/Steady/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=1840239774,3177308360,2846385770,3038247973#notes:Fluted/Steady/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1392496348,3142289711,1015611457,247725512#notes:Polygonal/Accurized/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=1392496348,3142289711,1015611457,3038247973#notes:Polygonal/Accurized/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1392496348,3142289711,2846385770,247725512#notes:Polygonal/Accurized/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=1392496348,3142289711,2846385770,3038247973#notes:Polygonal/Accurized/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1392496348,3142289711,706527188,247725512#notes:Polygonal/Accurized/Quickdraw/RapidHit 
+dimwishlist:item=2575506895&perks=1392496348,3142289711,706527188,3038247973#notes:Polygonal/Accurized/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=1392496348,1087426260,1168162263,3425386926#notes:Polygonal/Appended/Outlaw/Rampage
+dimwishlist:item=2575506895&perks=1392496348,1087426260,1015611457,247725512#notes:Polygonal/Appended/KillClip/RapidHit
+dimwishlist:item=2575506895&perks=1392496348,106909392,1015611457,3425386926#notes:Polygonal/TacMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=1392496348,106909392,1015611457,3038247973#notes:Polygonal/TacMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1392496348,106909392,2846385770,3038247973#notes:Polygonal/TacMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1392496348,106909392,706527188,3038247973#notes:Polygonal/TacMag/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=1392496348,3230963543,1015611457,3425386926#notes:Polygonal/FlaredMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=1392496348,3230963543,1015611457,3038247973#notes:Polygonal/FlaredMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1392496348,3230963543,2846385770,3038247973#notes:Polygonal/FlaredMag/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1392496348,3230963543,706527188,3038247973#notes:Polygonal/FlaredMag/Quickdraw/Explosive 
+dimwishlist:item=2575506895&perks=1392496348,4134353779,1015611457,3425386926#notes:Polygonal/DropMag/KillClip/Rampage
+dimwishlist:item=2575506895&perks=1392496348,4134353779,1015611457,3038247973#notes:Polygonal/DropMag/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1392496348,2420895100,1168162263,3425386926#notes:Polygonal/Extended/Outlaw/Rampage
+dimwishlist:item=2575506895&perks=1392496348,2420895100,1015611457,247725512#notes:Polygonal/Extended/KillClip/RapidHit
+dimwishlist:item=2575506895&perks=1392496348,3177308360,1015611457,247725512#notes:Polygonal/Steady/KillClip/RapidHit 
+dimwishlist:item=2575506895&perks=1392496348,3177308360,1015611457,3038247973#notes:Polygonal/Steady/KillClip/Explosive
+dimwishlist:item=2575506895&perks=1392496348,3177308360,2846385770,247725512#notes:Polygonal/Steady/Rangefinder/RapidHit 
+dimwishlist:item=2575506895&perks=1392496348,3177308360,2846385770,3038247973#notes:Polygonal/Steady/Rangefinder/Explosive 
+dimwishlist:item=2575506895&perks=1392496348,3177308360,706527188,247725512#notes:Polygonal/Steady/Quickdraw/RapidHit 
+dimwishlist:item=2575506895&perks=1392496348,3177308360,706527188,3038247973#notes:Polygonal/Steady/Quickdraw/Explosive 
+—————————————————————————
+—————————————————————————
 [3]: Submachine Guns
 —————————————————————————
 Bad Reputation - 18 Rolls
@@ -2736,23 +2850,28 @@ dimwishlist:item=218335759&perks=3525010810,1771897777,4071163871,3096702027#not
 dimwishlist:item=218335759&perks=3525010810,1771897777,3300816228,706527188#notes:QuickLaunch/Augmented/AutoLoading/Quickdraw
 dimwishlist:item=218335759&perks=3525010810,1771897777,3300816228,3096702027#notes:QuickLaunch/Augmented/AutoLoading/Genesis
 —————————————————————————
-Interference VI - 18 Rolls
-dimwishlist:item=2257180473&perks=1478423395,409831596,3523296417#notes: Volatile/Poximity/Demolitionist
+Interference VI - 23 Rolls
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417#notes: HardLaunch/Spike/AutoLoading/Demolitionist
 dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,3523296417#notes: QuickLaunch/Spike/AutoLoading/Demolitionist
-dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,4082225868#notes: QuickLaunch/Spike/AutoLoading/Swashbuckler
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110#notes: HardLaunch/Spike/AutoLoading/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110#notes: QuickLaunch/Spike/AutoLoading/FullCourt
+dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,3523296417#notes: HardLaunch/Spike/FieldPrep/Demolitionist
 dimwishlist:item=2257180473&perks=3525010810,3301904089,2869569095,3523296417#notes: QuickLaunch/Spike/FieldPrep/Demolitionist
-dimwishlist:item=2257180473&perks=3525010810,3301904089,2869569095,4082225868#notes: QuickLaunch/Spike/FieldPrep/Swashbuckler
+dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110#notes: HardLaunch/Spike/FieldPrep/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,3301904089,2869569095,2888557110#notes: QuickLaunch/Spike/FieldPrep/FullCourt
+dimwishlist:item=2257180473&perks=981914802,3301904089,1631667848,4082225868#notes: HardLaunch/Spike/GraveRobber/Swashbuckler
 dimwishlist:item=2257180473&perks=3525010810,3301904089,1631667848,4082225868#notes: QuickLaunch/Spike/GraveRobber/Swashbuckler
 dimwishlist:item=2257180473&perks=3525010810,2985827016,2869569095,3523296417#notes: QuickLaunch/AlloyCasing/FieldPrep/Demolitionist
-dimwishlist:item=2257180473&perks=3525010810,2985827016,2869569095,4082225868#notes: QuickLaunch/AlloyCasing/FieldPrep/Swashbuckler
+dimwishlist:item=2257180473&perks=981914802,2985827016,2869569095,2888557110#notes: HardLaunch/AlloyCasing/FieldPrep/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,2985827016,2869569095,2888557110#notes: QuickLaunch/AlloyCasing/FieldPrep/FullCourt
+dimwishlist:item=2257180473&perks=3525010810,2985827016,2284787283,3523296417#notes: QuickLaunch/AlloyCasing/Clown/Demolitionist
+dimwishlist:item=2257180473&perks=981914802,2985827016,2284787283,2888557110#notes: HardLaunch/AlloyCasing/Clown/FullCourt
+dimwishlist:item=2257180473&perks=3525010810,2985827016,2284787283,2888557110#notes: QuickLaunch/AlloyCasing/Clown/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,1771897777,3300816228,3523296417#notes: QuickLaunch/Augmented/AutoLoading/Demolitionist
-dimwishlist:item=2257180473&perks=3525010810,1771897777,3300816228,4082225868#notes: QuickLaunch/Augmented/AutoLoading/Swashbuckler
+dimwishlist:item=2257180473&perks=981914802,1771897777,3300816228,2888557110#notes: HardLaunch/Augmented/AutoLoading/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,1771897777,3300816228,2888557110#notes: QuickLaunch/Augmented/AutoLoading/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,3523296417#notes: QuickLaunch/Augmented/FieldPrep/Demolitionist
-dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,4082225868#notes: QuickLaunch/Augmented/FieldPrep/Swashbuckler
+dimwishlist:item=2257180473&perks=981914802,1771897777,2869569095,2888557110#notes: HardLaunch/Augmented/FieldPrep/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,2888557110#notes: QuickLaunch/Augmented/FieldPrep/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,1771897777,1631667848,4082225868#notes: QuickLaunch/Augmented/GraveRobber/Swashbuckler
 —————————————————————————
