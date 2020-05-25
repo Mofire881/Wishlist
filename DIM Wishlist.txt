@@ -169,31 +169,31 @@ dimwishlist:item=1839565992&perks=1452368633,679225683,2387244414,3425386926#not
 dimwishlist:item=1839565992&perks=1452368633,679225683,1631667848,3425386926#notes: KingDot/LightMag/GraveRobber/Rampage
 —————————————————————————
 Misfit - 31 Rolls
-dimwishlist:item=819441402&perks=1288081797,1561002382,1781483875,2039302152#notes:KingSight/Hi-Cal/TapTheTrigger/Slideways 
-dimwishlist:item=819441402&perks=1288081797,1561002382,1781483875,588594999#notes:KingSight/Hi-Cal/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081797,1561002382,1890422124,2039302152#notes:KingSight/Hi-Cal/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081797,1561002382,1890422124,588594999#notes:KingSight/Hi-Cal/TapTheTrigger/MovingTarget 
 dimwishlist:item=819441402&perks=1288081797,1561002382,2387244414,2039302152#notes:KingSight/Hi-Cal/ZenMoment/Slideways 
 dimwishlist:item=819441402&perks=1288081797,1561002382,2387244414,588594999#notes:KingSight/Hi-Cal/ZenMoment/MovingTarget
-dimwishlist:item=819441402&perks=1288081797,1885400500,1781483875,2039302152#notes:KingSight/Ricochet/TapTheTrigger/Slideways 
-dimwishlist:item=819441402&perks=1288081797,1885400500,1781483875,588594999#notes:KingSight/Ricochet/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081797,1885400500,1890422124,2039302152#notes:KingSight/Ricochet/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081797,1885400500,1890422124,588594999#notes:KingSight/Ricochet/TapTheTrigger/MovingTarget 
 dimwishlist:item=819441402&perks=1288081797,1885400500,2387244414,2039302152#notes:KingSight/Ricochet/ZenMoment/Slideways 
 dimwishlist:item=819441402&perks=1288081797,1885400500,2387244414,588594999#notes:KingSight/Ricochet/ZenMoment/MovingTarget
-dimwishlist:item=819441402&perks=1288081798,1561002382,1781483875,2039302152#notes:DuskSight/Hi-Cal/TapTheTrigger/Slideways 
-dimwishlist:item=819441402&perks=1288081798,1561002382,1781483875,588594999#notes:DuskSight/Hi-Cal/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081798,1561002382,1890422124,2039302152#notes:DuskSight/Hi-Cal/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081798,1561002382,1890422124,588594999#notes:DuskSight/Hi-Cal/TapTheTrigger/MovingTarget 
 dimwishlist:item=819441402&perks=1288081798,1561002382,2387244414,2039302152#notes:DuskSight/Hi-Cal/ZenMoment/Slideways 
 dimwishlist:item=819441402&perks=1288081798,1561002382,2387244414,588594999#notes:DuskSight/Hi-Cal/ZenMoment/MovingTarget
-dimwishlist:item=819441402&perks=1288081798,1885400500,1781483875,2039302152#notes:DuskSight/Ricochet/TapTheTrigger/Slideways 
-dimwishlist:item=819441402&perks=1288081798,1885400500,1781483875,588594999#notes:DuskSight/Ricochet/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081798,1885400500,1890422124,2039302152#notes:DuskSight/Ricochet/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081798,1885400500,1890422124,588594999#notes:DuskSight/Ricochet/TapTheTrigger/MovingTarget 
 dimwishlist:item=819441402&perks=1288081798,1885400500,2387244414,2039302152#notes:DuskSight/Ricochet/ZenMoment/Slideways 
 dimwishlist:item=819441402&perks=1288081798,1885400500,2387244414,588594999#notes:DuskSight/Ricochet/ZenMoment/MovingTarget
 dimwishlist:item=819441402&perks=1288081794,1561002382,1631667848,3425386926#notes:DuskDot/Hi-Cal/GraveRobber/Rampage 
 dimwishlist:item=819441402&perks=1288081794,2420895100,1631667848,3425386926#notes:DuskDot/Extended/GraveRobber/Rampage 
 dimwishlist:item=819441402&perks=1288081794,1087426260,1631667848,3425386926#notes:DuskDot/Appended/GraveRobber/Rampage 
-dimwishlist:item=819441402&perks=1288081796,1561002382,1781483875,2039302152#notes:WolfSight/Hi-Cal/TapTheTrigger/Slideways 
-dimwishlist:item=819441402&perks=1288081796,1561002382,1781483875,588594999#notes:WolfSight/Hi-Cal/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081796,1561002382,1890422124,2039302152#notes:WolfSight/Hi-Cal/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081796,1561002382,1890422124,588594999#notes:WolfSight/Hi-Cal/TapTheTrigger/MovingTarget 
 dimwishlist:item=819441402&perks=1288081796,1561002382,2387244414,2039302152#notes:WolfSight/Hi-Cal/ZenMoment/Slideways 
 dimwishlist:item=819441402&perks=1288081796,1561002382,2387244414,588594999#notes:WolfSight/Hi-Cal/ZenMoment/MovingTarget
-dimwishlist:item=819441402&perks=1288081796,1885400500,1781483875,2039302152#notes:WolfSight/Ricochet/TapTheTrigger/Slideways 
-dimwishlist:item=819441402&perks=1288081796,1885400500,1781483875,588594999#notes:WolfSight/Ricochet/TapTheTrigger/MovingTarget 
+dimwishlist:item=819441402&perks=1288081796,1885400500,1890422124,2039302152#notes:WolfSight/Ricochet/TapTheTrigger/Slideways 
+dimwishlist:item=819441402&perks=1288081796,1885400500,1890422124,588594999#notes:WolfSight/Ricochet/TapTheTrigger/MovingTarget 
 dimwishlist:item=819441402&perks=1288081796,1885400500,2387244414,2039302152#notes:WolfSight/Ricochet/ZenMoment/Slideways 
 dimwishlist:item=819441402&perks=1288081796,1885400500,2387244414,588594999#notes:WolfSight/Ricochet/ZenMoment/MovingTarget
 dimwishlist:item=819441402&perks=1452368632,1561002382,957782887,588594999#notes:WolfDot/Hi-Cal/Snapshot/MovingTarget 
@@ -214,8 +214,8 @@ dimwishlist:item=601592879&perks=1482024992,1885400500,1890422124,1015611457#not
 dimwishlist:item=601592879&perks=3400784728,77836843#notes: Triple Tap/Dragon Fly
 —————————————————————————
 Gnawing Hunger - 168 Rolls
-dimwishlist:item=821154603&perks=839105230,106909392,1781483875,3523296417#notes: Arrowhead/TacMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=839105230,106909392,1781483875,1015611457#notes: Arrowhead/TacMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=839105230,106909392,1890422124,3523296417#notes: Arrowhead/TacMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=839105230,106909392,1890422124,1015611457#notes: Arrowhead/TacMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=839105230,106909392,2387244414,3523296417#notes: Arrowhead/TacMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=839105230,106909392,2387244414,1015611457#notes: Arrowhead/TacMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=839105230,106909392,1820235745,3523296417#notes: Arrowhead/TacMag/Subsistence/Demolitionist
@@ -228,12 +228,12 @@ dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,3425386926#note
 dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,2458213969#notes: Arrowhead/Appended/Subsistence/MultiKillClip
 dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,1015611457#notes: Arrowhead/Appended/Subsistence/KillClip
 dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,1015611457#notes: Arrowhead/Appended/Subsistence/Swashbuckler
-dimwishlist:item=821154603&perks=839105230,3142289711,1781483875,3523296417#notes: Arrowhead/Accurized/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=839105230,3142289711,1781483875,1015611457#notes: Arrowhead/Accurized/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=839105230,3142289711,1890422124,3523296417#notes: Arrowhead/Accurized/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=839105230,3142289711,1890422124,1015611457#notes: Arrowhead/Accurized/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,3523296417#notes: Arrowhead/Accurized/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,1015611457#notes: Arrowhead/Accurized/ZenMoment/KillClip
-dimwishlist:item=821154603&perks=839105230,4134353779,1781483875,3523296417#notes: Arrowhead/DropMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=839105230,4134353779,1781483875,1015611457#notes: Arrowhead/DropMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=839105230,4134353779,1890422124,3523296417#notes: Arrowhead/DropMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=839105230,4134353779,1890422124,1015611457#notes: Arrowhead/DropMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=839105230,4134353779,2387244414,3523296417#notes: Arrowhead/DropMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=839105230,4134353779,2387244414,1015611457#notes: Arrowhead/DropMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=839105230,4134353779,1820235745,3523296417#notes: Arrowhead/DropMag/Subsistence/Demolitionist
@@ -241,8 +241,8 @@ dimwishlist:item=821154603&perks=839105230,4134353779,1820235745,3425386926#note
 dimwishlist:item=821154603&perks=839105230,4134353779,1820235745,2458213969#notes: Arrowhead/DropMag/Subsistence/MultiKillClip
 dimwishlist:item=821154603&perks=839105230,4134353779,1820235745,1015611457#notes: Arrowhead/DropMag/Subsistence/KillClip
 dimwishlist:item=821154603&perks=839105230,4134353779,1820235745,1015611457#notes: Arrowhead/DropMag/Subsistence/Swashbuckler
-dimwishlist:item=821154603&perks=839105230,3230963543,1781483875,3523296417#notes: Arrowhead/FlaredMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=839105230,3230963543,1781483875,1015611457#notes: Arrowhead/FlaredMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=839105230,3230963543,1890422124,3523296417#notes: Arrowhead/FlaredMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=839105230,3230963543,1890422124,1015611457#notes: Arrowhead/FlaredMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=839105230,3230963543,2387244414,3523296417#notes: Arrowhead/FlaredMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=839105230,3230963543,2387244414,1015611457#notes: Arrowhead/FlaredMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=839105230,3230963543,1820235745,3523296417#notes: Arrowhead/FlaredMag/Subsistence/Demolitionist
@@ -250,8 +250,8 @@ dimwishlist:item=821154603&perks=839105230,3230963543,1820235745,3425386926#note
 dimwishlist:item=821154603&perks=839105230,3230963543,1820235745,2458213969#notes: Arrowhead/FlaredMag/Subsistence/MultiKillClip
 dimwishlist:item=821154603&perks=839105230,3230963543,1820235745,1015611457#notes: Arrowhead/FlaredMag/Subsistence/KillClip
 dimwishlist:item=821154603&perks=839105230,3230963543,1820235745,1015611457#notes: Arrowhead/FlaredMag/Subsistence/Swashbuckler
-dimwishlist:item=821154603&perks=3661387068,106909392,1781483875,3523296417#notes: Chambered/TacMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=3661387068,106909392,1781483875,1015611457#notes: Chambered/TacMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=3661387068,106909392,1890422124,3523296417#notes: Chambered/TacMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=3661387068,106909392,1890422124,1015611457#notes: Chambered/TacMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=3661387068,106909392,2387244414,3523296417#notes: Chambered/TacMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=3661387068,106909392,2387244414,1015611457#notes: Chambered/TacMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=3661387068,106909392,1820235745,3523296417#notes: Chambered/TacMag/Subsistence/Demolitionist
@@ -264,12 +264,12 @@ dimwishlist:item=821154603&perks=3661387068,1087426260,1820235745,3425386926#not
 dimwishlist:item=821154603&perks=3661387068,1087426260,1820235745,2458213969#notes: Chambered/Appended/Subsistence/MultiKillClip
 dimwishlist:item=821154603&perks=3661387068,1087426260,1820235745,1015611457#notes: Chambered/Appended/Subsistence/KillClip
 dimwishlist:item=821154603&perks=3661387068,1087426260,1820235745,1015611457#notes: Chambered/Appended/Subsistence/Swashbuckler
-dimwishlist:item=821154603&perks=3661387068,3142289711,1781483875,3523296417#notes: Chambered/Accurized/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=3661387068,3142289711,1781483875,1015611457#notes: Chambered/Accurized/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=3661387068,3142289711,1890422124,3523296417#notes: Chambered/Accurized/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=3661387068,3142289711,1890422124,1015611457#notes: Chambered/Accurized/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,3523296417#notes: Chambered/Accurized/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=3661387068,3142289711,2387244414,1015611457#notes: Chambered/Accurized/ZenMoment/KillClip
-dimwishlist:item=821154603&perks=3661387068,4134353779,1781483875,3523296417#notes: Chambered/DropMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=3661387068,4134353779,1781483875,1015611457#notes: Chambered/DropMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=3661387068,4134353779,1890422124,3523296417#notes: Chambered/DropMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=3661387068,4134353779,1890422124,1015611457#notes: Chambered/DropMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=3661387068,4134353779,2387244414,3523296417#notes: Chambered/DropMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=3661387068,4134353779,2387244414,1015611457#notes: Chambered/DropMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=3661387068,4134353779,1820235745,3523296417#notes: Chambered/DropMag/Subsistence/Demolitionist
@@ -277,8 +277,8 @@ dimwishlist:item=821154603&perks=3661387068,4134353779,1820235745,3425386926#not
 dimwishlist:item=821154603&perks=3661387068,4134353779,1820235745,2458213969#notes: Chambered/DropMag/Subsistence/MultiKillClip
 dimwishlist:item=821154603&perks=3661387068,4134353779,1820235745,1015611457#notes: Chambered/DropMag/Subsistence/KillClip
 dimwishlist:item=821154603&perks=3661387068,4134353779,1820235745,1015611457#notes: Chambered/DropMag/Subsistence/Swashbuckler
-dimwishlist:item=821154603&perks=3661387068,3230963543,1781483875,3523296417#notes: Chambered/FlaredMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=3661387068,3230963543,1781483875,1015611457#notes: Chambered/FlaredMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=3661387068,3230963543,1890422124,3523296417#notes: Chambered/FlaredMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=3661387068,3230963543,1890422124,1015611457#notes: Chambered/FlaredMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=3661387068,3230963543,2387244414,3523296417#notes: Chambered/FlaredMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=3661387068,3230963543,2387244414,1015611457#notes: Chambered/FlaredMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=3661387068,3230963543,1820235745,3523296417#notes: Chambered/FlaredMag/Subsistence/Demolitionist
@@ -306,8 +306,8 @@ dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,3425386926#not
 dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,2458213969#notes: Corkscrew/FlaredMag/Subsistence/MultiKillClip
 dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,1015611457#notes: Corkscrew/FlaredMag/Subsistence/KillClip
 dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,1015611457#notes: Corkscrew/FlaredMag/Subsistence/Swashbuckler
-dimwishlist:item=821154603&perks=1467527085,106909392,1781483875,3523296417#notes: ExtendedBarrel/TacMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=1467527085,106909392,1781483875,1015611457#notes: ExtendedBarrel/TacMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,3523296417#notes: ExtendedBarrel/TacMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,1015611457#notes: ExtendedBarrel/TacMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=1467527085,106909392,2387244414,3523296417#notes: ExtendedBarrel/TacMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=1467527085,106909392,2387244414,1015611457#notes: ExtendedBarrel/TacMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,3523296417#notes: ExtendedBarrel/TacMag/Subsistence/Demolitionist
@@ -320,12 +320,12 @@ dimwishlist:item=821154603&perks=1467527085,1087426260,1820235745,3425386926#not
 dimwishlist:item=821154603&perks=1467527085,1087426260,1820235745,2458213969#notes: ExtendedBarrel/Appended/Subsistence/MultiKillClip
 dimwishlist:item=821154603&perks=1467527085,1087426260,1820235745,1015611457#notes: ExtendedBarrel/Appended/Subsistence/KillClip
 dimwishlist:item=821154603&perks=1467527085,1087426260,1820235745,1015611457#notes: ExtendedBarrel/Appended/Subsistence/Swashbuckler
-dimwishlist:item=821154603&perks=1467527085,3142289711,1781483875,3523296417#notes: ExtendedBarrel/Accurized/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=1467527085,3142289711,1781483875,1015611457#notes: ExtendedBarrel/Accurized/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3523296417#notes: ExtendedBarrel/Accurized/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,1015611457#notes: ExtendedBarrel/Accurized/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,3523296417#notes: ExtendedBarrel/Accurized/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,1015611457#notes: ExtendedBarrel/Accurized/ZenMoment/KillClip
-dimwishlist:item=821154603&perks=1467527085,4134353779,1781483875,3523296417#notes: ExtendedBarrel/DropMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=1467527085,4134353779,1781483875,1015611457#notes: ExtendedBarrel/DropMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=1467527085,4134353779,1890422124,3523296417#notes: ExtendedBarrel/DropMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=1467527085,4134353779,1890422124,1015611457#notes: ExtendedBarrel/DropMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=1467527085,4134353779,2387244414,3523296417#notes: ExtendedBarrel/DropMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=1467527085,4134353779,2387244414,1015611457#notes: ExtendedBarrel/DropMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=1467527085,4134353779,1820235745,3523296417#notes: ExtendedBarrel/DropMag/Subsistence/Demolitionist
@@ -333,8 +333,8 @@ dimwishlist:item=821154603&perks=1467527085,4134353779,1820235745,3425386926#not
 dimwishlist:item=821154603&perks=1467527085,4134353779,1820235745,2458213969#notes: ExtendedBarrel/DropMag/Subsistence/MultiKillClip
 dimwishlist:item=821154603&perks=1467527085,4134353779,1820235745,1015611457#notes: ExtendedBarrel/DropMag/Subsistence/KillClip
 dimwishlist:item=821154603&perks=1467527085,4134353779,1820235745,1015611457#notes: ExtendedBarrel/DropMag/Subsistence/Swashbuckler
-dimwishlist:item=821154603&perks=1467527085,3230963543,1781483875,3523296417#notes: ExtendedBarrel/FlaredMag/TapTheTrigger/Demolitionist
-dimwishlist:item=821154603&perks=1467527085,3230963543,1781483875,1015611457#notes: ExtendedBarrel/FlaredMag/TapTheTrigger/KillClip
+dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,3523296417#notes: ExtendedBarrel/FlaredMag/TapTheTrigger/Demolitionist
+dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,1015611457#notes: ExtendedBarrel/FlaredMag/TapTheTrigger/KillClip
 dimwishlist:item=821154603&perks=1467527085,3230963543,2387244414,3523296417#notes: ExtendedBarrel/FlaredMag/ZenMoment/Demolitionist
 dimwishlist:item=821154603&perks=1467527085,3230963543,2387244414,1015611457#notes: ExtendedBarrel/FlaredMag/ZenMoment/KillClip
 dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,3523296417#notes: ExtendedBarrel/FlaredMag/Subsistence/Demolitionist
@@ -1353,16 +1353,16 @@ dimwishlist:item=2575506895&perks=1392496348,3177308360,706527188,3038247973#not
 —————————————————————————
 Bad Reputation - 18 Rolls
 dimwishlist:item=2105827099&perks=1288081797,3230963543,2387244414,1015611457#notes: KingsightK1/FlaredMag/ZenMoment/KillCLip
-dimwishlist:item=2105827099&perks=1288081797,3230963543,1781483875,1015611457#notes: KingsightK1/FlaredMag/TapTheTrigger/KillCLip
+dimwishlist:item=2105827099&perks=1288081797,3230963543,1890422124,1015611457#notes: KingsightK1/FlaredMag/TapTheTrigger/KillCLip
 dimwishlist:item=2105827099&perks=1288081797,2039302152,1890422124,1015611457#notes: KingsightK1/FlaredMag/Slideways/KillCLip
 dimwishlist:item=2105827099&perks=1288081797,679225683,2387244414,1015611457#notes: KingsightK1/LightMag/ZenMoment/KillCLip
-dimwishlist:item=2105827099&perks=1288081797,679225683,1781483875,1015611457#notes: KingsightK1/LightMag/TapTheTrigger/KillCLip
+dimwishlist:item=2105827099&perks=1288081797,679225683,1890422124,1015611457#notes: KingsightK1/LightMag/TapTheTrigger/KillCLip
 dimwishlist:item=2105827099&perks=1288081797,679225683,1890422124,1015611457#notes: KingsightK1/LightMag/Slideways/KillCLip
 dimwishlist:item=2105827099&perks=1288081796,3230963543,2387244414,1015611457#notes: WolfSight/FlaredMag/ZenMoment/KillCLip
-dimwishlist:item=2105827099&perks=1288081796,3230963543,1781483875,1015611457#notes: WolfSight/FlaredMag/TapTheTrigger/KillCLip
+dimwishlist:item=2105827099&perks=1288081796,3230963543,1890422124,1015611457#notes: WolfSight/FlaredMag/TapTheTrigger/KillCLip
 dimwishlist:item=2105827099&perks=1288081796,2039302152,1890422124,1015611457#notes: WolfSight/FlaredMag/Slideways/KillCLip
 dimwishlist:item=2105827099&perks=1288081796,679225683,2387244414,1015611457#notes: WolfSight/LightMag/ZenMoment/KillCLip
-dimwishlist:item=2105827099&perks=1288081796,679225683,1781483875,1015611457#notes: WolfSight/LightMag/TapTheTrigger/KillCLip
+dimwishlist:item=2105827099&perks=1288081796,679225683,1890422124,1015611457#notes: WolfSight/LightMag/TapTheTrigger/KillCLip
 dimwishlist:item=2105827099&perks=1288081796,679225683,1890422124,1015611457#notes: WolfSight/LightMag/Slideways/KillCLip
 dimwishlist:item=2105827099&perks=1452368632,1885400500,2387244414,957782887#notes: WolfDot/RicochetRnds/ZenMoment/Snapshot
 dimwishlist:item=2105827099&perks=1452368632,1885400500,2039302152,957782887#notes: WolfDot/RicochetRnds/Slideways/Snapshot
@@ -1552,13 +1552,13 @@ dimwishlist:item=1786797708&perks=3177308360,2387244414,1546637391 #notes: Stead
 —————————————————————————
 Hard Truths - 9 Rolls
 dimwishlist:item=105567493&perks=1885400500,2387244414,1015611457#notes: Ricochet/ZenMoment/KillClip 
-dimwishlist:item=105567493&perks=1885400500,2387244414,1781483875#notes: Ricochet/ZenMoment/TapTheTrigger 
+dimwishlist:item=105567493&perks=1885400500,2387244414,1890422124#notes: Ricochet/ZenMoment/TapTheTrigger 
 dimwishlist:item=105567493&perks=1885400500,2387244414,4071163871#notes: Ricochet/ZenMoment/ThreatDetector
 dimwishlist:item=105567493&perks=1885400500,957782887,1015611457#notes: Ricochet/Snapshot/KillClip 
-dimwishlist:item=105567493&perks=1885400500,957782887,1781483875#notes: Ricochet/Snapshot/TapTheTrigger 
+dimwishlist:item=105567493&perks=1885400500,957782887,1890422124#notes: Ricochet/Snapshot/TapTheTrigger 
 dimwishlist:item=105567493&perks=1885400500,957782887,4071163871#notes: Ricochet/Snapshot/ThreatDetector
 dimwishlist:item=105567493&perks=1885400500,2039302152,1015611457#notes: Ricochet/Slideways/KillClip 
-dimwishlist:item=105567493&perks=1885400500,2039302152,1781483875#notes: Ricochet/Slideways/TapTheTrigger 
+dimwishlist:item=105567493&perks=1885400500,2039302152,1890422124#notes: Ricochet/Slideways/TapTheTrigger 
 dimwishlist:item=105567493&perks=1885400500,2039302152,4071163871#notes: Ricochet/Slideways/ThreatDetector
 —————————————————————————
 Seventh Seraph VY-7 - 32 Rolls
@@ -1884,19 +1884,19 @@ Traveler's Judgement 5 - 30 Rolls
 dimwishlist:item=4149758318&perks=1561002382,247725512,3708227201#notes: Hi-Cal/RapidHit/Surrounded
 dimwishlist:item=4149758318&perks=1561002382,247725512,1683379515#notes: Hi-Cal/RapidHit/Disruption
 dimwishlist:item=4149758318&perks=1561002382,247725512,2848615171#notes: Hi-Cal/RapidHit/Dragonfly
-dimwishlist:item=4149758318&perks=1561002382,247725512,1781483875#notes: Hi-Cal/RapidHit/TapTheTrigger
+dimwishlist:item=4149758318&perks=1561002382,247725512,1890422124#notes: Hi-Cal/RapidHit/TapTheTrigger
 dimwishlist:item=4149758318&perks=1561002382,2779035018,3708227201#notes: Hi-Cal/FeedingFrenzy/Surrounded
 dimwishlist:item=4149758318&perks=1561002382,2779035018,1683379515#notes: Hi-Cal/FeedingFrenzy/Disruption
 dimwishlist:item=4149758318&perks=1561002382,2779035018,2848615171#notes: Hi-Cal/FeedingFrenzy/Dragonfly
-dimwishlist:item=4149758318&perks=1561002382,2779035018,1781483875#notes: Hi-Cal/FeedingFrenzy/TapTheTrigger
+dimwishlist:item=4149758318&perks=1561002382,2779035018,1890422124#notes: Hi-Cal/FeedingFrenzy/TapTheTrigger
 dimwishlist:item=4149758318&perks=1885400500,247725512,3708227201#notes: Ricochet/RapidHit/Surrounded
 dimwishlist:item=4149758318&perks=1885400500,247725512,1683379515#notes: Ricochet/RapidHit/Disruption
 dimwishlist:item=4149758318&perks=1885400500,247725512,2848615171#notes: Ricochet/RapidHit/Dragonfly
-dimwishlist:item=4149758318&perks=1885400500,247725512,1781483875#notes: Ricochet/RapidHit/TapTheTrigger
+dimwishlist:item=4149758318&perks=1885400500,247725512,1890422124#notes: Ricochet/RapidHit/TapTheTrigger
 dimwishlist:item=4149758318&perks=1885400500,2779035018,3708227201#notes: Ricochet/FeedingFrenzy/Surrounded
 dimwishlist:item=4149758318&perks=1885400500,2779035018,1683379515#notes: Ricochet/FeedingFrenzy/Disruption
 dimwishlist:item=4149758318&perks=1885400500,2779035018,2848615171#notes: Ricochet/FeedingFrenzy/Dragonfly
-dimwishlist:item=4149758318&perks=1885400500,2779035018,1781483875#notes: Ricochet/FeedingFrenzy/TapTheTrigger
+dimwishlist:item=4149758318&perks=1885400500,2779035018,1890422124#notes: Ricochet/FeedingFrenzy/TapTheTrigger
 dimwishlist:item=4149758318&perks=1087426260,247725512,3708227201#notes: Appended/RapidHit/Surrounded
 dimwishlist:item=4149758318&perks=1087426260,247725512,1683379515#notes: Appended/RapidHit/Disruption
 dimwishlist:item=4149758318&perks=1087426260,247725512,2848615171#notes: Appended/RapidHit/Dragonfly

@@ -115,7 +115,7 @@ DIM Wishlist Perk Codes:
 3708227201 Surrounded
 957782887 Snapshot
 4082225868 Swashbuckler
-1781483875 TapTheTrigger
+1890422124 TapTheTrigger
 4071163871 ThreatDetector
 1954620775 TimedPayload
 806159697 TrenchBarrel
