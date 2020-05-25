@@ -1348,6 +1348,38 @@ dimwishlist:item=2575506895&perks=1392496348,3177308360,2846385770,3038247973#no
 dimwishlist:item=2575506895&perks=1392496348,3177308360,706527188,247725512#notes:Polygonal/Steady/Quickdraw/RapidHit 
 dimwishlist:item=2575506895&perks=1392496348,3177308360,706527188,3038247973#notes:Polygonal/Steady/Quickdraw/Explosive 
 —————————————————————————
+Jack Queen King 3: 31 Rolls
+dimwishlist:item=1561002382,3523296417,3425386926#notes: Hi-Cal/Demolitionist/Rampage
+dimwishlist:item=1561002382,3523296417,4082225868#notes: Hi-Cal/Demolitionist/Swashbuckler
+dimwishlist:item=1561002382,3523296417,2848615171#notes: Hi-Cal/Demolitionist/Dragonfly
+dimwishlist:item=1561002382,1820235745,3425386926#notes: Hi-Cal/Subsistence/Rampage
+dimwishlist:item=1561002382,1820235745,4082225868#notes: Hi-Cal/Subsistence/Swashbuckler
+dimwishlist:item=1561002382,1820235745,2848615171#notes: Hi-Cal/Subsistence/Dragonfly
+dimwishlist:item=1885400500,3523296417,3425386926#notes: Ricochet/Demolitionist/Rampage
+dimwishlist:item=1885400500,3523296417,4082225868#notes: Ricochet/Demolitionist/Swashbuckler
+dimwishlist:item=1885400500,3523296417,2848615171#notes: Ricochet/Demolitionist/Dragonfly
+dimwishlist:item=1885400500,3523296417,957782887#notes: Ricochet/Demolitionist/Snapshot
+dimwishlist:item=1885400500,1820235745,3425386926#notes: Ricochet/Subsistence/Rampage
+dimwishlist:item=1885400500,1820235745,4082225868#notes: Ricochet/Subsistence/Swashbuckler
+dimwishlist:item=1885400500,1820235745,2848615171#notes: Ricochet/Subsistence/Dragonfly
+dimwishlist:item=1087426260,3523296417,3425386926#notes: Appended/Demolitionist/Rampage
+dimwishlist:item=1087426260,3523296417,4082225868#notes: Appended/Demolitionist/Swashbuckler
+dimwishlist:item=1087426260,3523296417,2848615171#notes: Appended/Demolitionist/Dragonfly
+dimwishlist:item=1087426260,1820235745,3425386926#notes: Appended/Subsistence/Rampage
+dimwishlist:item=1087426260,1820235745,4082225868#notes: Appended/Subsistence/Swashbuckler
+dimwishlist:item=1087426260,1820235745,2848615171#notes: Appended/Subsistence/Dragonfly
+dimwishlist:item=3230963543,3523296417,3425386926#notes: FlaredMag/Demolitionist/Rampage
+dimwishlist:item=3230963543,3523296417,4082225868#notes: FlaredMag/Demolitionist/Swashbuckler
+dimwishlist:item=3230963543,3523296417,2848615171#notes: FlaredMag/Demolitionist/Dragonfly
+dimwishlist:item=3230963543,1820235745,3425386926#notes: FlaredMag/Subsistence/Rampage
+dimwishlist:item=3230963543,1820235745,4082225868#notes: FlaredMag/Subsistence/Swashbuckler
+dimwishlist:item=3230963543,1820235745,2848615171#notes: FlaredMag/Subsistence/Dragonfly
+dimwishlist:item=679225683,3523296417,3425386926#notes: LightMag/Demolitionist/Rampage
+dimwishlist:item=679225683,3523296417,4082225868#notes: LightMag/Demolitionist/Swashbuckler
+dimwishlist:item=679225683,3523296417,2848615171#notes: LightMag/Demolitionist/Dragonfly
+dimwishlist:item=679225683,1820235745,3425386926#notes: LightMag/Subsistence/Rampage
+dimwishlist:item=6792256831820235745,4082225868#notes: LightMag/Subsistence/Swashbuckler
+dimwishlist:item=679225683,1820235745,2848615171#notes: LightMag/Subsistence/Dragonfly
 —————————————————————————
 [3]: Submachine Guns
 —————————————————————————
