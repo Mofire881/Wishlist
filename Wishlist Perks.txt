@@ -7,9 +7,9 @@ DIM Wishlist Perk Codes:
 1926090095 SteadyHand
 1926090092 TrueSight
 --- 
-445755707 Quickdot
+445755707 QuickDot
 445755706 Control
-445755705 Shortspec
+445755705 ShortSpec
 445755704 Tactic
 445755711 Target
 445755710 FarPoint

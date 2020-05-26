@@ -1784,6 +1784,62 @@ dimwishlist:item=2009277538&perks=445755710,1885400500,1168162263,1015611457#not
 dimwishlist:item=2009277538&perks=445755710,1885400500,706527188,1015611457#notes:Farpoint/LightMag/Quickdraw/KillClip
 dimwishlist:item=2009277538&perks=445755710,1885400500,4071163871,1015611457#notes:Farpoint/LightMag/ThreatDetector/KillClip
 —————————————————————————
+Last Hope - 54 Rolls
+dimwishlist:item=3622137132&perks=445755707,1561002382,2846385770,1890422124#notes: QuickDot/Hi-Cal/Rangefinder/TapTheTrigger 
+dimwishlist:item=3622137132&perks=445755707,1885400500,2846385770,1890422124#notes: QuickDot/Ricochet/Rangefinder/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755706,1561002382,2846385770,1890422124#notes: Control/Hi-Cal/Rangefinder/TapTheTrigger 
+dimwishlist:item=3622137132&perks=445755706,1885400500,2846385770,1890422124#notes: Control/Ricochet/Rangefinder/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755705,1561002382,2779035018,2458213969#notes: ShortSpec/Hi-Cal/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755705,1561002382,2779035018,2848615171#notes: ShortSpec/Hi-Cal/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755705,1561002382,2779035018,3425386926#notes: ShortSpec/Hi-Cal/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755705,1561002382,2846385770,1890422124#notes: ShortSpec/Hi-Cal/Rangefinder/TapTheTrigger 
+dimwishlist:item=3622137132&perks=445755705,1885400500,2846385770,1890422124#notes: ShortSpec/Ricochet/Rangefinder/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2458213969#notes: ShortSpec/Ricochet/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2848615171#notes: ShortSpec/Ricochet/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,3425386926#notes: ShortSpec/Ricochet/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755705,1087426260,2779035018,2458213969#notes: ShortSpec/Appended/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755705,1087426260,2779035018,2848615171#notes: ShortSpec/Appended/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755705,1087426260,2779035018,3425386926#notes: ShortSpec/Appended/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755705,2420895100,2779035018,2458213969#notes: ShortSpec/Extended/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755705,2420895100,2779035018,2848615171#notes: ShortSpec/Extended/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755705,2420895100,2779035018,3425386926#notes: ShortSpec/Extended/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755704,1561002382,2779035018,2458213969#notes: Tactic/Hi-Cal/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755704,1561002382,2779035018,2848615171#notes: Tactic/Hi-Cal/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755704,1561002382,2779035018,3425386926#notes: Tactic/Hi-Cal/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755704,1561002382,706527188,1890422124#notes: Tactic/Hi-Cal/Quickdraw/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755704,1561002382,2846385770,1890422124#notes: Tactic/Hi-Cal/Rangefinder/TapTheTrigger 
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2458213969#notes: Tactic/Ricochet/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2848615171#notes: Tactic/Ricochet/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,3425386926#notes: Tactic/Ricochet/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755705,1885400500,706527188,1890422124#notes: Tactic/Ricochet/Quickdraw/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755705,1885400500,2846385770,1890422124#notes: Tactic/Ricochet/Rangefinder/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755704,1087426260,2779035018,2458213969#notes: Tactic/Appended/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755704,1087426260,2779035018,2848615171#notes: Tactic/Appended/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755704,1087426260,2779035018,3425386926#notes: Tactic/Appended/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755704,2420895100,2779035018,2458213969#notes: Tactic/Extended/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755704,2420895100,2779035018,2848615171#notes: Tactic/Extended/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755704,2420895100,2779035018,3425386926#notes: Tactic/Extended/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755710,1561002382,2779035018,2458213969#notes: FarPoint/Hi-Cal/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755710,1561002382,2779035018,2848615171#notes: FarPoint/Hi-Cal/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755710,1561002382,2779035018,3425386926#notes: FarPoint/Hi-Cal/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755710,1561002382,706527188,2387244414#notes: FarPoint/Hi-Cal/Quickdraw/ZenMoment
+dimwishlist:item=3622137132&perks=445755710,1561002382,706527188,1890422124#notes: FarPoint/Hi-Cal/Quickdraw/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755710,1561002382,2846385770,2387244414#notes: FarPoint/Hi-Cal/Rangefinder/ZenMoment
+dimwishlist:item=3622137132&perks=445755710,1561002382,2846385770,1890422124#notes: FarPoint/Hi-Cal/Rangefinder/TapTheTrigger 
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2458213969#notes: FarPoint/Ricochet/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2848615171#notes: FarPoint/Ricochet/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,3425386926#notes: FarPoint/Ricochet/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755705,1885400500,706527188,2387244414#notes: FarPoint/Ricochet/Quickdraw/ZenMoment
+dimwishlist:item=3622137132&perks=445755705,1885400500,706527188,1890422124#notes: FarPoint/Ricochet/Quickdraw/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755705,1885400500,2846385770,2387244414#notes: FarPoint/Ricochet/Rangefinder/ZenMoment
+dimwishlist:item=3622137132&perks=445755705,1885400500,2846385770,1890422124#notes: FarPoint/Ricochet/Rangefinder/TapTheTrigger
+dimwishlist:item=3622137132&perks=445755710,1087426260,2779035018,2458213969#notes: FarPoint/Appended/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755710,1087426260,2779035018,2848615171#notes: FarPoint/Appended/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755710,1087426260,2779035018,3425386926#notes: FarPoint/Appended/FeedingFrenzy/Rampage
+dimwishlist:item=3622137132&perks=445755710,2420895100,2779035018,2458213969#notes: FarPoint/Extended/FeedingFrenzy/MultiKillClip
+dimwishlist:item=3622137132&perks=445755710,2420895100,2779035018,2848615171#notes: FarPoint/Extended/FeedingFrenzy/Dragonfly
+dimwishlist:item=3622137132&perks=445755710,2420895100,2779035018,3425386926#notes: FarPoint/Extended/FeedingFrenzy/Rampage
+—————————————————————————
 Lonesome - 126 Rolls
 dimwishlist:item=2199171672&perks=1840239774,1087426260,247725512,1015611457#notes:Fluted/Appended/RapidHit/KillClip
 dimwishlist:item=2199171672&perks=1840239774,1087426260,247725512,2458213969#notes:Fluted/Appended/RapidHit/MultiKillClip
