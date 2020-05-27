@@ -423,6 +423,31 @@ dimwishlist:item=3863882743&perks=1628165637,1087426260,1359896290,588594999#not
 dimwishlist:item=3863882743&perks=1628165637,679225683,706527188,1015611457#notes: FlashHS5/LightMag/Quickdraw/KillClip
 dimwishlist:item=3863882743&perks=1628165637,679225683,1359896290,1015611457#notes: FlashHS5/LightMag/DynamicSway/KillClip
 —————————————————————————
+Seventh Seraph Carbine - 21 Rolls
+dimwishlist:item=1561006927&perks=1561002382,1354429876,1546637391#notes: Hi-Cal/FourthTime/Vorpal 
+dimwishlist:item=1561006927&perks=1561002382,1354429876,4082225868#notes: Hi-Cal/FourthTime/Swashbuckler
+dimwishlist:item=1561006927&perks=1561002382,1354429876,3425386926#notes: Hi-Cal/FourthTime/Rampage
+dimwishlist:item=1561006927&perks=1561002382,3161816588,1546637391#notes: Hi-Cal/Slideshot/Vorpal 
+dimwishlist:item=1561006927&perks=1561002382,3161816588,2846385770#notes: Hi-Cal/Slideshot/Rangefinder 
+dimwishlist:item=1561006927&perks=1561002382,3161816588,588594999#notes: Hi-Cal/Slideshot/MovingTarget
+dimwishlist:item=1561006927&perks=1087426260,1354429876,1546637391#notes: Appended/FourthTime/Vorpal 
+dimwishlist:item=1561006927&perks=1087426260,1354429876,4082225868#notes: Appended/FourthTime/Swashbuckler
+dimwishlist:item=1561006927&perks=1087426260,1354429876,3425386926#notes: Appended/FourthTime/Rampage
+dimwishlist:item=1561006927&perks=1885400500,1354429876,1546637391#notes: Ricochet/FourthTime/Vorpal 
+dimwishlist:item=1561006927&perks=1885400500,1354429876,4082225868#notes: Ricochet/FourthTime/Swashbuckler
+dimwishlist:item=1561006927&perks=1885400500,1354429876,3425386926#notes: Ricochet/FourthTime/Rampage
+dimwishlist:item=1561006927&perks=1885400500,3161816588,1546637391#notes: Ricochet/Slideshot/Vorpal 
+dimwishlist:item=1561006927&perks=1885400500,3161816588,2846385770#notes: Ricochet/Slideshot/Rangefinder 
+dimwishlist:item=1561006927&perks=1885400500,3161816588,588594999#notes: Ricochet/Slideshot/MovingTarget
+dimwishlist:item=1561006927&perks=3230963543,1354429876,1546637391#notes: FlaredMag/FourthTime/Vorpal 
+dimwishlist:item=1561006927&perks=3230963543,1354429876,4082225868#notes: FlaredMag/FourthTime/Swashbuckler
+dimwishlist:item=1561006927&perks=3230963543,1354429876,3425386926#notes: FlaredMag/FourthTime/Rampage
+dimwishlist:item=1561006927&perks=679225683,1354429876,1546637391#notes: LightMag/FourthTime/Vorpal 
+dimwishlist:item=1561006927&perks=679225683,1354429876,4082225868#notes: LightMag/FourthTime/Swashbuckler
+dimwishlist:item=1561006927&perks=679225683,1354429876,3425386926#notes: LightMag/FourthTime/Rampage
+—————————————————————————
+—————————————————————————
+—————————————————————————
 [2]: Hand Cannons 
 —————————————————————————
 The Old Fashioned - 53 Rolls
