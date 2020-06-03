@@ -2559,12 +2559,12 @@ dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,247725512#note
 dimwishlist:item=3100452337&perks=1840239774,2420895100,3400784728,3300816228#notes: Fluted/Extended/TripleTap/AutoLoading
 dimwishlist:item=3100452337&perks=1840239774,2420895100,3400784728,247725512#notes: Fluted/Extended/TripleTap/RapidHit
 —————————————————————————
-The Supremacy - X Rolls - 5 Rolls
-dimwishlist:item=686951703&perks=839105230,1885400500,957782887,3425386926#notes: Arrowhead/Ricochet/Snapshot/RapidHit
-dimwishlist:item=686951703&perks=1840239774,1885400500,957782887,3425386926#notes: Fluted/Ricochet/Snapshot/RapidHit 
-dimwishlist:item=686951703&perks=1392496348,1885400500,957782887,3425386926#notes: Polygonal/Ricochet/Snapshot/RapidHit     
-dimwishlist:item=686951703&perks=4090651448,1885400500,957782887,3425386926#notes: Corkscrew/Ricochet/Snapshot/RapidHit   
-dimwishlist:item=686951703&perks=1482024992,1885400500,957782887,3425386926#notes: Smallbore/Ricochet/Snapshot/RapidHit         
+The Supremacy - 5 Rolls
+dimwishlist:item=686951703&perks=839105230,1885400500,957782887,247725512#notes: Arrowhead/Ricochet/Snapshot/RapidHit
+dimwishlist:item=686951703&perks=1840239774,1885400500,957782887,247725512#notes: Fluted/Ricochet/Snapshot/RapidHit 
+dimwishlist:item=686951703&perks=1392496348,1885400500,957782887,247725512#notes: Polygonal/Ricochet/Snapshot/RapidHit     
+dimwishlist:item=686951703&perks=4090651448,1885400500,957782887,247725512#notes: Corkscrew/Ricochet/Snapshot/RapidHit   
+dimwishlist:item=686951703&perks=1482024992,1885400500,957782887,247725512#notes: Smallbore/Ricochet/Snapshot/RapidHit         
 —————————————————————————
 Distant Tumulus - 30 Rolls
 dimwishlist:item=2807687156&perks=1840239774,106909392,1556840489,47981717#notes: Fluted/TacMag/LeadFromGold/OpeningShot
