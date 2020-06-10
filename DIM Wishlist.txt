@@ -2435,6 +2435,7 @@ dimwishlist:item=3937866388&perks=1482024992,3230963543,4071163871,1546637391#no
 dimwishlist:item=3937866388&perks=1482024992,3230963543,4071163871,2848615171#notes: Smallbore/FlaredMag/ThreatDetector/Dragonfly
 dimwishlist:item=3937866388&perks=1482024992,3230963543,4071163871,3708227201#notes: Smallbore/FlaredMag/ThreatDetector/Surrounded
 —————————————————————————
+Anonymous Autumn 
 —————————————————————————
 —————————————————————————
 —————————————————————————
@@ -2603,29 +2604,25 @@ dimwishlist:item=2919334548&perks=1087426260,4071163871,3425386926#notes: Extend
 dimwishlist:item=2919334548&perks=1087426260,4071163871,2360754333#notes: Extended/ThreatDetector/TrenchBarrel
 dimwishlist:item=2919334548&perks=1087426260,4071163871,3300816228#notes: Extended/ThreatDetector/AutoLoading
 —————————————————————————
-Seventh Seraph CQC-12  - 26 Rolls
+Seventh Seraph CQC-12  - 22 Rolls
 dimwishlist:item=1821724780&perks=791862061,3161816588,1546637391#notes: AssaultMag/Slideshot/Vorpal
 dimwishlist:item=1821724780&perks=791862061,3161816588,806159697#notes: AssaultMag/Slideshot/TrenchBarrel
 dimwishlist:item=1821724780&perks=791862061,3300816228,1546637391#notes: AssaultMag/AutoLoading/Vorpal
 dimwishlist:item=1821724780&perks=791862061,3300816228,806159697#notes: AssaultMag/AutoLoading/TrenchBarrel
+dimwishlist:item=1821724780&perks=106909392,3161816588,1546637391#notes: TacMag/Slideshot/Vorpal
 dimwishlist:item=1821724780&perks=106909392,1556840489,1546637391#notes: TacMag/LeadFromGold/Vorpal
-dimwishlist:item=1821724780&perks=791862061,3161816588,1546637391#notes: Appended/Slideshot/Vorpal
-dimwishlist:item=1821724780&perks=791862061,3300816228,1546637391#notes: Appended/AutoLoading/Vorpal
-dimwishlist:item=1821724780&perks=2420895100,3161816588,1546637391#notes: Extended/Slideshot/Vorpal
-dimwishlist:item=1821724780&perks=2420895100,3300816228,1546637391#notes: Extended/AutoLoading/Vorpal
 dimwishlist:item=1821724780&perks=679225683,1556840489,1546637391#notes: LightMag/LeadFromGold/Vorpal
 dimwishlist:item=1821724780&perks=1332244541,791862061,3161816588,1546637391#notes: Rifled/AssaultMag/Slideshot/Vorpal
 dimwishlist:item=1821724780&perks=1332244541,791862061,3161816588,806159697#notes: Rifled/AssaultMag/Slideshot/TrenchBarrel
 dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,1546637391#notes: Rifled/AssaultMag/AutoLoading/Vorpal
 dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,806159697#notes: Rifled/AssaultMag/AutoLoading/TrenchBarrel
+dimwishlist:item=1821724780&perks=1332244541,106909392,3161816588,1546637391#notes: Rifled/TacMag/Slideshot/Vorpal
 dimwishlist:item=1821724780&perks=1332244541,106909392,1556840489,1546637391#notes: Rifled/TacMag/LeadFromGold/Vorpal
-dimwishlist:item=1821724780&perks=1332244541,791862061,3161816588,1546637391#notes: Rifled/Appended/Slideshot/Vorpal
-dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,1546637391#notes: Rifled/Appended/AutoLoading/Vorpal
-dimwishlist:item=1821724780&perks=1332244541,2420895100,3161816588,1546637391#notes: Rifled/Extended/Slideshot/Vorpal
-dimwishlist:item=1821724780&perks=1332244541,2420895100,3300816228,1546637391#notes: Rifled/Extended/AutoLoading/Vorpal
 dimwishlist:item=1821724780&perks=1332244541,679225683,1556840489,1546637391#notes: Rifled/LightMag/LeadFromGold/Vorpal
 dimwishlist:item=1821724780&perks=1332244541,3142289711,3161816588,1546637391#notes: Rifled/Accurized/Slideshot/Vorpal
+dimwishlist:item=1821724780&perks=1332244541,3142289711,3161816588,957782887#notes: Rifled/Accurized/Slideshot/Snapshot
 dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,1546637391#notes: Rifled/Accurized/Quickdraw/Vorpal
+dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887#notes: Rifled/Accurized/Quickdraw/Snapshot
 dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,1546637391#notes: FullChoke/Accurized/Slideshot/Vorpal
 dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,957782887#notes: FullChoke/Accurized/Slideshot/Snapshot
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391#notes: FullChoke/Accurized/Quickdraw/Vorpal
