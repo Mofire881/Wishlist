@@ -1181,12 +1181,12 @@ dimwishlist:item=695814388&perks=106909392,47981717,2387244414#notes: TacMag/Ope
 dimwishlist:item=695814388&perks=106909392,957782887,3038247973#notes: TacMag/Snapshot/Explosive
 dimwishlist:item=695814388&perks=106909392,957782887,247725512#notes: TacMag/Snapshot/RapidHit
 dimwishlist:item=695814388&perks=106909392,957782887,2387244414#notes: TacMag/Snapshot/ZenMoment
-dimwishlist:item=695814388&perks=3177308360,47981717,3038247973#notes: Steady/OpeningShot/Explosive
+dimwishlist:item=1833744687&perks=3177308360,47981717,3038247973#notes: Steady/OpeningShot/Explosive
 dimwishlist:item=695814388&perks=3177308360,47981717,247725512#notes: Steady/OpeningShot/RapidHit
 dimwishlist:item=695814388&perks=3177308360,47981717,2387244414#notes: Steady/OpeningShot/ZenMoment
 dimwishlist:item=695814388&perks=3177308360,957782887,3038247973#notes: Steady/Snapshot/Explosive
 dimwishlist:item=695814388&perks=3177308360,957782887,247725512#notes: Steady/Snapshot/RapidHit
-dimwishlist:item=695814388&perks=3177308360,957782887,2387244414#notes: Steady/Snapshot/ZenMoment
+dimwishlist:item=1702618248&perks=3177308360,957782887,2387244414#notes: Steady/Snapshot/ZenMoment
 —————————————————————————
 Service Revolver - 43 Rolls
 dimwishlist:item=834081972&perks=2420895100,1168162263,1015611457#notes: Extended/Outlaw/KillClip
