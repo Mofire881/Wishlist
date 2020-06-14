@@ -1163,31 +1163,29 @@ dimwishlist:item=2742838701&perks=3230963543,3643424744,4082225868#notes: Flared
 dimwishlist:item=2742838701&perks=679225683,3643424744,4082225868#notes: LightMag/Overflow/Swashbuckler
 —————————————————————————
 Trust - 24 Rolls
-dimwishlist:item=695814388&perks=3142289711,47981717,3038247973#notes: Accurized/OpeningShot/Explosive
-dimwishlist:item=695814388&perks=3142289711,47981717,247725512#notes: Accurized/OpeningShot/RapidHit
-dimwishlist:item=695814388&perks=3142289711,47981717,2387244414#notes: Accurized/OpeningShot/ZenMoment
-dimwishlist:item=695814388&perks=3142289711,957782887,3038247973#notes: Accurized/Snapshot/Explosive
-dimwishlist:item=695814388&perks=3142289711,957782887,247725512#notes: Accurized/Snapshot/RapidHit
-dimwishlist:item=695814388&perks=3142289711,957782887,2387244414#notes: Accurized/Snapshot/ZenMoment
-dimwishlist:item=695814388&perks=2420895100,2848615171,247725512#notes: Extended/Dragonfly/RapidHit
-dimwishlist:item=695814388&perks=2420895100,1168162263,3425386926#notes: Extended/Outlaw/Rampage
-dimwishlist:item=695814388&perks=3230963543,2848615171,3425386926#notes: FlaredMag/Dragonfly/Rampage
-dimwishlist:item=695814388&perks=1087426260,2848615171,247725512#notes: Appended/Dragonfly/RapidHit
-dimwishlist:item=695814388&perks=1087426260,1168162263,3425386926#notes: Appended/Outlaw/Rampage
-dimwishlist:item=695814388&perks=106909392,2848615171,3425386926#notes: TacMag/Dragonfly/Rampage
-dimwishlist:item=695814388&perks=106909392,47981717,3038247973#notes: TacMag/OpeningShot/Explosive
-dimwishlist:item=695814388&perks=106909392,47981717,247725512#notes: TacMag/OpeningShot/RapidHit
-dimwishlist:item=695814388&perks=106909392,47981717,2387244414#notes: TacMag/OpeningShot/ZenMoment
-dimwishlist:item=695814388&perks=106909392,957782887,3038247973#notes: TacMag/Snapshot/Explosive
-dimwishlist:item=695814388&perks=106909392,957782887,247725512#notes: TacMag/Snapshot/RapidHit
-dimwishlist:item=695814388&perks=106909392,957782887,2387244414#notes: TacMag/Snapshot/ZenMoment
-dimwishlist:item=695814388&perks=3177308360,47981717,3038247973#notes: Steady/OpeningShot/Explosive
-
+dimwishlist:item=4077196130&perks=3142289711,47981717,3038247973#notes: Accurized/OpeningShot/Explosive
+dimwishlist:item=4077196130&perks=3142289711,47981717,247725512#notes: Accurized/OpeningShot/RapidHit
+dimwishlist:item=4077196130&perks=3142289711,47981717,2387244414#notes: Accurized/OpeningShot/ZenMoment
+dimwishlist:item=4077196130&perks=3142289711,957782887,3038247973#notes: Accurized/Snapshot/Explosive
+dimwishlist:item=4077196130&perks=3142289711,957782887,247725512#notes: Accurized/Snapshot/RapidHit
+dimwishlist:item=4077196130&perks=3142289711,957782887,2387244414#notes: Accurized/Snapshot/ZenMoment
+dimwishlist:item=4077196130&perks=2420895100,2848615171,247725512#notes: Extended/Dragonfly/RapidHit
+dimwishlist:item=4077196130&perks=2420895100,1168162263,3425386926#notes: Extended/Outlaw/Rampage
+dimwishlist:item=4077196130&perks=3230963543,2848615171,3425386926#notes: FlaredMag/Dragonfly/Rampage
+dimwishlist:item=4077196130&perks=1087426260,2848615171,247725512#notes: Appended/Dragonfly/RapidHit
+dimwishlist:item=4077196130&perks=1087426260,1168162263,3425386926#notes: Appended/Outlaw/Rampage
+dimwishlist:item=4077196130&perks=106909392,2848615171,3425386926#notes: TacMag/Dragonfly/Rampage
+dimwishlist:item=4077196130&perks=106909392,47981717,3038247973#notes: TacMag/OpeningShot/Explosive
+dimwishlist:item=4077196130&perks=106909392,47981717,247725512#notes: TacMag/OpeningShot/RapidHit
+dimwishlist:item=4077196130&perks=106909392,47981717,2387244414#notes: TacMag/OpeningShot/ZenMoment
+dimwishlist:item=4077196130&perks=106909392,957782887,3038247973#notes: TacMag/Snapshot/Explosive
+dimwishlist:item=4077196130&perks=106909392,957782887,247725512#notes: TacMag/Snapshot/RapidHit
+dimwishlist:item=4077196130&perks=106909392,957782887,2387244414#notes: TacMag/Snapshot/ZenMoment
+dimwishlist:item=4077196130&perks=3177308360,47981717,3038247973#notes: Steady/OpeningShot/Explosive
 dimwishlist:item=4077196130&perks=3177308360,47981717,247725512#notes: Steady/OpeningShot/RapidHit
-
-dimwishlist:item=695814388&perks=3177308360,47981717,2387244414#notes: Steady/OpeningShot/ZenMoment
-dimwishlist:item=695814388perks=3177308360,957782887,3038247973#notes: Steady/Snapshot/Explosive
-dimwishlist:item=695814388&perks=3177308360,957782887,247725512#notes: Steady/Snapshot/RapidHit
+dimwishlist:item=4077196130&perks=3177308360,47981717,2387244414#notes: Steady/OpeningShot/ZenMoment
+dimwishlist:item=4077196130&perks=3177308360,957782887,3038247973#notes: Steady/Snapshot/Explosive
+dimwishlist:item=4077196130&perks=3177308360,957782887,247725512#notes: Steady/Snapshot/RapidHit
 —————————————————————————
 Service Revolver - 43 Rolls
 dimwishlist:item=834081972&perks=2420895100,1168162263,1015611457#notes: Extended/Outlaw/KillClip
