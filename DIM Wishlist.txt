@@ -2643,7 +2643,7 @@ dimwishlist:item=1449922174&perks=1840239774,3177308360,957782887,47981717#notes
 Dreaded Venture - 4 Rolls
 dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,3300816228#notes: Arrowhead/Extended/TripleTap/AutoLoading
 dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,247725512#notes: Arrowhead/Extended/TripleTap/RapidHit
-dimwishlist:itemm=3100452337&perks=1840239774,2420895100,3400784728,3300816228#notes: Fluted/Extended/TripleTap/AutoLoading
+dimwishlist:item=3100452337&perks=1840239774,2420895100,3400784728,3300816228#notes: Fluted/Extended/TripleTap/AutoLoading
 dimwishlist:item=3100452337&perks=1840239774,2420895100,3400784728,247725512#notes: Fluted/Extended/TripleTap/RapidHit
 —————————————————————————
 The Supremacy - 5 Rolls
@@ -3633,3 +3633,4 @@ dimwishlist:item=-69420&perks=1890422124,4267945040#notes: TapTheTrigger/FullAut
 dimwishlist:item=-69420&perks=1631667848,4082225868#notes: GraveRobber/Swashbuckler
 —————————————————————————
 —————————————————————————
+dimwishlist:item=-69420&perks=247725512
