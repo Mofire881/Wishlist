@@ -1182,7 +1182,9 @@ dimwishlist:item=695814388&perks=106909392,957782887,3038247973#notes: TacMag/Sn
 dimwishlist:item=695814388&perks=106909392,957782887,247725512#notes: TacMag/Snapshot/RapidHit
 dimwishlist:item=695814388&perks=106909392,957782887,2387244414#notes: TacMag/Snapshot/ZenMoment
 dimwishlist:item=695814388&perks=3177308360,47981717,3038247973#notes: Steady/OpeningShot/Explosive
-dimwishlist:item=695814388&perks=3177308360,47981717,247725512#notes: Steady/OpeningShot/RapidHit
+
+dimwishlist:item=4077196130&perks=3177308360,47981717,247725512#notes: Steady/OpeningShot/RapidHit
+
 dimwishlist:item=695814388&perks=3177308360,47981717,2387244414#notes: Steady/OpeningShot/ZenMoment
 dimwishlist:item=695814388perks=3177308360,957782887,3038247973#notes: Steady/Snapshot/Explosive
 dimwishlist:item=695814388&perks=3177308360,957782887,247725512#notes: Steady/Snapshot/RapidHit
@@ -3633,4 +3635,3 @@ dimwishlist:item=-69420&perks=1890422124,4267945040#notes: TapTheTrigger/FullAut
 dimwishlist:item=-69420&perks=1631667848,4082225868#notes: GraveRobber/Swashbuckler
 —————————————————————————
 —————————————————————————
-dimwishlist:item=-69420&perks=247725512
