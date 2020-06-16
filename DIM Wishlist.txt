@@ -2480,6 +2480,31 @@ dimwishlist:item=1327264046&perks=4090651448,1087426260,4071163871,3300816228#no
 dimwishlist:item=1327264046&perks=4090651448,2420895100,3161816588,3425386926#notes: Corkscrew/Extended/Slideshot/Rampage
 dimwishlist:item=1327264046&perks=4090651448,2420895100,4071163871,3300816228#notes: Corkscrew/Extended/ThreatDetector/AutoLoading
 —————————————————————————
+Dust Rock Blues - 23 Rolls
+dimwishlist:item=636912560&perks=1332244541,791862061,3161816588,2846385770#notes: Rifled/AssaultMag/Slideshot/Rampage
+dimwishlist:item=636912560&perks=1332244541,791862061,4071163871,3300816228#notes: Rifled/AssaultMag/ThreatDetector/AutoLoading
+dimwishlist:item=636912560&perks=1332244541,1087426260,3161816588,2846385770#notes: Rifled/Appended/Slideshot/Rampage
+dimwishlist:item=636912560&perks=1332244541,1087426260,4071163871,3300816228#notes: Rifled/Appended/ThreatDetector/AutoLoading
+dimwishlist:item=636912560&perks=1332244541,106909392,3161816588,2846385770#notes: Rifled/TacMag/Slideshot/Rampage
+dimwishlist:item=636912560&perks=1332244541,106909392,4071163871,3300816228#notes: Rifled/TacMag/ThreatDetector/AutoLoading
+dimwishlist:item=636912560&perks=1332244541,3142289711,3161816588,957782887#notes: Rifled/Accurized/Slideshot/Snapshot
+dimwishlist:item=636912560&perks=1332244541,3142289711,4071163871,3300816228#notes: Rifled/Accurized/ThreatDetector/AutoLoading
+dimwishlist:item=636912560&perks=1332244541,3142289711,588594999,957782887#notes: Rifled/Accurized/MovingTarget/Snapshot
+dimwishlist:item=636912560&perks=1332244541,3142289711,972757866,957782887#notes: Rifled/Accurized/PulseMonitor/Snapshot
+dimwishlist:item=636912560&perks=1332244541,2420895100,3161816588,2846385770#notes: Rifled/Extended/Slideshot/Rampage
+dimwishlist:item=636912560&perks=1332244541,2420895100,4071163871,3300816228#notes: Rifled/Extended/ThreatDetector/AutoLoading
+dimwishlist:item=636912560&perks=1047830412,3142289711,3161816588,957782887#notes: FullChoke/Accurized/Slideshot/Snapshot
+dimwishlist:item=636912560&perks=1047830412,3142289711,588594999,957782887#notes: FullChoke/Accurized/MovingTarget/Snapshot
+dimwishlist:item=636912560&perks=1047830412,3142289711,972757866,957782887#notes: FullChoke/Accurized/PulseMonitor/Snapshot
+dimwishlist:item=636912560&perks=791862061,3161816588,2846385770#notes: AssaultMag/Slideshot/Rampage
+dimwishlist:item=636912560&perks=791862061,4071163871,3300816228#notes: AssaultMag/ThreatDetector/AutoLoading
+dimwishlist:item=636912560&perks=1087426260,3161816588,2846385770#notes: Appended/Slideshot/Rampage
+dimwishlist:item=636912560&perks=1087426260,4071163871,3300816228#notes: Appended/ThreatDetector/AutoLoading
+dimwishlist:item=636912560&perks=106909392,3161816588,2846385770#notes: TacMag/Slideshot/Rampage
+dimwishlist:item=636912560&perks=106909392,4071163871,3300816228#notes: TacMag/ThreatDetector/AutoLoading
+dimwishlist:item=636912560&perks=2420895100,3161816588,2846385770#notes: Extended/Slideshot/Rampage
+dimwishlist:item=636912560&perks=2420895100,4071163871,3300816228#notes: Extended/ThreatDetector/AutoLoading
+—————————————————————————
 Hawthorne's Field-Forged Shotgun - 18 Rolls
 dimwishlist:item=1807343361&perks=1482024992,791862061,1631667848,2679249093#notes: Smallbore/AssaultMag/GraveRobber/OneTwoPunch
 dimwishlist:item=1807343361&perks=1482024992,791862061,1631667848,3708227201#notes: Smallbore/AssaultMag/GraveRobber/Surrounded
