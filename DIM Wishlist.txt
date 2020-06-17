@@ -3467,6 +3467,34 @@ dimwishlist:item=3745974521&perks=981914802,1716000303,706527188,3300816228#note
 dimwishlist:item=3745974521&perks=981914802,3301904089,706527188,3300816228#notes: HardLaunch/Spike/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=981914802,3032599245,706527188,3300816228#notes: HardLaunch/Blinding/Quickdraw/AutoLoading 
 —————————————————————————
+Truthteller - 26 Rolls
+dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,3523296417#notes: Volatile/Proximity/AutoLoading/Demolitionist
+dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,1683379515#notes: Volatile/Proximity/AutoLoading/Disruption
+dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,3523296417#notes: HardLaunch/Blinding/AutoLoading/Demolitionist
+dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,3523296417#notes: HardLaunch/Blinding/AutoLoading/Disruption
+dimwishlist:item=1946491241&perks=981914802,3032599245,1631667848,4082225868#notes: HardLaunch/Blinding/GraveRobber/Swashbuckler
+dimwishlist:item=1946491241&perks=981914802,3032599245,2779035018,2458213969#notes: HardLaunch/Blinding/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1946491241&perks=981914802,3301904089,3300816228,3523296417#notes: HardLaunch/Spike/AutoLoading/Demolitionist
+dimwishlist:item=1946491241&perks=981914802,3301904089,3300816228,3523296417#notes: HardLaunch/Spike/AutoLoading/Disruption
+dimwishlist:item=1946491241&perks=981914802,3301904089,1631667848,4082225868#notes: HardLaunch/Spike/GraveRobber/Swashbuckler
+dimwishlist:item=1946491241&perks=981914802,3301904089,2779035018,2458213969#notes: HardLaunch/Spike/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1946491241&perks=981914802,1716000303,3300816228,3523296417#notes: HardLaunch/Concussion/AutoLoading/Demolitionist
+dimwishlist:item=1946491241&perks=981914802,1716000303,3300816228,3523296417#notes: HardLaunch/Concussion/AutoLoading/Disruption
+dimwishlist:item=1946491241&perks=981914802,1716000303,1631667848,4082225868#notes: HardLaunch/Concussion/GraveRobber/Swashbuckler
+dimwishlist:item=1946491241&perks=981914802,1716000303,2779035018,2458213969#notes: HardLaunch/Concussion/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,3523296417#notes: QuickLaunch/Blinding/AutoLoading/Demolitionist
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,3523296417#notes: QuickLaunch/Blinding/AutoLoading/Disruption
+dimwishlist:item=1946491241&perks=3525010810,3032599245,1631667848,4082225868#notes: QuickLaunch/Blinding/GraveRobber/Swashbuckler
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2779035018,2458213969#notes: QuickLaunch/Blinding/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,3523296417#notes: QuickLaunch/Spike/AutoLoading/Demolitionist
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,3523296417#notes: QuickLaunch/Spike/AutoLoading/Disruption
+dimwishlist:item=1946491241&perks=3525010810,3301904089,1631667848,4082225868#notes: QuickLaunch/Spike/GraveRobber/Swashbuckler
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,2458213969#notes: QuickLaunch/Spike/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1946491241&perks=3525010810,1716000303,3300816228,3523296417#notes: QuickLaunch/Concussion/AutoLoading/Demolitionist
+dimwishlist:item=1946491241&perks=3525010810,1716000303,3300816228,3523296417#notes: QuickLaunch/Concussion/AutoLoading/Disruption
+dimwishlist:item=1946491241&perks=3525010810,1716000303,1631667848,4082225868#notes: QuickLaunch/Concussion/GraveRobber/Swashbuckler
+dimwishlist:item=1946491241&perks=3525010810,1716000303,2779035018,2458213969#notes: QuickLaunch/Concussion/FeedingFrenzy/MultiKillClip
+—————————————————————————
 —————————————————————————
 [13]: Rocket Launchers 
 —————————————————————————
