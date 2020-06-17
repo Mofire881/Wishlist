@@ -100,10 +100,12 @@ DIM Wishlist Perk Codes:
 4267945040 FullAuto
 863260328 Genesis
 1631667848 GraveRobber
+1866048759 HipFire
 1015611457 KillClip
 1556840489 LeadFromGold
 2458213969 MultiKillClip
 588594999 MovingTarget
+2679249093 OneTwoPunch
 47981717 OpeningShot
 1168162263 Outlaw
 3643424744 Overflow

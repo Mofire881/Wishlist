@@ -2413,6 +2413,23 @@ Anonymous Autumn
 —————————————————————————
 [5]: Shotguns
 —————————————————————————
+Last Man Standing - 14 Rolls
+dimwishlist:item=755130877&perks=1332244541,791862061,1631667848,2679249093#notes: Rifled/AssaultMag/GraveRobber/OneTwoPunch
+dimwishlist:item=755130877&perks=1332244541,791862061,3300816228,3523296417#notes: Rifled/AssaultMag/AutoLoading/Demolitionist
+dimwishlist:item=755130877&perks=1332244541,791862061,3300816228,2679249093#notes: Rifled/AssaultMag/AutoLoading/OneTwoPunch  
+dimwishlist:item=755130877&perks=1332244541,106909392,1631667848,2679249093#notes: Rifled/TacMag/GraveRobber/OneTwoPunch
+dimwishlist:item=755130877&perks=1332244541,106909392,3300816228,3523296417#notes: Rifled/TacMag/AutoLoading/Demolitionist
+dimwishlist:item=755130877&perks=1332244541,106909392,3300816228,2679249093#notes: Rifled/TacMag/AutoLoading/OneTwoPunch 
+dimwishlist:item=755130877&perks=1332244541,3142289711,47981717,3523296417#notes: Rifled/Accurized/OpeningShot/Demolitionist
+dimwishlist:item=755130877&perks=1332244541,3142289711,47981717,1866048759#notes: Rifled/Accurized/OpeningShot/HipFire
+dimwishlist:item=755130877&perks=791862061,1631667848,2679249093#notes: AssaultMag/GraveRobber/OneTwoPunch
+dimwishlist:item=755130877&perks=791862061,3300816228,3523296417#notes: AssaultMag/AutoLoading/Demolitionist
+dimwishlist:item=755130877&perks=791862061,3300816228,2679249093#notes: AssaultMag/AutoLoading/OneTwoPunch  
+dimwishlist:item=755130877&perks=106909392,1631667848,2679249093#notes: TacMag/GraveRobber/OneTwoPunch
+dimwishlist:item=755130877&perks=106909392,3300816228,3523296417#notes: TacMag/AutoLoading/Demolitionist
+dimwishlist:item=755130877&perks=106909392,3300816228,2679249093#notes: TacMag/AutoLoading/OneTwoPunch 
+ 
+—————————————————————————
 Baligant XU7743 - 33 Rolls
 dimwishlist:item=3461377698&perks=1332244541,3142289711,3161816588,3458972548#notes: RifledBarrel/Accurized/Slideshot/Snapshot
 dimwishlist:item=3461377698&perks=1332244541,3142289711,3161816588,588594999#notes: RifledBarrel/Accurized/Slideshot/MovingTarget
