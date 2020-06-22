@@ -2583,40 +2583,17 @@ dimwishlist:item=2217366863&perks=4090651448,2420895100,4071163871,3425386926#no
 dimwishlist:item=2217366863&perks=4090651448,2420895100,4071163871,3300816228#notes: Corkscrew/Extended/ThreatDetector/AutoLoading
 dimwishlist:item=2217366863&perks=4090651448,2420895100,4071163871,3425386926#notes: Corkscrew/Extended/Slideshot/Rampage
 —————————————————————————
-Imperial Decree - 33 Rolls
+Imperial Decree - 9 Rolls
 dimwishlist:item=2919334548&perks=1332244541,3142289711,3161816588,588594999#notes: Rifled/Accurized/Slideshot/MovingTarget
-dimwishlist:item=2919334548&perks=1332244541,3142289711,3161816588,3300816228#notes: Rifled/Accurized/Slideshot/AutoLoading
-dimwishlist:item=2919334548&perks=1332244541,3142289711,4071163871,588594999#notes: Rifled/Accurized/ThreatDetector/MovingTarget
 dimwishlist:item=2919334548&perks=1332244541,3142289711,4071163871,3300816228#notes: Rifled/Accurized/ThreatDetector/AutoLoading
-dimwishlist:item=2919334548&perks=1332244541,3142289711,3161816588,957782887#notes: Rifled/Accurized/Slideshot/Snapshot
-dimwishlist:item=2919334548&perks=1332244541,3142289711,4071163871,957782887#notes: Rifled/Accurized/ThreatDetector/Snapshot
-dimwishlist:item=2919334548&perks=791862061,2779035018,3425386926#notes: Assault/FeedingFrenzy/Rampage
-dimwishlist:item=2919334548&perks=791862061,2779035018,2360754333#notes: Assault/FeedingFrenzy/TrenchBarrel
+dimwishlist:item=2919334548&perks=1332244541,3142289711,972757866,588594999#notes: Rifled/Accurized/PulseMonitor/MovingTarget
+dimwishlist:item=2919334548&perks=1047830412,3142289711,3161816588,957782887#notes: FullChoke/Accurized/Slideshot/Snapshot
+dimwishlist:item=2919334548&perks=1047830412,3142289711,972757866,957782887#notes: FullChoke/Accurized/PulseMonitor/Snapshot
 dimwishlist:item=2919334548&perks=791862061,1631667848,4082225868#notes: Assault/GraveRobber/Swashbuckler
-dimwishlist:item=2919334548&perks=791862061,3161816588,3425386926#notes: Assault/Slideshot/Rampage
-dimwishlist:item=2919334548&perks=791862061,3161816588,2360754333#notes: Assault/Slideshot/TrenchBarrel
-dimwishlist:item=2919334548&perks=791862061,3161816588,3300816228#notes: Assault/Slideshot/AutoLoading
-dimwishlist:item=2919334548&perks=791862061,4071163871,3425386926#notes: Assault/ThreatDetector/Rampage
-dimwishlist:item=2919334548&perks=791862061,4071163871,2360754333#notes: Assault/ThreatDetector/TrenchBarrel
+dimwishlist:item=2919334548&perks=791862061,1631667848,2360754333#notes: Assault/GraveRobber/TrenchBarrel
 dimwishlist:item=2919334548&perks=791862061,4071163871,3300816228#notes: Assault/ThreatDetector/AutoLoading
-dimwishlist:item=2919334548&perks=1087426260,2779035018,3425386926#notes: Appended/FeedingFrenzy/Rampage
-dimwishlist:item=2919334548&perks=1087426260,2779035018,2360754333#notes: Appended/FeedingFrenzy/TrenchBarrel
-dimwishlist:item=2919334548&perks=1087426260,1631667848,4082225868#notes: Appended/GraveRobber/Swashbuckler
-dimwishlist:item=2919334548&perks=1087426260,3161816588,3425386926#notes: Appended/Slideshot/Rampage
-dimwishlist:item=2919334548&perks=1087426260,3161816588,2360754333#notes: Appended/Slideshot/TrenchBarrel
-dimwishlist:item=2919334548&perks=1087426260,3161816588,3300816228#notes: Appended/Slideshot/AutoLoading
-dimwishlist:item=2919334548&perks=1087426260,4071163871,3425386926#notes: Appended/ThreatDetector/Rampage
-dimwishlist:item=2919334548&perks=1087426260,4071163871,2360754333#notes: Appended/ThreatDetector/TrenchBarrel
-dimwishlist:item=2919334548&perks=1087426260,4071163871,3300816228#notes: Appended/ThreatDetector/AutoLoading
-dimwishlist:item=2919334548&perks=1087426260,2779035018,3425386926#notes: Extended/FeedingFrenzy/Rampage
-dimwishlist:item=2919334548&perks=1087426260,2779035018,2360754333#notes: Extended/FeedingFrenzy/TrenchBarrel
-dimwishlist:item=2919334548&perks=1087426260,1631667848,4082225868#notes: Extended/GraveRobber/Swashbuckler
-dimwishlist:item=2919334548&perks=1087426260,3161816588,3425386926#notes: Extended/Slideshot/Rampage
-dimwishlist:item=2919334548&perks=1087426260,3161816588,2360754333#notes: Extended/Slideshot/TrenchBarrel
-dimwishlist:item=2919334548&perks=1087426260,3161816588,3300816228#notes: Extended/Slideshot/AutoLoading
-dimwishlist:item=2919334548&perks=1087426260,4071163871,3425386926#notes: Extended/ThreatDetector/Rampage
-dimwishlist:item=2919334548&perks=1087426260,4071163871,2360754333#notes: Extended/ThreatDetector/TrenchBarrel
-dimwishlist:item=2919334548&perks=1087426260,4071163871,3300816228#notes: Extended/ThreatDetector/AutoLoading
+dimwishlist:item=2919334548&perks=106909392,2779035018,3425386926#notes: TacMag/FeedingFrenzy/Rampage
+
 —————————————————————————
 Seventh Seraph CQC-12  - 22 Rolls
 dimwishlist:item=1821724780&perks=791862061,3161816588,1546637391#notes: AssaultMag/Slideshot/Vorpal

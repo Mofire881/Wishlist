@@ -109,7 +109,7 @@ DIM Wishlist Perk Codes:
 47981717 OpeningShot
 1168162263 Outlaw
 3643424744 Overflow
-972757866 Pulse Monitor
+972757866 PulseMonitor
 706527188 Quickdraw
 247725512 RapidHit
 2846385770 Rangefinder
