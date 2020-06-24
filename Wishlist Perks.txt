@@ -102,6 +102,7 @@ DIM Wishlist Perk Codes:
 1631667848 GraveRobber
 1866048759 HipFire
 1015611457 KillClip
+2450788523 KillingWind
 1556840489 LeadFromGold
 2458213969 MultiKillClip
 588594999 MovingTarget
@@ -125,6 +126,7 @@ DIM Wishlist Perk Codes:
 1954620775 TimedPayload
 806159697 TrenchBarrel
 3400784728 TripleTap
+3108830275 Unrelenting
 1546637391 Vorpal
 2387244414 ZenMoment
 
