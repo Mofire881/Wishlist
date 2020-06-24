@@ -446,6 +446,37 @@ dimwishlist:item=1561006927&perks=679225683,1354429876,1546637391#notes: LightMa
 dimwishlist:item=1561006927&perks=679225683,1354429876,4082225868#notes: LightMag/FourthTime/Swashbuckler
 dimwishlist:item=1561006927&perks=679225683,1354429876,3425386926#notes: LightMag/FourthTime/Rampage
 —————————————————————————
+False Promises - 30 Rolls
+dimwishlist:item=3143732432&perks=1885400500,3643424744,3108830275#notes: Ricochet/Overflow/Unrelenting 
+dimwishlist:item=3143732432&perks=1885400500,3643424744,3425386926#notes: Ricochet/Overflow/Rampage
+dimwishlist:item=3143732432&perks=1885400500,2450788523,3108830275#notes: Ricochet/KillingWind/Unrelenting
+dimwishlist:item=3143732432&perks=1885400500,2450788523,2387244414#notes: Ricochet/KillingWind/ZenMoment
+dimwishlist:item=3143732432&perks=1885400500,2450788523,699525795#notes: Ricochet/KillingWind/EyeOfTheStorm
+dimwishlist:item=3143732432&perks=1885400500,2779035018,3108830275#notes: Ricochet/FeedingFrenzy/Unrelenting 
+dimwishlist:item=3143732432&perks=1885400500,2779035018,3425386926#notes: Ricochet/FeedingFrenzy/Rampage
+dimwishlist:item=3143732432&perks=1885400500,1820235745,3108830275#notes: Ricochet/Subsistence/Unrelenting 
+dimwishlist:item=3143732432&perks=1885400500,1820235745,3425386926#notes: Ricochet/Subsistence/Rampage
+dimwishlist:item=3143732432&perks=1885400500,1359896290,3108830275#notes: Ricochet/DynamicSway/Unrelenting
+dimwishlist:item=3143732432&perks=1885400500,1359896290,2387244414#notes: Ricochet/DynamicSway/ZenMoment
+dimwishlist:item=3143732432&perks=1885400500,1359896290,699525795#notes: Ricochet/DynamicSway/EyeOfTheStorm
+dimwishlist:item=3143732432&perks=3230963543,3643424744,3108830275#notes: FlaredMag/Overflow/Unrelenting 
+dimwishlist:item=3143732432&perks=3230963543,3643424744,3425386926#notes: FlaredMag/Overflow/Rampage
+dimwishlist:item=3143732432&perks=3230963543,2779035018,3108830275#notes: FlaredMag/FeedingFrenzy/Unrelenting 
+dimwishlist:item=3143732432&perks=3230963543,2779035018,3425386926#notes: FlaredMag/FeedingFrenzy/Rampage
+dimwishlist:item=3143732432&perks=3230963543,1820235745,3108830275#notes: FlaredMag/Subsistence/Unrelenting 
+dimwishlist:item=3143732432&perks=3230963543,1820235745,3425386926#notes: FlaredMag/Subsistence/Rampage
+dimwishlist:item=3143732432&perks=1087426260,3643424744,3108830275#notes: Appended/Overflow/Unrelenting 
+dimwishlist:item=3143732432&perks=1087426260,3643424744,3425386926#notes: Appended/Overflow/Rampage
+dimwishlist:item=3143732432&perks=1087426260,2779035018,3108830275#notes: Appended/FeedingFrenzy/Unrelenting 
+dimwishlist:item=3143732432&perks=1087426260,2779035018,3425386926#notes: Appended/FeedingFrenzy/Rampage
+dimwishlist:item=3143732432&perks=1087426260,1820235745,3108830275#notes: Appended/Subsistence/Unrelenting 
+dimwishlist:item=3143732432&perks=1087426260,1820235745,3425386926#notes: Appended/Subsistence/Rampage
+dimwishlist:item=3143732432&perks=1561002382,3643424744,3108830275#notes: High-Cal/Overflow/Unrelenting 
+dimwishlist:item=3143732432&perks=1561002382,3643424744,3425386926#notes: High-Cal/Overflow/Rampage
+dimwishlist:item=3143732432&perks=1561002382,2779035018,3108830275#notes: High-Cal/FeedingFrenzy/Unrelenting 
+dimwishlist:item=3143732432&perks=1561002382,2779035018,3425386926#notes: High-Cal/FeedingFrenzy/Rampage
+dimwishlist:item=3143732432&perks=1561002382,1820235745,3108830275#notes: High-Cal/Subsistence/Unrelenting 
+dimwishlist:item=3143732432&perks=1561002382,1820235745,3425386926#notes: High-Cal/Subsistence/Rampage
 —————————————————————————
 —————————————————————————
 [2]: Hand Cannons 
