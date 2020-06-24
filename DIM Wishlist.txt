@@ -2497,36 +2497,28 @@ dimwishlist:item=3461377698&perks=1482024992,106909392,4071163871,3425386926#not
 dimwishlist:item=3461377698&perks=1482024992,106909392,4071163871,3300816228#notes: Smallbore/TacMag/ThreatDetector/AutoLoading
 dimwishlist:item=3461377698&perks=1482024992,2420895100,4071163871,3300816228#notes: Smallbore/Extended/ThreatDetector/AutoLoading
 —————————————————————————
-Badlander - 29 Rolls
+Badlander - 21 Rolls
 dimwishlist:item=1327264046&perks=1332244541,3142289711,3161816588,3458972548#notes: RifledBarrel/Accurized/Slideshot/Snapshot
 dimwishlist:item=1327264046&perks=1332244541,3142289711,3161816588,706527188#notes: RifledBarrel/Accurized/Slideshot/Quickdraw
 dimwishlist:item=1327264046&perks=1332244541,3142289711,4071163871,3300816228#notes: RifledBarrel/Accurized/ThreatDetector/AutoLoading
 dimwishlist:item=1327264046&perks=1332244541,3142289711,588594999,3458972548#notes: RifledBarrel/Accurized/MovingTarget/Snapshot
 dimwishlist:item=1327264046&perks=1332244541,3142289711,588594999,706527188#notes: RifledBarrel/Accurized/MovingTarget/Quickdraw
-dimwishlist:item=1327264046&perks=1332244541,1087426260,3161816588,3425386926#notes: RifledBarrel/Appended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=1332244541,1087426260,4071163871,3300816228#notes: RifledBarrel/Appended/ThreatDetector/AutoLoading
-dimwishlist:item=1327264046&perks=1332244541,2420895100,3161816588,3425386926#notes: RifledBarrel/Extended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=1332244541,2420895100,4071163871,3300816228#notes: RifledBarrel/Extended/ThreatDetector/AutoLoading
+dimwishlist:item=1327264046&perks=1332244541,1087426260,3161816588,3425386926#notes: RifledBarrel/TacMag/Slideshot/Rampage
+dimwishlist:item=1327264046&perks=1332244541,1087426260,4071163871,3300816228#notes: RifledBarrel/TacMag/ThreatDetector/AutoLoading
 dimwishlist:item=1327264046&perks=1047830412,3142289711,3161816588,3458972548#notes: FullChoke/Accurized/Slideshot/Snapshot
 dimwishlist:item=1327264046&perks=1047830412,3142289711,3161816588,706527188#notes: FullChoke/Accurized/Slideshot/Quickdraw
 dimwishlist:item=1327264046&perks=1047830412,3142289711,588594999,3458972548#notes: FullChoke/Accurized/MovingTarget/Snapshot
 dimwishlist:item=1327264046&perks=1047830412,3142289711,588594999,706527188#notes: FullChoke/Accurized/MovingTarget/Quickdraw
-dimwishlist:item=1327264046&perks=1332244541,1087426260,3161816588,3425386926#notes: Smoothbore/Appended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=1332244541,1087426260,4071163871,3300816228#notes: Smoothbore/Appended/ThreatDetector/AutoLoading
-dimwishlist:item=1327264046&perks=1332244541,2420895100,3161816588,3425386926#notes: Smoothbore/Extended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=1332244541,2420895100,4071163871,3300816228#notes: Smoothbore/Extended/ThreatDetector/AutoLoading
-dimwishlist:item=1327264046&perks=1482024992,1087426260,3161816588,3425386926#notes: Smallbore/Appended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=1482024992,1087426260,4071163871,3300816228#notes: Smallbore/Appended/ThreatDetector/AutoLoading
-dimwishlist:item=1327264046&perks=1482024992,2420895100,3161816588,3425386926#notes: Smallbore/Extended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=1482024992,2420895100,4071163871,3300816228#notes: Smallbore/Extended/ThreatDetector/AutoLoading
-dimwishlist:item=1327264046&perks=1300023272,1087426260,3161816588,3425386926#notes: Shroud/Appended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=1300023272,1087426260,4071163871,3300816228#notes: Shroud/Appended/ThreatDetector/AutoLoading
-dimwishlist:item=1327264046&perks=1300023272,2420895100,3161816588,3425386926#notes: Shroud/Extended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=1300023272,2420895100,4071163871,3300816228#notes: Shroud/Extended/ThreatDetector/AutoLoading
-dimwishlist:item=1327264046&perks=4090651448,1087426260,3161816588,3425386926#notes: Corkscrew/Appended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=4090651448,1087426260,4071163871,3300816228#notes: Corkscrew/Appended/ThreatDetector/AutoLoading
-dimwishlist:item=1327264046&perks=4090651448,2420895100,3161816588,3425386926#notes: Corkscrew/Extended/Slideshot/Rampage
-dimwishlist:item=1327264046&perks=4090651448,2420895100,4071163871,3300816228#notes: Corkscrew/Extended/ThreatDetector/AutoLoading
+dimwishlist:item=1327264046&perks=1047830412,3142289711,972757866,3458972548#notes: FullChoke/Accurized/PulseMonitor/Snapshot
+dimwishlist:item=1327264046&perks=1047830412,3142289711,972757866,706527188#notes: FullChoke/Accurized/PulseMonitor/Quickdraw
+dimwishlist:item=1327264046&perks=1332244541,106909392,3161816588,3425386926#notes: Smoothbore/TacMag/Slideshot/Rampage
+dimwishlist:item=1327264046&perks=1332244541,106909392,4071163871,3300816228#notes: Smoothbore/TacMag/ThreatDetector/AutoLoading
+dimwishlist:item=1327264046&perks=1482024992,106909392,3161816588,3425386926#notes: Smallbore/TacMag/Slideshot/Rampage
+dimwishlist:item=1327264046&perks=1482024992,106909392,4071163871,3300816228#notes: Smallbore/TacMag/ThreatDetector/AutoLoading
+dimwishlist:item=1327264046&perks=1300023272,106909392,3161816588,3425386926#notes: Shroud/TacMag/Slideshot/Rampage
+dimwishlist:item=1327264046&perks=1300023272,106909392,4071163871,3300816228#notes: Shroud/TacMag/ThreatDetector/AutoLoading
+dimwishlist:item=1327264046&perks=4090651448,106909392,3161816588,3425386926#notes: Corkscrew/TacMag/Slideshot/Rampage
+dimwishlist:item=1327264046&perks=4090651448,106909392,4071163871,3300816228#notes: Corkscrew/TacMag/ThreatDetector/AutoLoading
 —————————————————————————
 Dust Rock Blues - 23 Rolls
 dimwishlist:item=636912560&perks=1332244541,791862061,3161816588,2846385770#notes: Rifled/AssaultMag/Slideshot/Rampage
