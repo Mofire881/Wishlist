@@ -2616,7 +2616,20 @@ dimwishlist:item=2919334548&perks=791862061,1631667848,4082225868#notes: Assault
 dimwishlist:item=2919334548&perks=791862061,1631667848,2360754333#notes: Assault/GraveRobber/TrenchBarrel
 dimwishlist:item=2919334548&perks=791862061,4071163871,3300816228#notes: Assault/ThreatDetector/AutoLoading
 dimwishlist:item=2919334548&perks=106909392,2779035018,3425386926#notes: TacMag/FeedingFrenzy/Rampage
-
+—————————————————————————
+Toil And Trouble - 12 Rolls
+dimwishlist:item=2957367743&perks=1332244541,791862061,3161816588,3425386926#notes: Rifled/Assault/Slideshot/Rampage 
+dimwishlist:item=2957367743&perks=1332244541,791862061,4071163871,3300816228#notes: Rifled/Assault/ThreatDetector/AutoLoading 
+dimwishlist:item=2957367743&perks=1332244541,106909392,4071163871,3425386926#notes: Rifled/TacMag/ThreatDetector/Rampage
+dimwishlist:item=2957367743&perks=1332244541,3142289711,3161816588,588594999#notes: Rifled/Accurized/Slideshot/MovingTarget
+dimwishlist:item=2957367743&perks=1332244541,3142289711,4071163871,588594999#notes: Rifled/Accurized/ThreatDetector/MovingTarget
+dimwishlist:item=2957367743&perks=1332244541,3142289711,972757866,588594999#notes: Rifled/Accurized/PulseMonitor/MovingTarget
+dimwishlist:item=2957367743&perks=1047830412,3142289711,3161816588,957782887#notes: FullChoke/Accurized/Slideshot/Snapshot
+dimwishlist:item=2957367743&perks=1047830412,3142289711,4071163871,957782887#notes: FullChoke/Accurized/ThreatDetector/Snapshot
+dimwishlist:item=2957367743&perks=1047830412,3142289711,972757866,957782887#notes: FullChoke/Accurized/PulseMonitor/Snapshot
+dimwishlist:item=2957367743&perks=791862061,3161816588,3425386926#notes: Assault/Slideshot/Rampage 
+dimwishlist:item=2957367743&perks=791862061,4071163871,3300816228#notes: Assault/ThreatDetector/AutoLoading 
+dimwishlist:item=2957367743&perks=106909392,4071163871,3425386926#notes: TacMag/ThreatDetector/Rampage
 —————————————————————————
 Seventh Seraph CQC-12  - 22 Rolls
 dimwishlist:item=1821724780&perks=791862061,3161816588,1546637391#notes: AssaultMag/Slideshot/Vorpal
