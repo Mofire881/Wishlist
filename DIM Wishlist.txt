@@ -3433,6 +3433,31 @@ dimwishlist:item=2582755344&perks=4090651448,2420895100,3300816228,1771339417#no
 dimwishlist:item=2582755344&perks=4090651448,2420895100,2869569095,1546637391#notes: Corkscrew/Extended/FieldPrep/Vorpal
 dimwishlist:item=2582755344&perks=4090651448,2420895100,2869569095,1771339417#notes: Corkscrew/Extended/FieldPrep/FiringLine
 —————————————————————————
+Temporal Clause - 24 Rolls
+dimwishlist:item=3369545945&perks=839105230,1561002382,3300816228,3425386926#notes: Arrowhead/Hi-Cal/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=839105230,1561002382,2010801679,3425386926#notes: Arrowhead/Hi-Cal/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=839105230,1885400500,706527188,2846385770#notes: Arrowhead/Ricochet/Quickdraw/Rangefinder
+dimwishlist:item=3369545945&perks=839105230,1885400500,706527188,699525795#notes: Arrowhead/Ricochet/Quickdraw/EyeOfTheStorm
+dimwishlist:item=3369545945&perks=839105230,1885400500,3300816228,3425386926#notes: Arrowhead/Ricochet/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=839105230,1885400500,2010801679,3425386926#notes: Arrowhead/Ricochet/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=839105230,1087426260,3300816228,3425386926#notes: Arrowhead/Appended/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=839105230,1087426260,2010801679,3425386926#notes: Arrowhead/Appended/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=839105230,3230963543,3300816228,3425386926#notes: Arrowhead/FlaredMag/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=839105230,3230963543,2010801679,3425386926#notes: Arrowhead/FlaredMag/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=839105230,2420895100,3300816228,3425386926#notes: Arrowhead/Extended/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=839105230,2420895100,2010801679,3425386926#notes: Arrowhead/Extended/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=1561002382,3300816228,3425386926#notes: Hi-Cal/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=1561002382,2010801679,3425386926#notes: Hi-Cal/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=1885400500,706527188,2846385770#notes: Ricochet/Quickdraw/Rangefinder
+dimwishlist:item=3369545945&perks=1885400500,706527188,699525795#notes: Ricochet/Quickdraw/EyeOfTheStorm
+dimwishlist:item=3369545945&perks=1885400500,3300816228,3425386926#notes: Ricochet/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=1885400500,2010801679,3425386926#notes: Ricochet/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=1087426260,3300816228,3425386926#notes: Appended/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=1087426260,2010801679,3425386926#notes: Appended/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=3230963543,3300816228,3425386926#notes: FlaredMag/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=3230963543,2010801679,3425386926#notes: FlaredMag/Ambitious/Rampage 
+dimwishlist:item=3369545945&perks=2420895100,3300816228,3425386926#notes: Extended/AutoLoading/Rampage 
+dimwishlist:item=3369545945&perks=2420895100,2010801679,3425386926#notes: Extended/Ambitious/Rampage
 —————————————————————————
 —————————————————————————
 —————————————————————————
