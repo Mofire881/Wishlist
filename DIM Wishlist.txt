@@ -2740,6 +2740,16 @@ dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,957782887#not
 dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,706527188#notes: ExtendedBarrel/Steady/LeadFromGold/Quickdraw
 dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,957782887#notes: ExtendedBarrel/Steady/LeadFromGold/Snapshot
 —————————————————————————
+Apostate - 4 Rolls
+dimwishlist:item=2164448701&perks=3142289711,588594999,957782887#notes: Accurized/MovingTarget/Snapshot
+dimwishlist:item=2164448701&perks=3142289711,588594999,706527188#notes: Accurized/MovingTarget/Quickdraw 
+dimwishlist:item=2164448701&perks=3177308360,588594999,957782887#notes: Steady/MovingTarget/Snapshot
+dimwishlist:item=2164448701&perks=3177308360,588594999,706527188#notes: Steady/MovingTarget/Quickdraw 
+
+—————————————————————————
+—————————————————————————
+—————————————————————————
+—————————————————————————
 [7]: Fusion Rifles
 —————————————————————————
 Timelines' Vertex - 26 Rolls
