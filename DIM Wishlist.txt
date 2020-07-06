@@ -2780,6 +2780,19 @@ dimwishlist:item=3055192515&perks=2969185026,3300816228,3523296417#notes: Projec
 dimwishlist:item=3055192515&perks=2969185026,3300816228,1683379515#notes: Projection/AutoLoading/Disruption
 dimwishlist:item=3055192515&perks=2969185026,3300816228,1600092898#notes: Projection/AutoLoading/BackupPlan
 —————————————————————————
+Elatha FR4 - 9 Rolls
+dimwishlist:item=4106983932&perks=1628165636,3868766766,2866798147,1600092898#notes: Torch/Particle/NoDistractions/BackupPlan 
+dimwishlist:item=4106983932&perks=1628165636,3868766766,2866798147,957782887#notes: Torch/Particle/NoDistractions/Snapshot
+dimwishlist:item=4106983932&perks=1628165636,3868766766,1866048759,1600092898#notes: Torch/Particle/Hipfire/BackupPlan 
+dimwishlist:item=4106983932&perks=1628165636,2969185026,2866798147,1600092898#notes: Torch/Projection/NoDistractions/BackupPlan 
+dimwishlist:item=4106983932&perks=1628165636,2969185026,2866798147,957782887#notes: Torch/Projection/NoDistractions/Snapshot
+dimwishlist:item=4106983932&perks=1628165636,2969185026,1866048759,1600092898#notes: Torch/Projection/Hipfire/BackupPlan
+dimwishlist:item=4106983932&perks=3868766766,2866798147,1600092898#notes: Particle/NoDistractions/BackupPlan 
+dimwishlist:item=4106983932&perks=3868766766,2866798147,957782887#notes: Particle/NoDistractions/Snapshot
+dimwishlist:item=4106983932&perks=3868766766,1866048759,1600092898#notes: Particle/Hipfire/BackupPlan 
+dimwishlist:item=4106983932&perks=2969185026,2866798147,1600092898#notes: Projection/NoDistractions/BackupPlan 
+dimwishlist:item=4106983932&perks=2969185026,2866798147,957782887#notes: Projection/NoDistractions/Snapshot
+dimwishlist:item=4106983932&perks=2969185026,1866048759,1600092898#notes: Projection/Hipfire/BackupPlan
 —————————————————————————
 —————————————————————————
 —————————————————————————

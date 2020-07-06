@@ -106,6 +106,7 @@ DIM Wishlist Perk Codes:
 1556840489 LeadFromGold
 2458213969 MultiKillClip
 588594999 MovingTarget
+2866798147 NoDistractions
 2679249093 OneTwoPunch
 47981717 OpeningShot
 1168162263 Outlaw
