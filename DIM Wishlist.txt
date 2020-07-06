@@ -2695,6 +2695,18 @@ dimwishlist:item=1449922174&perks=1840239774,3177308360,706527188,47981717#notes
 dimwishlist:item=1449922174&perks=1840239774,3177308360,957782887,1015611457#notes: Fluted/SteadyRounds/Snapshot/KillClip
 dimwishlist:item=1449922174&perks=1840239774,3177308360,957782887,47981717#notes: Fluted/SteadyRounds/Snapshot/OpeningShot
 —————————————————————————
+—————————————————————————
+Sole Survivor - 9 Rolls 
+dimwishlist:item=1115104187&perks= 1087426260,3400784728,1771339417#notes: Appended/TripleTap/FiringLine
+dimwishlist:item=1115104187&perks= 1087426260,1354429876,1771339417#notes: Appended/FourthTime/FiringLine
+dimwishlist:item=1115104187&perks= 1087426260,247725512,1771339417#notes: Appended/RapidHit/FiringLine
+dimwishlist:item=1115104187&perks= 1087426260,2869569095,1771339417#notes: Appended/FieldPrep/FiringLine
+dimwishlist:item=1115104187&perks= 3230963543,3400784728,1771339417#notes: FlaredMag/TripleTap/FiringLine
+dimwishlist:item=1115104187&perks= 3230963543,1354429876,1771339417#notes: FlaredMag/FourthTime/FiringLine
+dimwishlist:item=1115104187&perks= 3230963543,247725512,1771339417#notes: FlaredMag/RapidHit/FiringLine
+dimwishlist:item=1115104187&perks= 3230963543,2869569095,1771339417#notes: FlaredMag/FieldPrep/FiringLine
+dimwishlist:item=1115104187&perks= 1885400500,957782887,47981717#notes: Ricochet/Snapshot/OpeningShot
+—————————————————————————
 Dreaded Venture - 4 Rolls
 dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,3300816228#notes: Arrowhead/Extended/TripleTap/AutoLoading
 dimwishlist:item=3100452337&perks=839105230,2420895100,3400784728,247725512#notes: Arrowhead/Extended/TripleTap/RapidHit
