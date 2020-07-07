@@ -2757,7 +2757,6 @@ dimwishlist:item=2164448701&perks=3142289711,588594999,957782887#notes: Accurize
 dimwishlist:item=2164448701&perks=3142289711,588594999,706527188#notes: Accurized/MovingTarget/Quickdraw 
 dimwishlist:item=2164448701&perks=3177308360,588594999,957782887#notes: Steady/MovingTarget/Snapshot
 dimwishlist:item=2164448701&perks=3177308360,588594999,706527188#notes: Steady/MovingTarget/Quickdraw 
-
 —————————————————————————
 —————————————————————————
 —————————————————————————
@@ -2806,6 +2805,88 @@ dimwishlist:item=4106983932&perks=2969185026,2866798147,1600092898#notes: Projec
 dimwishlist:item=4106983932&perks=2969185026,2866798147,957782887#notes: Projection/NoDistractions/Snapshot
 dimwishlist:item=4106983932&perks=2969185026,1866048759,1600092898#notes: Projection/Hipfire/BackupPlan
 —————————————————————————
+Hollow Words - 81 Rolls
+dimwishlist:item=607191995&perks=1840239774,2680121939,2779035018,3708227201#notes: Fluted/Enhanced/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1840239774,2680121939,2039302152,1546637391#notes: Fluted/Enhanced/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1840239774,2680121939,2039302152,3708227201#notes: Fluted/Enhanced/Slideways/Surrounded  
+dimwishlist:item=607191995&perks=1840239774,1483536627,2779035018,3708227201#notes: Fluted/Ionized/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1840239774,1483536627,2039302152,1546637391#notes: Fluted/Ionized/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1840239774,1483536627,2039302152,3708227201#notes: Fluted/Ionized/Slideways/Surrounded
+dimwishlist:item=607191995&perks=1840239774,1687452232,2779035018,3708227201#notes: Fluted/Liquid/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1840239774,1687452232,2039302152,1546637391#notes: Fluted/Liquid/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1840239774,1687452232,2039302152,3708227201#notes: Fluted/Liquid/Slideways/Surrounded
+dimwishlist:item=607191995&perks=1840239774,3868766766,2450788523,1546637391#notes: Fluted/Particle/KillingWind/Vorpal
+dimwishlist:item=607191995&perks=1840239774,3868766766,2450788523,3108830275#notes: Fluted/Particle/KillingWind/Unrelenting
+dimwishlist:item=607191995&perks=1840239774,3868766766,2450788523,1600092898#notes: Fluted/Particle/KillingWind/BackupPlan
+dimwishlist:item=607191995&perks=1840239774,3868766766,2039302152,1546637391#notes: Fluted/Particle/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1840239774,3868766766,2039302152,3108830275#notes: Fluted/Particle/Slideways/Unrelenting
+dimwishlist:item=607191995&perks=1840239774,3868766766,2039302152,1600092898#notes: Fluted/Particle/Slideways/BackupPlan
+dimwishlist:item=607191995&perks=1392496348,2680121939,2779035018,3708227201#notes: Polygonal/Enhanced/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1392496348,2680121939,2039302152,1546637391#notes: Polygonal/Enhanced/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1392496348,2680121939,2039302152,3708227201#notes: Polygonal/Enhanced/Slideways/Surrounded  
+dimwishlist:item=607191995&perks=1392496348,1483536627,2779035018,3708227201#notes: Polygonal/Ionized/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1392496348,1483536627,2039302152,1546637391#notes: Polygonal/Ionized/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1392496348,1483536627,2039302152,3708227201#notes: Polygonal/Ionized/Slideways/Surrounded
+dimwishlist:item=607191995&perks=1392496348,1687452232,2779035018,3708227201#notes: Polygonal/Liquid/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1392496348,1687452232,2039302152,1546637391#notes: Polygonal/Liquid/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1392496348,1687452232,2039302152,3708227201#notes: Polygonal/Liquid/Slideways/Surrounded
+dimwishlist:item=607191995&perks=1392496348,3868766766,2450788523,1546637391#notes: Polygonal/Particle/KillingWind/Vorpal
+dimwishlist:item=607191995&perks=1392496348,3868766766,2450788523,3108830275#notes: Polygonal/Particle/KillingWind/Unrelenting
+dimwishlist:item=607191995&perks=1392496348,3868766766,2450788523,1600092898#notes: Polygonal/Particle/KillingWind/BackupPlan
+dimwishlist:item=607191995&perks=1392496348,3868766766,2039302152,1546637391#notes: Polygonal/Particle/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1392496348,3868766766,2039302152,3108830275#notes: Polygonal/Particle/Slideways/Unrelenting
+dimwishlist:item=607191995&perks=1392496348,3868766766,2039302152,1600092898#notes: Polygonal/Particle/Slideways/BackupPlan
+dimwishlist:item=607191995&perks=1392496348,3868766766,706527188,1546637391#notes: Polygonal/Particle/Quickdraw/Vorpal
+dimwishlist:item=607191995&perks=1392496348,3868766766,706527188,3108830275#notes: Polygonal/Particle/Quickdraw/Unrelenting
+dimwishlist:item=607191995&perks=1482024992,2680121939,2779035018,3708227201#notes: Smallbore/Enhanced/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1482024992,2680121939,2039302152,1546637391#notes: Smallbore/Enhanced/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1482024992,2680121939,2039302152,3708227201#notes: Smallbore/Enhanced/Slideways/Surrounded  
+dimwishlist:item=607191995&perks=1482024992,1483536627,2779035018,3708227201#notes: Smallbore/Ionized/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1482024992,1483536627,2039302152,1546637391#notes: Smallbore/Ionized/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1482024992,1483536627,2039302152,3708227201#notes: Smallbore/Ionized/Slideways/Surrounded
+dimwishlist:item=607191995&perks=1482024992,1687452232,2779035018,3708227201#notes: Smallbore/Liquid/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=1482024992,1687452232,2039302152,1546637391#notes: Smallbore/Liquid/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1482024992,1687452232,2039302152,3708227201#notes: Smallbore/Liquid/Slideways/Surrounded
+dimwishlist:item=607191995&perks=1482024992,3868766766,2450788523,1546637391#notes: Smallbore/Particle/KillingWind/Vorpal
+dimwishlist:item=607191995&perks=1482024992,3868766766,2450788523,3108830275#notes: Smallbore/Particle/KillingWind/Unrelenting
+dimwishlist:item=607191995&perks=1482024992,3868766766,2450788523,1600092898#notes: Smallbore/Particle/KillingWind/BackupPlan
+dimwishlist:item=607191995&perks=1482024992,3868766766,2039302152,1546637391#notes: Smallbore/Particle/Slideways/Vorpal
+dimwishlist:item=607191995&perks=1482024992,3868766766,2039302152,3108830275#notes: Smallbore/Particle/Slideways/Unrelenting
+dimwishlist:item=607191995&perks=1482024992,3868766766,2039302152,1600092898#notes: Smallbore/Particle/Slideways/BackupPlan
+dimwishlist:item=607191995&perks=1482024992,3868766766,706527188,1546637391#notes: Smallbore/Particle/Quickdraw/Vorpal
+dimwishlist:item=607191995&perks=1482024992,3868766766,706527188,3108830275#notes: Smallbore/Particle/Quickdraw/Unrelenting
+dimwishlist:item=607191995&perks=3250034553,2680121939,2779035018,3708227201#notes: HammerForged/Enhanced/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=3250034553,2680121939,2039302152,1546637391#notes: HammerForged/Enhanced/Slideways/Vorpal
+dimwishlist:item=607191995&perks=3250034553,2680121939,2039302152,3708227201#notes: HammerForged/Enhanced/Slideways/Surrounded  
+dimwishlist:item=607191995&perks=3250034553,1483536627,2779035018,3708227201#notes: HammerForged/Ionized/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=3250034553,1483536627,2039302152,1546637391#notes: HammerForged/Ionized/Slideways/Vorpal
+dimwishlist:item=607191995&perks=3250034553,1483536627,2039302152,3708227201#notes: HammerForged/Ionized/Slideways/Surrounded
+dimwishlist:item=607191995&perks=3250034553,1687452232,2779035018,3708227201#notes: HammerForged/Liquid/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=3250034553,1687452232,2039302152,1546637391#notes: HammerForged/Liquid/Slideways/Vorpal
+dimwishlist:item=607191995&perks=3250034553,1687452232,2039302152,3708227201#notes: HammerForged/Liquid/Slideways/Surrounded
+dimwishlist:item=607191995&perks=3250034553,3868766766,2450788523,1546637391#notes: HammerForged/Particle/KillingWind/Vorpal
+dimwishlist:item=607191995&perks=3250034553,3868766766,2450788523,3108830275#notes: HammerForged/Particle/KillingWind/Unrelenting
+dimwishlist:item=607191995&perks=3250034553,3868766766,2450788523,1600092898#notes: HammerForged/Particle/KillingWind/BackupPlan
+dimwishlist:item=607191995&perks=3250034553,3868766766,2039302152,1546637391#notes: HammerForged/Particle/Slideways/Vorpal
+dimwishlist:item=607191995&perks=3250034553,3868766766,2039302152,3108830275#notes: HammerForged/Particle/Slideways/Unrelenting
+dimwishlist:item=607191995&perks=3250034553,3868766766,2039302152,1600092898#notes: HammerForged/Particle/Slideways/BackupPlan
+dimwishlist:item=607191995&perks=3250034553,3868766766,706527188,1546637391#notes: HammerForged/Particle/Quickdraw/Vorpal
+dimwishlist:item=607191995&perks=3250034553,3868766766,706527188,3108830275#notes: HammerForged/Particle/Quickdraw/Unrelenting
+dimwishlist:item=607191995&perks=4090651448,2680121939,2779035018,3708227201#notes: Corkscrew/Enhanced/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=4090651448,2680121939,2039302152,1546637391#notes: Corkscrew/Enhanced/Slideways/Vorpal
+dimwishlist:item=607191995&perks=4090651448,2680121939,2039302152,3708227201#notes: Corkscrew/Enhanced/Slideways/Surrounded  
+dimwishlist:item=607191995&perks=4090651448,1483536627,2779035018,3708227201#notes: Corkscrew/Ionized/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=4090651448,1483536627,2039302152,1546637391#notes: Corkscrew/Ionized/Slideways/Vorpal
+dimwishlist:item=607191995&perks=4090651448,1483536627,2039302152,3708227201#notes: Corkscrew/Ionized/Slideways/Surrounded
+dimwishlist:item=607191995&perks=4090651448,1687452232,2779035018,3708227201#notes: Corkscrew/Liquid/FeedingFrenzy/Surrounded
+dimwishlist:item=607191995&perks=4090651448,1687452232,2039302152,1546637391#notes: Corkscrew/Liquid/Slideways/Vorpal
+dimwishlist:item=607191995&perks=4090651448,1687452232,2039302152,3708227201#notes: Corkscrew/Liquid/Slideways/Surrounded
+dimwishlist:item=607191995&perks=4090651448,3868766766,2450788523,1546637391#notes: Corkscrew/Particle/KillingWind/Vorpal
+dimwishlist:item=607191995&perks=4090651448,3868766766,2450788523,3108830275#notes: Corkscrew/Particle/KillingWind/Unrelenting
+dimwishlist:item=607191995&perks=4090651448,3868766766,2450788523,1600092898#notes: Corkscrew/Particle/KillingWind/BackupPlan
+dimwishlist:item=607191995&perks=4090651448,3868766766,2039302152,1546637391#notes: Corkscrew/Particle/Slideways/Vorpal
+dimwishlist:item=607191995&perks=4090651448,3868766766,2039302152,3108830275#notes: Corkscrew/Particle/Slideways/Unrelenting
+dimwishlist:item=607191995&perks=4090651448,3868766766,2039302152,1600092898#notes: Corkscrew/Particle/Slideways/BackupPlan
 —————————————————————————
 —————————————————————————
 —————————————————————————
