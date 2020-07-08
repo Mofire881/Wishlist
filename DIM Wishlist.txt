@@ -2830,6 +2830,21 @@ dimwishlist:item=4106983932&perks=2969185026,2866798147,1600092898#notes: Projec
 dimwishlist:item=4106983932&perks=2969185026,2866798147,957782887#notes: Projection/NoDistractions/Snapshot
 dimwishlist:item=4106983932&perks=2969185026,1866048759,1600092898#notes: Projection/Hipfire/BackupPlan
 —————————————————————————
+Main Ingredient - 12 Rolls
+dimwishlist:item=253196586&perks=2405638014,3868766766,3300816228,1600092898#notes: RedDotMicro/Particle/AutoLoading/BackupPlan 
+dimwishlist:item=253196586&perks=2405638014,3868766766,3300816228,706527188#notes: RedDotMicro/Particle/AutoLoading/Quickdraw
+dimwishlist:item=253196586&perks=2405638014,3868766766,588594999,1600092898#notes: RedDotMicro/Particle/MovingTarget/BackupPlan 
+dimwishlist:item=253196586&perks=2405638014,3868766766,588594999,2846385770#notes: RedDotMicro/Particle/MovingTarget/Rangefinder
+dimwishlist:item=253196586&perks=2405638014,3868766766,588594999,1890422124#notes: RedDotMicro/Particle/MovingTarget/TapTheTrigger
+dimwishlist:item=253196586&perks=2405638014,3868766766,588594999,706527188#notes: RedDotMicro/Particle/MovingTarget/Quickdraw
+dimwishlist:item=253196586&perks=2405638014,3868766766,1866048759,1600092898#notes: RedDotMicro/Particle/HipFire/BackupPlan 
+dimwishlist:item=253196586&perks=2405638014,3868766766,1866048759,706527188#notes: RedDotMicro/Particle/HipFire/Quickdraw
+dimwishlist:item=253196586&perks=3868766766,3300816228,1600092898#notes: Particle/AutoLoading/BackupPlan 
+dimwishlist:item=253196586&perks=3868766766,588594999,1600092898#notes: Particle/MovingTarget/BackupPlan 
+dimwishlist:item=253196586&perks=3868766766,588594999,2846385770#notes: Particle/MovingTarget/Rangefinder
+dimwishlist:item=253196586&perks=3868766766,588594999,1890422124#notes: Particle/MovingTarget/TapTheTrigger
+—————————————————————————
+—————————————————————————
 Hollow Words - 81 Rolls
 dimwishlist:item=607191995&perks=1840239774,2680121939,2779035018,3708227201#notes: Fluted/Enhanced/FeedingFrenzy/Surrounded
 dimwishlist:item=607191995&perks=1840239774,2680121939,2039302152,1546637391#notes: Fluted/Enhanced/Slideways/Vorpal
