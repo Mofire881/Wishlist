@@ -3737,29 +3737,21 @@ dimwishlist:item=3745974521&perks=981914802,1716000303,706527188,3300816228#note
 dimwishlist:item=3745974521&perks=981914802,3301904089,706527188,3300816228#notes: HardLaunch/Spike/Quickdraw/AutoLoading
 dimwishlist:item=3745974521&perks=981914802,3032599245,706527188,3300816228#notes: HardLaunch/Blinding/Quickdraw/AutoLoading 
 —————————————————————————
-Orewing's Maul - 22 Rolls
+Orewing's Maul - 14 Rolls
 dimwishlist:item=2108920981&perks=3525010810,3301904089,2869569095,3523296417#notes: QuickLaunch/Spike/FieldPrep/Demolitionist
-dimwishlist:item=2108920981&perks=3525010810,3301904089,972757866,3300816228#notes: QuickLaunch/Spike/Pulse/AutoLoading
-dimwishlist:item=2108920981&perks=3525010810,3301904089,972757866,3523296417#notes: QuickLaunch/Spike/Pulse/Demolitionist
 dimwishlist:item=2108920981&perks=3525010810,3032599245,2869569095,3523296417#notes: QuickLaunch/Blinding/FieldPrep/Demolitionist
-dimwishlist:item=2108920981&perks=3525010810,3032599245,972757866,3300816228#notes: QuickLaunch/Blinding/Pulse/AutoLoading
-dimwishlist:item=2108920981&perks=3525010810,3032599245,972757866,3523296417#notes: QuickLaunch/Blinding/Pulse/Demolitionist
 dimwishlist:item=2108920981&perks=3525010810,1716000303,2869569095,3523296417#notes: QuickLaunch/Concussion/FieldPrep/Demolitionist
-dimwishlist:item=2108920981&perks=3525010810,1716000303,972757866,3300816228#notes: QuickLaunch/Concussion/Pulse/AutoLoading
-dimwishlist:item=2108920981&perks=3525010810,1716000303,972757866,3523296417#notes: QuickLaunch/Concussion/Pulse/Demolitionist
-dimwishlist:item=2108920981&perks=1478423395,409831596,972757866,3300816228#notes: Volatile/Proximity/Pulse/AutoLoading
-dimwishlist:item=2108920981&perks=1478423395,409831596,972757866,3523296417#notes: Volatile/Proximity/Pulse/Demolitionist
 dimwishlist:item=2108920981&perks=1478423395,409831596,706527188,3300816228#notes: Volatile/Proximity/Quickdraw/AutoLoading
 dimwishlist:item=2108920981&perks=1478423395,409831596,706527188,3523296417#notes: Volatile/Proximity/Quickdraw/Demolitionist
 dimwishlist:item=2108920981&perks=981914802,3301904089,2869569095,3523296417#notes: HardLaunch/Spike/FieldPrep/Demolitionist
-dimwishlist:item=2108920981&perks=981914802,3301904089,972757866,3300816228#notes: HardLaunch/Spike/Pulse/AutoLoading
-dimwishlist:item=2108920981&perks=981914802,3301904089,972757866,3523296417#notes: HardLaunch/Spike/Pulse/Demolitionist
+dimwishlist:item=2108920981&perks=981914802,3301904089,706527188,3300816228#notes: HardLaunch/Spike/Quickdraw/AutoLoading
+dimwishlist:item=2108920981&perks=981914802,3301904089,706527188,3523296417#notes: HardLaunch/Spike/Quickdraw/Demolitionist
 dimwishlist:item=2108920981&perks=981914802,3032599245,2869569095,3523296417#notes: HardLaunch/Blinding/FieldPrep/Demolitionist
-dimwishlist:item=2108920981&perks=981914802,3032599245,972757866,3300816228#notes: HardLaunch/Blinding/Pulse/AutoLoading
-dimwishlist:item=2108920981&perks=981914802,3032599245,972757866,3523296417#notes: HardLaunch/Blinding/Pulse/Demolitionist
+dimwishlist:item=2108920981&perks=981914802,3032599245,706527188,3300816228#notes: HardLaunch/Blinding/Quickdraw/AutoLoading
+dimwishlist:item=2108920981&perks=981914802,3032599245,706527188,3523296417#notes: HardLaunch/Blinding/Quickdraw/Demolitionist
 dimwishlist:item=2108920981&perks=981914802,1716000303,2869569095,3523296417#notes: HardLaunch/Concussion/FieldPrep/Demolitionist
-dimwishlist:item=2108920981&perks=981914802,1716000303,972757866,3300816228#notes: HardLaunch/Concussion/Pulse/AutoLoading
-dimwishlist:item=2108920981&perks=981914802,1716000303,972757866,3523296417#notes: HardLaunch/Concussion/Pulse/Demolitionist
+dimwishlist:item=2108920981&perks=981914802,1716000303,706527188,3300816228#notes: HardLaunch/Concussion/Quickdraw/AutoLoading
+dimwishlist:item=2108920981&perks=981914802,1716000303,706527188,3523296417#notes: HardLaunch/Concussion/Quickdraw/Demolitionist
 —————————————————————————
 Truthteller - 26 Rolls
 dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,3523296417#notes: Volatile/Proximity/AutoLoading/Demolitionist
