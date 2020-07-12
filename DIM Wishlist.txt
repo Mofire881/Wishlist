@@ -1920,6 +1920,41 @@ dimwishlist:item=766323545&perks=4090651448,4134353779,1354429876,2848615171#not
 dimwishlist:item=766323545&perks=4090651448,3230963543,1354429876,1546637391#notes: Corkscrew/FlaredMag/FourthTime/Vorpal
 dimwishlist:item=766323545&perks=4090651448,3230963543,1354429876,2848615171#notes: Corkscrew/FlaredMag/FourthTime/Dragonfly
 —————————————————————————
+Ikelos_SMG_v1.0.2 - 30 Rolls
+dimwishlist:item=2222560548&perks=106909392,4071163871,1546637391#notes: TacMag/ThreatDetector/Vorpal
+dimwishlist:item=2222560548&perks=106909392,4071163871,3523296417#notes: TacMag/ThreatDetector/Demolitionist
+dimwishlist:item=2222560548&perks=106909392,4071163871,3708227201#notes: TacMag/ThreatDetector/Surrounded
+dimwishlist:item=2222560548&perks=106909392,1820235745,1546637391#notes: TacMag/Subsistence/Vorpal
+dimwishlist:item=2222560548&perks=106909392,1820235745,3523296417#notes: TacMag/Subsistence/Demolitionist
+dimwishlist:item=2222560548&perks=106909392,1820235745,3708227201#notes: TacMag/Subsistence/Surrounded
+dimwishlist:item=2222560548&perks=3230963543,4071163871,1546637391#notes: FlaredMag/ThreatDetector/Vorpal
+dimwishlist:item=2222560548&perks=3230963543,4071163871,3523296417#notes: FlaredMag/ThreatDetector/Demolitionist
+dimwishlist:item=2222560548&perks=3230963543,4071163871,3708227201#notes: FlaredMag/ThreatDetector/Surrounded
+dimwishlist:item=2222560548&perks=3230963543,1820235745,1546637391#notes: FlaredMag/Subsistence/Vorpal
+dimwishlist:item=2222560548&perks=3230963543,1820235745,3523296417#notes: FlaredMag/Subsistence/Demolitionist
+dimwishlist:item=2222560548&perks=3230963543,1820235745,3708227201#notes: FlaredMag/Subsistence/Surrounded
+dimwishlist:item=2222560548&perks=1140096971,4071163871,1546637391#notes: SeraphRounds/ThreatDetector/Vorpal
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3523296417#notes: SeraphRounds/ThreatDetector/Demolitionist
+dimwishlist:item=2222560548&perks=1140096971,4071163871,1890422124#notes: SeraphRounds/ThreatDetector/TapTheTrigger
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1546637391#notes: SeraphRounds/DynamicSway/Vorpal
+dimwishlist:item=2222560548&perks=1140096971,1359896290,3523296417#notes: SeraphRounds/DynamicSway/Demolitionist
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124#notes: SeraphRounds/DynamicSway/TapTheTrigger
+dimwishlist:item=2222560548&perks=3142289711,4071163871,1546637391#notes: Accurized/ThreatDetector/Vorpal
+dimwishlist:item=2222560548&perks=3142289711,4071163871,3523296417#notes: Accurized/ThreatDetector/Demolitionist
+dimwishlist:item=2222560548&perks=3142289711,4071163871,1890422124#notes: Accurized/ThreatDetector/TapTheTrigger
+dimwishlist:item=2222560548&perks=3142289711,1359896290,1546637391#notes: Accurized/DynamicSway/Vorpal
+dimwishlist:item=2222560548&perks=3142289711,1359896290,3523296417#notes: Accurized/DynamicSway/Demolitionist
+dimwishlist:item=2222560548&perks=3142289711,1359896290,1890422124#notes: Accurized/DynamicSway/TapTheTrigger
+dimwishlist:item=2222560548&perks=3177308360,4071163871,1546637391#notes: Steady/ThreatDetector/Vorpal
+dimwishlist:item=2222560548&perks=3177308360,4071163871,3523296417#notes: Steady/ThreatDetector/Demolitionist
+dimwishlist:item=2222560548&perks=3177308360,4071163871,1890422124#notes: Steady/ThreatDetector/TapTheTrigger
+dimwishlist:item=2222560548&perks=3177308360,1359896290,1546637391#notes: Steady/DynamicSway/Vorpal
+dimwishlist:item=2222560548&perks=3177308360,1359896290,3523296417#notes: Steady/DynamicSway/Demolitionist
+dimwishlist:item=2222560548&perks=3177308360,1359896290,1890422124#notes: Steady/DynamicSway/TapTheTrigger
+—————————————————————————
+—————————————————————————
+—————————————————————————
+—————————————————————————
 [4]: Sidearms 
 —————————————————————————
 Smuggler's Word - 46 Rolls
@@ -3645,6 +3680,23 @@ dimwishlist:item=218335759&perks=3525010810,1771897777,4071163871,706527188#note
 dimwishlist:item=218335759&perks=3525010810,1771897777,4071163871,3096702027#notes:QuickLaunch/Augmented/FieldPrep/Genesis
 dimwishlist:item=218335759&perks=3525010810,1771897777,3300816228,706527188#notes:QuickLaunch/Augmented/AutoLoading/Quickdraw
 dimwishlist:item=218335759&perks=3525010810,1771897777,3300816228,3096702027#notes:QuickLaunch/Augmented/AutoLoading/Genesis
+—————————————————————————
+Berenger's Memory - 13 Rolls
+dimwishlist:item=407621213&perks=981914802,3301904089,706527188,3523296417#notes: HardLaunch/Spike/QuickDraw/Demolitionist
+dimwishlist:item=407621213&perks=981914802,3301904089,706527188,3300816228#notes: HardLaunch/Spike/QuickDraw/AutoLoading
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,1683379515#notes: HardLaunch/Spike/FieldPrep/Disruption 
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3523296417#notes: HardLaunch/Spike/FieldPrep/Demolitionist
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,1683379515#notes: HardLaunch/Spike/Clown/Disruption 
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3523296417#notes: HardLaunch/Spike/Clown/Demolitionist
+dimwishlist:item=407621213&perks=3525010810,3301904089,706527188,3523296417#notes: QuickLaunch/Spike/QuickDraw/Demolitionist
+dimwishlist:item=407621213&perks=3525010810,3301904089,706527188,3300816228#notes: QuickLaunch/Spike/QuickDraw/AutoLoading
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,1683379515#notes: QuickLaunch/Spike/FieldPrep/Disruption 
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417#notes: QuickLaunch/Spike/FieldPrep/Demolitionist
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,1683379515#notes: QuickLaunch/Spike/Clown/Disruption 
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3523296417#notes: QuickLaunch/Spike/Clown/Demolitionist
+dimwishlist:item=407621213&perks=1478423395,409831596,706527188,3523296417#notes: Volatile/Proximity/QuickDraw/Demolitionist
+—————————————————————————
+—————————————————————————
 —————————————————————————
 Interference VI - 23 Rolls
 dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417#notes: HardLaunch/Spike/AutoLoading/Demolitionist

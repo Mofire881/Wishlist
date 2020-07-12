@@ -121,6 +121,7 @@ DIM Wishlist Perk Codes:
 247725512 RapidHit
 2846385770 Rangefinder
 3425386926 Rampage
+1140096971 SeraphRounds
 3161816588 Slideshot
 2039302152 Slideways
 1820235745 Subsistence
