@@ -82,6 +82,7 @@ DIM Wishlist Perk Codes:
 679225683 LightMag
 409831596 Proximity
 1885400500 Ricochet
+1140096971 Seraph
 3301904089 Spike
 3177308360 Steady
 106909392 TacMag
@@ -121,7 +122,6 @@ DIM Wishlist Perk Codes:
 247725512 RapidHit
 2846385770 Rangefinder
 3425386926 Rampage
-1140096971 SeraphRounds
 3161816588 Slideshot
 2039302152 Slideways
 1820235745 Subsistence
