@@ -2436,7 +2436,6 @@ dimwishlist:item=755130877&perks=791862061,3300816228,2679249093#notes: AssaultM
 dimwishlist:item=755130877&perks=106909392,1631667848,2679249093#notes: TacMag/GraveRobber/OneTwoPunch
 dimwishlist:item=755130877&perks=106909392,3300816228,3523296417#notes: TacMag/AutoLoading/Demolitionist
 dimwishlist:item=755130877&perks=106909392,3300816228,2679249093#notes: TacMag/AutoLoading/OneTwoPunch 
- 
 —————————————————————————
 Baligant XU7743 - 33 Rolls
 dimwishlist:item=3461377698&perks=1332244541,3142289711,3161816588,3458972548#notes: RifledBarrel/Accurized/Slideshot/Snapshot
@@ -2738,6 +2737,32 @@ dimwishlist:item=3616586446&perks=202670084,3142289711,3161816588,699525795#note
 dimwishlist:item=3616586446&perks=202670084,3142289711,972757866,1546637391#notes: Fullbore/Accurized/Pulse/Vorpal 
 dimwishlist:item=3616586446&perks=202670084,3142289711,972757866,47981717#notes: Fullbore/Accurized/Pulse/OpeningShot
 dimwishlist:item=3616586446&perks=202670084,3142289711,972757866,699525795#notes: Fullbore/Accurized/Pulse/EyeOfTheStorm
+—————————————————————————
+Ikelos_SG_v1.0.2 - 19 Rolls
+dimwishlist:item=1096206669&perks=3142289711,280464955,1546637391#notes: Accurized/FirmlyPlanted/Vorpal
+dimwishlist:item=1096206669&perks=3142289711,588594999,1546637391#notes: Accurized/MovingTarget/Vorpal 
+dimwishlist:item=1096206669&perks=3142289711,972757866,1546637391#notes: Accurized/Pulse/Vorpal 
+dimwishlist:item=1096206669&perks=3142289711,4071163871,1546637391#notes: Accurized/ThreatDetector/Vorpal 
+dimwishlist:item=1096206669&perks=106909392,2779035018,1546637391#notes: TacMag/FeedingFrenzy/Vorpal
+dimwishlist:item=1096206669&perks=106909392,2779035018,806159697#notes: TacMag/FeedingFrenzy/TrenchBarrel
+dimwishlist:item=1096206669&perks=106909392,2779035018,3708227201#notes: TacMag/FeedingFrenzy/Surrounded
+dimwishlist:item=1096206669&perks=106909392,2779035018,3425386926#notes: TacMag/FeedingFrenzy/Rampage
+dimwishlist:item=1096206669&perks=106909392,1556840489,1546637391#notes: TacMag/LeadFromGold/Vorpal
+dimwishlist:item=1096206669&perks=106909392,1556840489,806159697#notes: TacMag/LeadFromGold/TrenchBarrel
+dimwishlist:item=1096206669&perks=106909392,1556840489,3708227201#notes: TacMag/LeadFromGold/Surrounded
+dimwishlist:item=1096206669&perks=106909392,1556840489,3425386926#notes: TacMag/LeadFromGold/Rampage
+dimwishlist:item=1096206669&perks=106909392,972757866,1546637391#notes: TacMag/PulseMonitor/Vorpal
+dimwishlist:item=1096206669&perks=106909392,972757866,806159697#notes: TacMag/PulseMonitor/TrenchBarrel
+dimwishlist:item=1096206669&perks=106909392,972757866,3708227201#notes: TacMag/PulseMonitor/Surrounded
+dimwishlist:item=1096206669&perks=106909392,972757866,3425386926#notes: TacMag/PulseMonitor/Rampage
+dimwishlist:item=1096206669&perks=106909392,4071163871,1546637391#notes: TacMag/ThreatDetector/Vorpal
+dimwishlist:item=1096206669&perks=106909392,4071163871,806159697#notes: TacMag/ThreatDetector/TrenchBarrel
+dimwishlist:item=1096206669&perks=106909392,4071163871,3708227201#notes: TacMag/ThreatDetector/Surrounded
+dimwishlist:item=1096206669&perks=106909392,4071163871,3425386926#notes: TacMag/ThreatDetector/Rampage
+—————————————————————————
+—————————————————————————
+—————————————————————————
+—————————————————————————
 —————————————————————————
 [6]: Sniper Rifles
 —————————————————————————
