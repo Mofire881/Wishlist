@@ -3760,6 +3760,11 @@ dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,1683379515#not
 dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3523296417#notes: QuickLaunch/Spike/Clown/Demolitionist
 dimwishlist:item=407621213&perks=1478423395,409831596,706527188,3523296417#notes: Volatile/Proximity/QuickDraw/Demolitionist
 —————————————————————————
+Doomsday - 4 Rolls
+dimwishlist:item=736901634&perks=3525010810,3301904089,3300816228,2888557110#notes: QuickLaunch/Spike/AutoLoading/FullCourt 
+dimwishlist:item=736901634&perks=3525010810,3301904089,3300816228,2888557110#notes: QuickLaunch/Spike/FieldPrep/FullCourt 
+dimwishlist:item=736901634&perks=981914802,3301904089,3300816228,2888557110#notes: HardLaunch/Spike/AutoLoading/FullCourt 
+dimwishlist:item=736901634&perks=981914802,3301904089,3300816228,2888557110#notes: HardLaunch/Spike/FieldPrep/FullCourt 
 —————————————————————————
 —————————————————————————
 Interference VI - 23 Rolls
