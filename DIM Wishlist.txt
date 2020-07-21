@@ -3244,7 +3244,7 @@ dimwishlist:item=3199662972&perks=1885400500,588594999,2387244414#notes: Ricoche
 dimwishlist:item=3199662972&perks=1885400500,588594999,1015611457#notes: Ricochet/MovingTarget/KillClip
 dimwishlist:item=3199662972&perks=1885400500,588594999,957782887#notes: Ricochet/MovingTarget/Snapshot
 —————————————————————————
-Nightwatch - 22 Rolls
+Nightshade - 22 Rolls
 dimwishlist:item=792755504&perks=106909392,2010801679,3425386926#notes: TacMag/Ambitious/Rampage 
 dimwishlist:item=792755504&perks=106909392,2010801679,1015611457#notes: TacMag/Ambitious/KillClip
 dimwishlist:item=792755504&perks=1087426260,1168162263,3425386926#notes: Appended/Outlaw/Rampage 
@@ -3381,29 +3381,9 @@ dimwishlist:item=720351795&perks=2801223209,3827198035,706527188,201365942#notes
 Patron of Lost Causes - 1 Roll
 dimwishlist:item=2723241847&perks=839105230,3142289711,247725512,3038247973#notes: ArrowheadBrake/Accurized/RapidHit/ExplosivePayload
 —————————————————————————
-Night Watch - 86 Rolls
+Night Watch - 20 Rolls
 —————————————————————————
-dimwishlist:item=3504336176&perks=106909392,247725512,3038247973#notes:TacMag/RapidHit/Explosive
-dimwishlist:item=3504336176&perks=106909392,247725512,3425386926#notes:TacMag/RapidHit/Rampage
-dimwishlist:item=3504336176&perks=106909392,247725512,2458213969#notes:TacMag/RapidHit/MultiKillClip
-dimwishlist:item=3504336176&perks=106909392,247725512,588594999#notes:TacMag/RapidHit/MovingTarget
-dimwishlist:item=3504336176&perks=106909392,247725512,3523296417#notes:TacMag/RapidHit/Demolitionist
-dimwishlist:item=3504336176&perks=106909392,1820235745,3038247973#notes:TacMag/Subsistence/Explosive
-dimwishlist:item=3504336176&perks=106909392,1820235745,3425386926#notes:TacMag/Subsistence/Rampage
-dimwishlist:item=3504336176&perks=106909392,1820235745,3523296417#notes:TacMag/Subsistence/Demolitionist
-dimwishlist:item=3504336176&perks=106909392,957782887,3038247973#notes:TacMag/Snapshot/Explosive
-dimwishlist:item=3504336176&perks=106909392,957782887,588594999#notes:TacMag/Snapshot/MovingTarget
-dimwishlist:item=3504336176&perks=1087426260,1168162263,3038247973#notes:Appended/Outlaw/Explosive
-dimwishlist:item=3504336176&perks=1087426260,1168162263,3425386926#notes:Appended/Outlaw/Rampage
-dimwishlist:item=3504336176&perks=1087426260,1168162263,2458213969#notes:Appended/Outlaw/MultiKillClip
-dimwishlist:item=3504336176&perks=1087426260,1168162263,3523296417#notes:Appended/Outlaw/Demolitionist
 dimwishlist:item=3504336176&perks=1087426260,247725512,3038247973#notes:Appended/RapidHit/Explosive
-dimwishlist:item=3504336176&perks=1087426260,247725512,3425386926#notes:Appended/RapidHit/Rampage
-dimwishlist:item=3504336176&perks=1087426260,247725512,2458213969#notes:Appended/RapidHit/MultiKillClip
-dimwishlist:item=3504336176&perks=1087426260,247725512,3523296417#notes:Appended/RapidHit/Demolitionist
-dimwishlist:item=3504336176&perks=1087426260,1820235745,3038247973#notes:Appended/Subsistence/Explosive
-dimwishlist:item=3504336176&perks=1087426260,1820235745,3425386926#notes:Appended/Subsistence/Rampage
-dimwishlist:item=3504336176&perks=1087426260,1820235745,3523296417#notes:Appended/Subsistence/Demolitionist
 dimwishlist:item=3504336176&perks=3142289711,247725512,3038247973#notes:Accurized/RapidHit/Explosive
 dimwishlist:item=3504336176&perks=3142289711,247725512,588594999#notes:Accurized/RapidHit/MovingTarget
 dimwishlist:item=3504336176&perks=3142289711,957782887,3038247973#notes:Accurized/Snapshot/Explosive
@@ -3412,41 +3392,8 @@ dimwishlist:item=3504336176&perks=3177308360,247725512,3038247973#notes:SteadyRo
 dimwishlist:item=3504336176&perks=3177308360,247725512,588594999#notes:SteadyRounds/RapidHit/MovingTarget
 dimwishlist:item=3504336176&perks=3177308360,957782887,3038247973#notes:SteadyRounds/Snapshot/Explosive
 dimwishlist:item=3504336176&perks=3177308360,957782887,588594999#notes:SteadyRounds/Snapshot/MovingTarget
-dimwishlist:item=3504336176&perks=3230963543,1820235745,3038247973#notes:FlaredMag/Subsistence/Explosive
-dimwishlist:item=3504336176&perks=3230963543,1820235745,3425386926#notes:FlaredMag/Subsistence/Rampage
-dimwishlist:item=3504336176&perks=3230963543,1820235745,3523296417#notes:FlaredMag/Subsistence/Demolitionist
-dimwishlist:item=3504336176&perks=2420895100,1168162263,3038247973#notes:Extended/Outlaw/Explosive
-dimwishlist:item=3504336176&perks=2420895100,1168162263,3425386926#notes:Extended/Outlaw/Rampage
-dimwishlist:item=3504336176&perks=2420895100,1168162263,2458213969#notes:Extended/Outlaw/MultiKillClip
-dimwishlist:item=3504336176&perks=2420895100,1168162263,3523296417#notes:Extended/Outlaw/Demolitionist
 dimwishlist:item=3504336176&perks=2420895100,247725512,3038247973#notes:Extended/RapidHit/Explosive
-dimwishlist:item=3504336176&perks=2420895100,247725512,3425386926#notes:Extended/RapidHit/Rampage
-dimwishlist:item=3504336176&perks=2420895100,247725512,2458213969#notes:Extended/RapidHit/MultiKillClip
-dimwishlist:item=3504336176&perks=2420895100,247725512,3523296417#notes:Extended/RapidHit/Demolitionist
-dimwishlist:item=3504336176&perks=2420895100,1820235745,3038247973#notes:Extended/Subsistence/Explosive
-dimwishlist:item=3504336176&perks=2420895100,1820235745,3425386926#notes:Extended/Subsistence/Rampage
-dimwishlist:item=3504336176&perks=2420895100,1820235745,3523296417#notes:Extended/Subsistence/Demolitionist
-dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973#notes:Arrowhead/TacMag/RapidHit/Explosive
-dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3425386926#notes:Arrowhead/TacMag/RapidHit/Rampage
-dimwishlist:item=3504336176&perks=839105230,106909392,247725512,2458213969#notes:Arrowhead/TacMag/RapidHit/MultiKillClip
-dimwishlist:item=3504336176&perks=839105230,106909392,247725512,588594999#notes:Arrowhead/TacMag/RapidHit/MovingTarget
-dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3523296417#notes:Arrowhead/TacMag/RapidHit/Demolitionist
-dimwishlist:item=3504336176&perks=839105230,106909392,1820235745,3038247973#notes:Arrowhead/TacMag/Subsistence/Explosive
-dimwishlist:item=3504336176&perks=839105230,106909392,1820235745,3425386926#notes:Arrowhead/TacMag/Subsistence/Rampage
-dimwishlist:item=3504336176&perks=839105230,106909392,1820235745,3523296417#notes:Arrowhead/TacMag/Subsistence/Demolitionist
-dimwishlist:item=3504336176&perks=839105230,106909392,957782887,3038247973#notes:Arrowhead/TacMag/Snapshot/Explosive
-dimwishlist:item=3504336176&perks=839105230,106909392,957782887,588594999#notes:Arrowhead/TacMag/Snapshot/MovingTarget
-dimwishlist:item=3504336176&perks=839105230,1087426260,1168162263,3038247973#notes:Arrowhead/Appended/Outlaw/Explosive
-dimwishlist:item=3504336176&perks=839105230,1087426260,1168162263,3425386926#notes:Arrowhead/Appended/Outlaw/Rampage
-dimwishlist:item=3504336176&perks=839105230,1087426260,1168162263,2458213969#notes:Arrowhead/Appended/Outlaw/MultiKillClip
-dimwishlist:item=3504336176&perks=839105230,1087426260,1168162263,3523296417#notes:Arrowhead/Appended/Outlaw/Demolitionist
 dimwishlist:item=3504336176&perks=839105230,1087426260,247725512,3038247973#notes:Arrowhead/Appended/RapidHit/Explosive
-dimwishlist:item=3504336176&perks=839105230,1087426260,247725512,3425386926#notes:Arrowhead/Appended/RapidHit/Rampage
-dimwishlist:item=3504336176&perks=839105230,1087426260,247725512,2458213969#notes:Arrowhead/Appended/RapidHit/MultiKillClip
-dimwishlist:item=3504336176&perks=839105230,1087426260,247725512,3523296417#notes:Arrowhead/Appended/RapidHit/Demolitionist
-dimwishlist:item=3504336176&perks=839105230,1087426260,1820235745,3038247973#notes:Arrowhead/Appended/Subsistence/Explosive
-dimwishlist:item=3504336176&perks=839105230,1087426260,1820235745,3425386926#notes:Arrowhead/Appended/Subsistence/Rampage
-dimwishlist:item=3504336176&perks=839105230,1087426260,1820235745,3523296417#notes:Arrowhead/Appended/Subsistence/Demolitionist
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3038247973#notes:Arrowhead/Accurized/RapidHit/Explosive
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,588594999#notes:Arrowhead/Accurized/RapidHit/MovingTarget
 dimwishlist:item=3504336176&perks=839105230,3142289711,957782887,3038247973#notes:Arrowhead/Accurized/Snapshot/Explosive
@@ -3455,20 +3402,7 @@ dimwishlist:item=3504336176&perks=839105230,3177308360,247725512,3038247973#note
 dimwishlist:item=3504336176&perks=839105230,3177308360,247725512,588594999#notes:Arrowhead/SteadyRounds/RapidHit/MovingTarget
 dimwishlist:item=3504336176&perks=839105230,3177308360,957782887,3038247973#notes:Arrowhead/SteadyRounds/Snapshot/Explosive
 dimwishlist:item=3504336176&perks=839105230,3177308360,957782887,588594999#notes:Arrowhead/SteadyRounds/Snapshot/MovingTarget
-dimwishlist:item=3504336176&perks=839105230,3230963543,1820235745,3038247973#notes:Arrowhead/FlaredMag/Subsistence/Explosive
-dimwishlist:item=3504336176&perks=839105230,3230963543,1820235745,3425386926#notes:Arrowhead/FlaredMag/Subsistence/Rampage
-dimwishlist:item=3504336176&perks=839105230,3230963543,1820235745,3523296417#notes:Arrowhead/FlaredMag/Subsistence/Demolitionist
-dimwishlist:item=3504336176&perks=839105230,2420895100,1168162263,3038247973#notes:Arrowhead/Extended/Outlaw/Explosive
-dimwishlist:item=3504336176&perks=839105230,2420895100,1168162263,3425386926#notes:Arrowhead/Extended/Outlaw/Rampage
-dimwishlist:item=3504336176&perks=839105230,2420895100,1168162263,2458213969#notes:Arrowhead/Extended/Outlaw/MultiKillClip
-dimwishlist:item=3504336176&perks=839105230,2420895100,1168162263,3523296417#notes:Arrowhead/Extended/Outlaw/Demolitionist
 dimwishlist:item=3504336176&perks=839105230,2420895100,247725512,3038247973#notes:Arrowhead/Extended/RapidHit/Explosive
-dimwishlist:item=3504336176&perks=839105230,2420895100,247725512,3425386926#notes:Arrowhead/Extended/RapidHit/Rampage
-dimwishlist:item=3504336176&perks=839105230,2420895100,247725512,2458213969#notes:Arrowhead/Extended/RapidHit/MultiKillClip
-dimwishlist:item=3504336176&perks=839105230,2420895100,247725512,3523296417#notes:Arrowhead/Extended/RapidHit/Demolitionist
-dimwishlist:item=3504336176&perks=839105230,2420895100,1820235745,3038247973#notes:Arrowhead/Extended/Subsistence/Explosive
-dimwishlist:item=3504336176&perks=839105230,2420895100,1820235745,3425386926#notes:Arrowhead/Extended/Subsistence/Rampage
-dimwishlist:item=3504336176&perks=839105230,2420895100,1820235745,3523296417#notes:Arrowhead/Extended/Subsistence/Demolitionist
 —————————————————————————
 Black Scorpion-4sr - 52 Rolls
 dimwishlist:item=525750263&perks=1840239774,3177308360,2387244414,2846385770#notes: Fluted/SteadyRounds/ZenMoment/Rangefinder
