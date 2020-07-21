@@ -3518,34 +3518,51 @@ dimwishlist:item=2278995296&perks=2405638014,4134353779,2387244414,1015611457#no
 dimwishlist:item=2278995296&perks=2405638014,4134353779,588594999,1015611457#notes: RedDotMicro/DropMag/MovingTarget/KillClip
 —————————————————————————
 Nameless Midnight - 28 Rolls
-dimwishlist:item=3040742682&perks=106909392,3400784728,3425386926#notes:TacMag/TripleTap/Rampage
-dimwishlist:item=3040742682&perks=106909392,3400784728,3038247973#notes:TacMag/TripleTap/Explosive
-dimwishlist:item=3040742682&perks=106909392,2387244414,3038247973#notes:TacMag/ZenMoment/Explosive 
-dimwishlist:item=3040742682&perks=106909392,2387244414,1015611457#notes:TacMag/ZenMoment/KillClip 
-dimwishlist:item=3040742682&perks=106909392,2387244414,47981717#notes:TacMag/ZenMoment/OpeningShot
-dimwishlist:item=3040742682&perks=106909392,588594999,3038247973#notes:TacMag/MovingTarget/Explosive 
-dimwishlist:item=3040742682&perks=106909392,588594999,1015611457#notes:TacMag/MovingTarget/KillClip 
-dimwishlist:item=3040742682&perks=106909392,588594999,47981717#notes:TacMag/MovingTarget/OpeningShot 
-dimwishlist:item=3040742682&perks=3177308360,2387244414,3038247973#notes:Steady/ZenMoment/Explosive 
-dimwishlist:item=3040742682&perks=3177308360,2387244414,1015611457#notes:Steady/ZenMoment/KillClip 
-dimwishlist:item=3040742682&perks=3177308360,2387244414,47981717#notes:Steady/ZenMoment/OpeningShot
-dimwishlist:item=3040742682&perks=3177308360,588594999,3038247973#notes:Steady/MovingTarget/Explosive 
-dimwishlist:item=3040742682&perks=3177308360,588594999,1015611457#notes:Steady/MovingTarget/KillClip 
-dimwishlist:item=3040742682&perks=3177308360,588594999,47981717#notes:Steady/MovingTarget/OpeningShot 
-dimwishlist:item=3040742682&perks=3230963543,3400784728,3425386926#notes:FlaredMag/TripleTap/Rampage
-dimwishlist:item=3040742682&perks=3230963543,3400784728,3038247973#notes:FlaredMag/TripleTap/Explosive
-dimwishlist:item=3040742682&perks=3230963543,2387244414,1015611457#notes:FlaredMag/ZenMoment/KillClip 
-dimwishlist:item=3040742682&perks=3230963543,588594999,1015611457#notes:FlaredMag/MovingTarget/KillClip 
-dimwishlist:item=3040742682&perks=3142289711,2387244414,3038247973#notes:Accurized/ZenMoment/Explosive 
-dimwishlist:item=3040742682&perks=3177308360,2387244414,1015611457#notes:Accurized/ZenMoment/KillClip 
-dimwishlist:item=3040742682&perks=3177308360,2387244414,47981717#notes:Accurized/ZenMoment/OpeningShot
-dimwishlist:item=3040742682&perks=3177308360,588594999,3038247973#notes:Accurized/MovingTarget/Explosive 
-dimwishlist:item=3040742682&perks=3177308360,588594999,1015611457#notes:Accurized/MovingTarget/KillClip 
-dimwishlist:item=3040742682&perks=3177308360,588594999,47981717#notes:Accurized/MovingTarget/OpeningShot 
-dimwishlist:item=3040742682&perks=4134353779,3400784728,3425386926#notes:DropMag/TripleTap/Rampage
-dimwishlist:item=3040742682&perks=4134353779,3400784728,3038247973#notes:DropMag/TripleTap/Explosive
-dimwishlist:item=3040742682&perks=4134353779,2387244414,1015611457#notes:DropMag/ZenMoment/KillClip 
-dimwishlist:item=3040742682&perks=4134353779,588594999,1015611457#notes:DropMag/MovingTarget/KillClip 
+dimwishlist:item=3040742682&perks=106909392,3400784728,3425386926#notes: TacMag/TripleTap/Rampage
+dimwishlist:item=3040742682&perks=106909392,3400784728,3038247973#notes: TacMag/TripleTap/Explosive
+dimwishlist:item=3040742682&perks=106909392,2387244414,3038247973#notes: TacMag/ZenMoment/Explosive 
+dimwishlist:item=3040742682&perks=106909392,2387244414,1015611457#notes: TacMag/ZenMoment/KillClip 
+dimwishlist:item=3040742682&perks=106909392,2387244414,47981717#notes: TacMag/ZenMoment/OpeningShot
+dimwishlist:item=3040742682&perks=106909392,588594999,3038247973#notes: TacMag/MovingTarget/Explosive 
+dimwishlist:item=3040742682&perks=106909392,588594999,1015611457#notes: TacMag/MovingTarget/KillClip 
+dimwishlist:item=3040742682&perks=106909392,588594999,47981717#notes: TacMag/MovingTarget/OpeningShot 
+dimwishlist:item=3040742682&perks=3177308360,2387244414,3038247973#notes: Steady/ZenMoment/Explosive 
+dimwishlist:item=3040742682&perks=3177308360,2387244414,1015611457#notes: Steady/ZenMoment/KillClip 
+dimwishlist:item=3040742682&perks=3177308360,2387244414,47981717#notes: Steady/ZenMoment/OpeningShot
+dimwishlist:item=3040742682&perks=3177308360,588594999,3038247973#notes: Steady/MovingTarget/Explosive 
+dimwishlist:item=3040742682&perks=3177308360,588594999,1015611457#notes: Steady/MovingTarget/KillClip 
+dimwishlist:item=3040742682&perks=3177308360,588594999,47981717#notes: Steady/MovingTarget/OpeningShot 
+dimwishlist:item=3040742682&perks=3230963543,3400784728,3425386926#notes: FlaredMag/TripleTap/Rampage
+dimwishlist:item=3040742682&perks=3230963543,3400784728,3038247973#notes: FlaredMag/TripleTap/Explosive
+dimwishlist:item=3040742682&perks=3230963543,2387244414,1015611457#notes: FlaredMag/ZenMoment/KillClip 
+dimwishlist:item=3040742682&perks=3230963543,588594999,1015611457#notes: FlaredMag/MovingTarget/KillClip 
+dimwishlist:item=3040742682&perks=3142289711,2387244414,3038247973#notes: Accurized/ZenMoment/Explosive 
+dimwishlist:item=3040742682&perks=3177308360,2387244414,1015611457#notes: Accurized/ZenMoment/KillClip 
+dimwishlist:item=3040742682&perks=3177308360,2387244414,47981717#notes: Accurized/ZenMoment/OpeningShot
+dimwishlist:item=3040742682&perks=3177308360,588594999,3038247973#notes: Accurized/MovingTarget/Explosive 
+dimwishlist:item=3040742682&perks=3177308360,588594999,1015611457#notes: Accurized/MovingTarget/KillClip 
+dimwishlist:item=3040742682&perks=3177308360,588594999,47981717#notes: Accurized/MovingTarget/OpeningShot 
+dimwishlist:item=3040742682&perks=4134353779,3400784728,3425386926#notes: DropMag/TripleTap/Rampage
+dimwishlist:item=3040742682&perks=4134353779,3400784728,3038247973#notes: DropMag/TripleTap/Explosive
+dimwishlist:item=3040742682&perks=4134353779,2387244414,1015611457#notes: DropMag/ZenMoment/KillClip 
+dimwishlist:item=3040742682&perks=4134353779,588594999,1015611457#notes: DropMag/MovingTarget/KillClip 
+—————————————————————————
+Wrong Side of Right - 12 Rolls
+dimwishlist:item=3957603605&perks=809345546,3177308360,588594999,3038247973#notes: DevilScope/SteadyRounds/MovingTarget/Explosive
+dimwishlist:item=3957603605&perks=809345546,3177308360,588594999,2387244414#notes: DevilScope/SteadyRounds/MovingTarget/ZenMoment
+dimwishlist:item=3957603605&perks=809345546,3177308360,47981717,3038247973#notes: DevilScope/SteadyRounds/OpeningShot/Explosive
+dimwishlist:item=3957603605&perks=809345546,3177308360,47981717,2387244414#notes: DevilScope/SteadyRounds/OpeningShot/ZenMoment
+dimwishlist:item=3957603605&perks=1288081796,3177308360,588594999,3038247973#notes: WolfSight/SteadyRounds/MovingTarget/Explosive
+dimwishlist:item=3957603605&perks=1288081796,3177308360,588594999,2387244414#notes: WolfSight/SteadyRounds/MovingTarget/ZenMoment
+dimwishlist:item=3957603605&perks=1288081796,3177308360,47981717,3038247973#notes: WolfSight/SteadyRounds/OpeningShot/Explosive
+dimwishlist:item=3957603605&perks=1288081796,3177308360,47981717,2387244414#notes: WolfSight/SteadyRounds/OpeningShot/ZenMoment
+dimwishlist:item=3957603605&perks=1288081797,3177308360,588594999,3038247973#notes: KingSight/SteadyRounds/MovingTarget/Explosive
+dimwishlist:item=3957603605&perks=1288081797,3177308360,588594999,2387244414#notes: KingSight/SteadyRounds/MovingTarget/ZenMoment
+dimwishlist:item=3957603605&perks=1288081797,3177308360,47981717,3038247973#notes: KingSight/SteadyRounds/OpeningShot/Explosive
+dimwishlist:item=3957603605&perks=1288081797,3177308360,47981717,2387244414#notes: KingSight/SteadyRounds/OpeningShot/ZenMoment
+—————————————————————————
+—————————————————————————
+—————————————————————————
 —————————————————————————
 [11]: Machine Guns
 —————————————————————————
