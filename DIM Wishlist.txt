@@ -495,6 +495,53 @@ dimwishlist:item=3143732432&perks=1561002382,2779035018,3425386926#notes: High-C
 dimwishlist:item=3143732432&perks=1561002382,1820235745,3108830275#notes: High-Cal/Subsistence/Unrelenting 
 dimwishlist:item=3143732432&perks=1561002382,1820235745,3425386926#notes: High-Cal/Subsistence/Rampage
 —————————————————————————
+The Ringing Nail - 46 Rolls
+dimwishlist:item=93253474&perks=1096957638,1561002382,2387244414,1015611457#notes: RasmussenISA/Hi-Cal/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=1096957638,1561002382,2387244414,1890422124#notes: RasmussenISA/Hi-Cal/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=1885400500,1561002382,2387244414,1015611457#notes: RasmussenISA/Ricochet/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=1885400500,1561002382,2387244414,1890422124#notes: RasmussenISA/Ricochet/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=1885400500,679225683,2387244414,1015611457#notes: RasmussenISA/LightMag/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=1885400500,3230963543,2387244414,1015611457#notes: RasmussenISA/Flared/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396026,1561002382,2387244414,1015611457#notes: MeyrinRDS/Hi-Cal/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396026,1561002382,2387244414,1890422124#notes: MeyrinRDS/Hi-Cal/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=3433396026,1561002382,2387244414,1015611457#notes: MeyrinRDS/Ricochet/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396026,1561002382,2387244414,1890422124#notes: MeyrinRDS/Ricochet/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=3433396026,679225683,2387244414,1015611457#notes: MeyrinRDS/LightMag/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396026,679225683,2848615171,1015611457#notes: MeyrinRDS/LightMag/DragonFly/KillClip
+dimwishlist:item=93253474&perks=3433396026,679225683,2848615171,3425386926#notes: MeyrinRDS/LightMag/DragonFly/Rampage
+dimwishlist:item=93253474&perks=3433396026,3230963543,2387244414,1015611457#notes: MeyrinRDS/Flared/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396026,3230963543,2848615171,1015611457#notes: MeyrinRDS/Flared/DragonFly/KillClip
+dimwishlist:item=93253474&perks=3433396026,3230963543,2848615171,3425386926#notes: MeyrinRDS/Flared/DragonFly/Rampage
+dimwishlist:item=93253474&perks=3433396027,1561002382,2387244414,1015611457#notes: MeyrinRDL/Hi-Cal/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396027,1561002382,2387244414,1890422124#notes: MeyrinRDL/Hi-Cal/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=3433396027,1561002382,706527188,1015611457#notes: MeyrinRDL/Hi-Cal/Quickdraw/KillClip 
+dimwishlist:item=93253474&perks=3433396027,1561002382,706527188,1890422124#notes: MeyrinRDL/Hi-Cal/Quickdraw/TapTheTrigger
+dimwishlist:item=93253474&perks=3433396027,1561002382,2387244414,1015611457#notes: MeyrinRDL/Ricochet/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396027,1561002382,2387244414,1890422124#notes: MeyrinRDL/Ricochet/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=3433396027,1561002382,706527188,1015611457#notes: MeyrinRDL/Ricochet/Quickdraw/KillClip 
+dimwishlist:item=93253474&perks=3433396027,1561002382,706527188,1890422124#notes: MeyrinRDL/Ricochet/Quickdraw/TapTheTrigger
+dimwishlist:item=93253474&perks=3433396027,679225683,2387244414,1015611457#notes: MeyrinRDL/LightMag/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396027,679225683,2848615171,1015611457#notes: MeyrinRDL/LightMag/DragonFly/KillClip
+dimwishlist:item=93253474&perks=3433396027,679225683,2848615171,3425386926#notes: MeyrinRDL/LightMag/DragonFly/Rampage
+dimwishlist:item=93253474&perks=3433396027,3230963543,2387244414,1015611457#notes: MeyrinRDL/Flared/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=3433396027,3230963543,2848615171,1015611457#notes: MeyrinRDL/Flared/DragonFly/KillClip
+dimwishlist:item=93253474&perks=3433396027,3230963543,2848615171,3425386926#notes: MeyrinRDL/Flared/DragonFly/Rampage
+dimwishlist:item=93253474&perks=2414725840,1561002382,2387244414,1015611457#notes: SatouFocus/Hi-Cal/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=2414725840,1561002382,2387244414,1890422124#notes: SatouFocus/Hi-Cal/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=2414725840,1561002382,2387244414,1015611457#notes: SatouFocus/Ricochet/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=2414725840,1561002382,2387244414,1890422124#notes: SatouFocus/Ricochet/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=2414725840,679225683,2387244414,1015611457#notes: SatouFocus/LightMag/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=2414725840,3230963543,2387244414,1015611457#notes: SatouFocus/Flared/ZenMoment/KillClip
+dimwishlist:item=93253474&perks=2414725841,1561002382,2387244414,1015611457#notes: SatouPrecision/Hi-Cal/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=2414725841,1561002382,2387244414,1890422124#notes: SatouPrecision/Hi-Cal/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=2414725841,1561002382,706527188,1015611457#notes: SatouPrecision/Hi-Cal/Quickdraw/KillClip 
+dimwishlist:item=93253474&perks=2414725841,1561002382,706527188,1890422124#notes: SatouPrecision/Hi-Cal/Quickdraw/TapTheTrigger
+dimwishlist:item=93253474&perks=2414725841,1561002382,2387244414,1015611457#notes: SatouPrecision/Ricochet/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=2414725841,1561002382,2387244414,1890422124#notes: SatouPrecision/Ricochet/ZenMoment/TapTheTrigger
+dimwishlist:item=93253474&perks=2414725841,1561002382,706527188,1015611457#notes: SatouPrecision/Ricochet/Quickdraw/KillClip 
+dimwishlist:item=93253474&perks=2414725841,1561002382,706527188,1890422124#notes: SatouPrecision/Ricochet/Quickdraw/TapTheTrigger
+dimwishlist:item=93253474&perks=2414725841,679225683,2387244414,1015611457#notes: SatouPrecision/LightMag/ZenMoment/KillClip 
+dimwishlist:item=93253474&perks=2414725841,3230963543,2387244414,1015611457#notes: SatouPrecision/Flared/ZenMoment/KillClip 
 —————————————————————————
 [2]: Hand Cannons 
 —————————————————————————
