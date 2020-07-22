@@ -1456,6 +1456,48 @@ dimwishlist:item=2105827099&perks=1452368633,1885400500,2387244414,957782887#not
 dimwishlist:item=2105827099&perks=1452368633,1885400500,2039302152,957782887#notes: KingdotK2/RicochetRnds/Slideways/Snapshot
 dimwishlist:item=2105827099&perks=1452368633,1885400500,1890422124,957782887#notes: KingdotK2/RicochetRnds/TaptheTrigger/Snapshot
 —————————————————————————
+Trackless Waste - 40 Rolls
+dimwishlist:item=2681395357&perks=1561002382,2387244414,1015611457#notes: Hi-Cal/ZenMoment/KillClip
+dimwishlist:item=2681395357&perks=1561002382,2387244414,1359896290#notes: Hi-Cal/ZenMoment/DynamicSway
+dimwishlist:item=2681395357&perks=1561002382,2387244414,957782887#notes: Hi-Cal/ZenMoment/Snapshot
+dimwishlist:item=2681395357&perks=1561002382,4071163871,1015611457#notes: Hi-Cal/ThreatDetector/KillClip
+dimwishlist:item=2681395357&perks=1561002382,4071163871,1359896290#notes: Hi-Cal/ThreatDetector/DynamicSway
+dimwishlist:item=2681395357&perks=1561002382,4071163871,957782887#notes: Hi-Cal/ThreatDetector/Snapshot
+dimwishlist:item=2681395357&perks=1561002382,1890422124,1015611457#notes: Hi-Cal/TapTheTrigger/KillClip
+dimwishlist:item=2681395357&perks=1561002382,1890422124,1359896290#notes: Hi-Cal/TapTheTrigger/DynamicSway
+dimwishlist:item=2681395357&perks=1561002382,1890422124,957782887#notes: Hi-Cal/TapTheTrigger/Snapshot
+dimwishlist:item=2681395357&perks=1561002382,706527188,1015611457#notes: Hi-Cal/Quickdraw/KillClip
+dimwishlist:item=2681395357&perks=1561002382,706527188,1359896290#notes: Hi-Cal/Quickdraw/DynamicSway
+dimwishlist:item=2681395357&perks=1561002382,706527188,957782887#notes: Hi-Cal/Quickdraw/Snapshot
+dimwishlist:item=2681395357&perks=1561002382,2039302152,1015611457#notes: Hi-Cal/Slideways/KillClip
+dimwishlist:item=2681395357&perks=1561002382,2039302152,1359896290#notes: Hi-Cal/Slideways/DynamicSway
+dimwishlist:item=2681395357&perks=1561002382,2039302152,957782887#notes: Hi-Cal/Slideways/Snapshot
+dimwishlist:item=2681395357&perks=1885400500,2387244414,1015611457#notes: Ricochet/ZenMoment/KillClip
+dimwishlist:item=2681395357&perks=1885400500,2387244414,1359896290#notes: Ricochet/ZenMoment/DynamicSway
+dimwishlist:item=2681395357&perks=1885400500,2387244414,957782887#notes: Ricochet/ZenMoment/Snapshot
+dimwishlist:item=2681395357&perks=1885400500,4071163871,1015611457#notes: Ricochet/ThreatDetector/KillClip
+dimwishlist:item=2681395357&perks=1885400500,4071163871,1359896290#notes: Ricochet/ThreatDetector/DynamicSway
+dimwishlist:item=2681395357&perks=1885400500,4071163871,957782887#notes: Ricochet/ThreatDetector/Snapshot
+dimwishlist:item=2681395357&perks=1885400500,1890422124,1015611457#notes: Ricochet/TapTheTrigger/KillClip
+dimwishlist:item=2681395357&perks=1885400500,1890422124,1359896290#notes: Ricochet/TapTheTrigger/DynamicSway
+dimwishlist:item=2681395357&perks=1885400500,1890422124,957782887#notes: Ricochet/TapTheTrigger/Snapshot
+dimwishlist:item=2681395357&perks=1885400500,706527188,1015611457#notes: Ricochet/Quickdraw/KillClip
+dimwishlist:item=2681395357&perks=1885400500,706527188,1359896290#notes: Ricochet/Quickdraw/DynamicSway
+dimwishlist:item=2681395357&perks=1885400500,706527188,957782887#notes: Ricochet/Quickdraw/Snapshot
+dimwishlist:item=2681395357&perks=1885400500,2039302152,1015611457#notes: Ricochet/Slideways/KillClip
+dimwishlist:item=2681395357&perks=1885400500,2039302152,1359896290#notes: Ricochet/Slideways/DynamicSway
+dimwishlist:item=2681395357&perks=1885400500,2039302152,957782887#notes: Ricochet/Slideways/Snapshot
+dimwishlist:item=2681395357&perks=3230963543,2387244414,1015611457#notes: Flared/ZenMoment/KillClip
+dimwishlist:item=2681395357&perks=3230963543,4071163871,1015611457#notes: Flared/ThreatDetector/KillClip
+dimwishlist:item=2681395357&perks=3230963543,1890422124,1015611457#notes: Flared/TapTheTrigger/KillClip
+dimwishlist:item=2681395357&perks=3230963543,706527188,1015611457#notes: Flared/Quickdraw/KillClip
+dimwishlist:item=2681395357&perks=3230963543,2039302152,1015611457#notes: Flared/Slideways/KillClip
+dimwishlist:item=2681395357&perks=679225683,2387244414,1015611457#notes: LightMag/ZenMoment/KillClip
+dimwishlist:item=2681395357&perks=679225683,4071163871,1015611457#notes: LightMag/ThreatDetector/KillClip
+dimwishlist:item=2681395357&perks=679225683,1890422124,1015611457#notes: LightMag/TapTheTrigger/KillClip
+dimwishlist:item=2681395357&perks=679225683,706527188,1015611457#notes: LightMag/Quickdraw/KillClip
+dimwishlist:item=2681395357&perks=679225683,2039302152,1015611457#notes: LightMag/Slideways/KillClip
+—————————————————————————
 Antiope-D - 81 Rolls   
 dimwishlist:item=2561659919&perks=87986588,1561002382,2039302152,1359896290#notes: GBIron/High-Cal/Slideways/DynamicSway
 dimwishlist:item=2561659919&perks=87986588,1561002382,2039302152,1015611457#notes: GBIron/High-Cal/Slideways/KillClip
