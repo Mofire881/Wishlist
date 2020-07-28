@@ -2855,43 +2855,20 @@ dimwishlist:item=1096206669&perks=106909392,4071163871,3425386926#notes: TacMag/
 —————————————————————————
 [6]: Sniper Rifles
 —————————————————————————
-Tatara Gaze - 35 Rolls
-dimwishlist:item=1449922174&perks=839105230,106909392,706527188,1015611457#notes: Arrowhead/TacMag/Quickdraw/KillClip
-dimwishlist:item=1449922174&perks=839105230,106909392,706527188,47981717#notes: Arrowhead/TacMag/Quickdraw/OpeningShot
-dimwishlist:item=1449922174&perks=839105230,106909392,957782887,1015611457#notes: Arrowhead/TacMag/Snapshot/KillClip
-dimwishlist:item=1449922174&perks=839105230,106909392,957782887,47981717#notes: Arrowhead/TacMag/Snapshot/OpeningShot
-dimwishlist:item=1449922174&perks=839105230,3230963543,706527188,1015611457#notes: Arrowhead/FlaredMag/Quickdraw/KillClip
-dimwishlist:item=1449922174&perks=839105230,3230963543,706527188,2551157718#notes: Arrowhead/FlaredMag/Quickdraw/BoxBreathing
-dimwishlist:item=1449922174&perks=839105230,3230963543,706527188,2848615171#notes: Arrowhead/FlaredMag/Quickdraw/Dragonfly
-dimwishlist:item=1449922174&perks=839105230,3230963543,957782887,1015611457#notes: Arrowhead/FlaredMag/Snapshot/KillClip
-dimwishlist:item=1449922174&perks=839105230,106909392,706527188,2551157718#notes: Arrowhead/TacMag/Quickdraw/BoxBreathing
-dimwishlist:item=1449922174&perks=839105230,106909392,706527188,2848615171#notes: Arrowhead/TacMag/Quickdraw/Dragonfly
-dimwishlist:item=1449922174&perks=839105230,106909392,247725512,2551157718#notes: Arrowhead/TacMag/RapidHit/BoxBreathing
-dimwishlist:item=1449922174&perks=839105230,106909392,247725512,2848615171#notes: Arrowhead/TacMag/RapidHit/Dragonfly
-dimwishlist:item=1449922174&perks=839105230,2420895100,247725512,2551157718#notes: Arrowhead/Extended/RapidHit/BoxBreathing
-dimwishlist:item=1449922174&perks=839105230,2420895100,247725512,2848615171#notes: Arrowhead/Extended/RapidHit/Dragonfly
-dimwishlist:item=1449922174&perks=839105230,3177308360,706527188,1015611457#notes: Arrowhead/SteadyRounds/Quickdraw/KillClip
-dimwishlist:item=1449922174&perks=839105230,3177308360,706527188,47981717#notes: Arrowhead/SteadyRounds/Quickdraw/OpeningShot
-dimwishlist:item=1449922174&perks=839105230,3177308360,957782887,1015611457#notes: Arrowhead/SteadyRounds/Snapshot/KillClip
-dimwishlist:item=1449922174&perks=839105230,3177308360,957782887,47981717#notes: Arrowhead/SteadyRounds/Snapshot/OpeningShot
-dimwishlist:item=1449922174&perks=1840239774,106909392,706527188,1015611457#notes: Fluted/TacMag/Quickdraw/KillClip
-dimwishlist:item=1449922174&perks=1840239774,106909392,706527188,47981717#notes: Fluted/TacMag/Quickdraw/OpeningShot
-dimwishlist:item=1449922174&perks=1840239774,106909392,957782887,1015611457#notes: Fluted/TacMag/Snapshot/KillClip
-dimwishlist:item=1449922174&perks=1840239774,106909392,957782887,47981717#notes: Fluted/TacMag/Snapshot/OpeningShot
-dimwishlist:item=1449922174&perks=1840239774,3230963543,706527188,1015611457#notes: Fluted/FlaredMag/Quickdraw/KillClip
-dimwishlist:item=1449922174&perks=1840239774,3230963543,706527188,2551157718#notes: Fluted/FlaredMag/Quickdraw/BoxBreathing
-dimwishlist:item=1449922174&perks=1840239774,3230963543,706527188,2848615171#notes: Fluted/FlaredMag/Quickdraw/Dragonfly
-dimwishlist:item=1449922174&perks=1840239774,3230963543,957782887,1015611457#notes: Fluted/FlaredMag/Snapshot/KillClip
-dimwishlist:item=1449922174&perks=1840239774,106909392,706527188,2551157718#notes: Fluted/TacMag/Quickdraw/BoxBreathing
-dimwishlist:item=1449922174&perks=1840239774,106909392,706527188,2848615171#notes: Fluted/TacMag/Quickdraw/Dragonfly
-dimwishlist:item=1449922174&perks=1840239774,106909392,247725512,2551157718#notes: Fluted/TacMag/RapidHit/BoxBreathing
-dimwishlist:item=1449922174&perks=1840239774,106909392,247725512,2848615171#notes: Fluted/TacMag/RapidHit/Dragonfly
-dimwishlist:item=1449922174&perks=1840239774,2420895100,247725512,2551157718#notes: Fluted/Extended/RapidHit/BoxBreathing
-dimwishlist:item=1449922174&perks=1840239774,2420895100,247725512,2848615171#notes: Fluted/Extended/RapidHit/Dragonfly
-dimwishlist:item=1449922174&perks=1840239774,3177308360,706527188,1015611457#notes: Fluted/SteadyRounds/Quickdraw/KillClip
-dimwishlist:item=1449922174&perks=1840239774,3177308360,706527188,47981717#notes: Fluted/SteadyRounds/Quickdraw/OpeningShot
-dimwishlist:item=1449922174&perks=1840239774,3177308360,957782887,1015611457#notes: Fluted/SteadyRounds/Snapshot/KillClip
-dimwishlist:item=1449922174&perks=1840239774,3177308360,957782887,47981717#notes: Fluted/SteadyRounds/Snapshot/OpeningShot
+Tatara Gaze - 12 Rolls
+dimwishlist:item=1449922174&perks=3230963543,706527188,1015611457#notes: FlaredMag/Quickdraw/KillClip
+dimwishlist:item=1449922174&perks=3230963543,957782887,1015611457#notes: FlaredMag/Snapshot/KillClip
+dimwishlist:item=1449922174&perks=1087426260,247725512,2551157718#notes: Appeneded/RapidHit/BoxBreathing
+dimwishlist:item=1449922174&perks=2420895100,247725512,2551157718#notes: Extended/RapidHit/BoxBreathing
+dimwishlist:item=1449922174&perks=3177308360,706527188,1015611457#notes: Steady/Quickdraw/KillClip
+dimwishlist:item=1449922174&perks=3177308360,957782887,1015611457#notes: Steady/Snapshot/KillClip
+dimwishlist:item=1449922174&perks=47981717,706527188,1015611457#notes: Steady/Quickdraw/OpeningShot
+dimwishlist:item=1449922174&perks=47981717,957782887,1015611457#notes: Steady/Snapshot/OpeningShot
+dimwishlist:item=1449922174&perks=3142289711,706527188,1015611457#notes: Accurized/Quickdraw/KillClip
+dimwishlist:item=1449922174&perks=3142289711,957782887,1015611457#notes: Accurized/Snapshot/KillClip
+dimwishlist:item=1449922174&perks=3142289711,706527188,1015611457#notes: Accurized/Quickdraw/OpeningShot
+dimwishlist:item=1449922174&perks=3142289711,957782887,1015611457#notes: Accurized/Snapshot/OpeningShot
+
 —————————————————————————
 —————————————————————————
 Sole Survivor - 9 Rolls 
