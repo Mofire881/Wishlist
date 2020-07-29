@@ -3334,6 +3334,24 @@ dimwishlist:item=792755504&perks=4134353779,588594999,1015611457#notes: DropMag/
 dimwishlist:item=792755504&perks=4134353779,588594999,2387244414#notes: DropMag/MovingTarget/ZenMoment
 dimwishlist:item=792755504&perks=4134353779,588594999,957782887#notes: DropMag/MovingTarget/Snapshot
 —————————————————————————
+Last Perdition - 16 Rolls
+dimwishlist:item=188882152&perks=3142289711,1168162263,1015611457#notes: Accurized/Outlaw/KillClip 
+dimwishlist:item=188882152&perks=3142289711,588594999,957782887#notes: Accurized/MovingTarget/Snapshot
+dimwishlist:item=188882152&perks=3142289711,588594999,2387244414#notes: Accurized/MovingTarget/ZenMoment
+dimwishlist:item=188882152&perks=106909392,1168162263,1015611457#notes: TacMag/Outlaw/KillClip 
+dimwishlist:item=188882152&perks=106909392,1168162263,3425386926#notes: TacMag/Outlaw/Rampage
+dimwishlist:item=188882152&perks=3177308360,1168162263,1015611457#notes: Steady/Outlaw/KillClip 
+dimwishlist:item=188882152&perks=3177308360,588594999,957782887#notes: Steady/MovingTarget/Snapshot
+dimwishlist:item=188882152&perks=3177308360,588594999,2387244414#notes: Steady/MovingTarget/ZenMoment
+dimwishlist:item=188882152&perks=3177308360,588594999,1015611457#notes: DropMag/MovingTarget/KillClip 
+dimwishlist:item=188882152&perks=3177308360,588594999,1015611457#notes: DropMag/MovingTarget/KillClip 
+dimwishlist:item=188882152&perks=1087426260,1168162263,1015611457#notes: Appended/Outlaw/KillClip 
+dimwishlist:item=188882152&perks=1087426260,1168162263,3425386926#notes: Appended/Outlaw/Rampage
+dimwishlist:item=188882152&perks=2420895100,1168162263,1015611457#notes: Extended/Outlaw/KillClip 
+dimwishlist:item=188882152&perks=2420895100,1168162263,3425386926#notes: Extended/Outlaw/Rampage
+dimwishlist:item=188882152&perks=3230963543,588594999,1015611457#notes: Flared/MovingTarget/KillClip 
+dimwishlist:item=188882152&perks=3230963543,588594999,1015611457#notes: Flared/MovingTarget/KillClip 
+—————————————————————————
 Redrix's Broadsword - 13 Rolls
 dimwishlist:item=1161276682&perks=4090651448,2420895100#notes: Corkscrew/Extended
 dimwishlist:item=1161276682&perks=4090651448,1087426260#notes: Corkscrew/Appended  
