@@ -2933,21 +2933,15 @@ dimwishlist:item=2164448701&perks=3142289711,588594999,706527188#notes: Accurize
 dimwishlist:item=2164448701&perks=3177308360,588594999,957782887#notes: Steady/MovingTarget/Snapshot
 dimwishlist:item=2164448701&perks=3177308360,588594999,706527188#notes: Steady/MovingTarget/Quickdraw 
 —————————————————————————
-Ikelos_SR_V1.0.2 - 14 Rolls
-dimwishlist:item=1253087083&perks=106909392,1354429876,2551157718#notes: TacMag/FourthTime/BoxBreathing 
-dimwishlist:item=1253087083&perks=106909392,3400784728,2551157718#notes: TacMag/TripleTap/BoxBreathing
-dimwishlist:item=1253087083&perks=1140096971,2866798147,2551157718#notes: Seraph/NoDistractions/BoxBreathing 
-dimwishlist:item=1253087083&perks=1140096971,2866798147,706527188#notes: Seraph/NoDistractions/Quickdraw 
-dimwishlist:item=1253087083&perks=1140096971,588594999,2551157718#notes: Seraph/MovingTarget/BoxBreathing 
-dimwishlist:item=1253087083&perks=1140096971,588594999,706527188#notes: Seraph/MovingTarget/Quickdraw 
-dimwishlist:item=1253087083&perks=3142289711,2866798147,2551157718#notes: Accurized/NoDistractions/BoxBreathing 
-dimwishlist:item=1253087083&perks=3142289711,2866798147,706527188#notes: Accurized/NoDistractions/Quickdraw 
-dimwishlist:item=1253087083&perks=3142289711,588594999,2551157718#notes: Accurized/MovingTarget/BoxBreathing 
-dimwishlist:item=1253087083&perks=3142289711,588594999,706527188#notes: Accurized/MovingTarget/Quickdraw 
-dimwishlist:item=1253087083&perks=3177308360,2866798147,2551157718#notes: Steady/NoDistractions/BoxBreathing 
-dimwishlist:item=1253087083&perks=3177308360,2866798147,706527188#notes: Steady/NoDistractions/Quickdraw 
-dimwishlist:item=1253087083&perks=3177308360,588594999,2551157718#notes: Steady/MovingTarget/BoxBreathing 
-dimwishlist:item=1253087083&perks=3177308360,588594999,706527188#notes: Steady/MovingTarget/Quickdraw 
+Ikelos_SR_V1.0.2 - 8 Rolls
+dimwishlist:item=1253087083&perks=839105230,106909392,1354429876,2551157718#notes: Arrowhead/TacMag/FourthTime/BoxBreathing 
+dimwishlist:item=1253087083&perks=839105230,106909392,1354429876,2213355989#notes: Arrowhead/TacMag/FourthTime/HiImpactReserves
+dimwishlist:item=1253087083&perks=839105230,1140096971,588594999,2551157718#notes: Arrowhead/Seraph/MovingTarget/BoxBreathing 
+dimwishlist:item=1253087083&perks=839105230,1140096971,588594999,2213355989#notes: Arrowhead/Seraph/MovingTarget/HiImpactReserves
+dimwishlist:item=1253087083&perks=839105230,588594999,2551157718#notes: Arrowhead/Accurized/MovingTarget/BoxBreathing 
+dimwishlist:item=1253087083&perks=839105230,588594999,2213355989#notes: Arrowhead/Accurized/MovingTarget/HiImpactReserves 
+dimwishlist:item=1253087083&perks=839105230,588594999,2551157718#notes: Arrowhead/Steady/MovingTarget/BoxBreathing 
+dimwishlist:item=1253087083&perks=839105230,588594999,2213355989#notes: Arrowhead/Steady/MovingTarget/HiImpactReserves
 —————————————————————————
 —————————————————————————
 —————————————————————————
