@@ -545,61 +545,46 @@ dimwishlist:item=93253474&perks=2414725841,3230963543,2387244414,1015611457#note
 —————————————————————————
 [2]: Hand Cannons 
 —————————————————————————
-The Old Fashioned - 53 Rolls
-dimwishlist:item=3569802112&perks=1926090093,3142289711,3161816588,957782887#notes:HitMark/Accurized/Slideshot/Snapshot
-dimwishlist:item=3569802112&perks=1926090093,3142289711,3161816588,3038247973#notes:HitMark/Accurized/Slideshot/Explosive
-dimwishlist:item=3569802112&perks=1926090093,3142289711,3161816588,588594999#notes:HitMark/Accurized/Slideshot/MovingTarget
-dimwishlist:item=3569802112&perks=1926090093,3142289711,3523296417,957782887#notes:HitMark/Accurized/Demolitionist/Snapshot
-dimwishlist:item=3569802112&perks=1926090093,3142289711,3523296417,3038247973#notes:HitMark/Accurized/Demolitionist/Explosive
-dimwishlist:item=3569802112&perks=1926090093,3142289711,3523296417,588594999#notes:HitMark/Accurized/Demolitionist/MovingTarget
-dimwishlist:item=3569802112&perks=1926090093,3142289711,2779035018,1015611457#notes:HitMark/Accurized/FeedingFrenzy/KillClip
-dimwishlist:item=3569802112&perks=1926090093,3142289711,706527188,3038247973#notes:HitMark/Accurized/QuickDraw/Explosive
-dimwishlist:item=3569802112&perks=1926090093,3142289711,706527188,588594999#notes:HitMark/Accurized/QuickDraw/MovingTarget
-dimwishlist:item=3569802112&perks=1926090093,4134353779,3161816588,1015611457#notes:HitMark/DropMag/Slideshot/KillClip
-dimwishlist:item=3569802112&perks=1926090093,4134353779,3523296417,1015611457#notes:HitMark/DropMag/Demolitionist/KillClip
-dimwishlist:item=3569802112&perks=1926090093,4134353779,706527188,1015611457#notes:HitMark/DropMag/QuickDraw/KillClip
-dimwishlist:item=3569802112&perks=1926090095,3142289711,3161816588,957782887#notes:SteadyHand/Accurized/Slideshot/Snapshot
-dimwishlist:item=3569802112&perks=1926090095,3142289711,3161816588,3038247973#notes:SteadyHand/Accurized/Slideshot/Explosive
-dimwishlist:item=3569802112&perks=1926090095,3142289711,3161816588,588594999#notes:SteadyHand/Accurized/Slideshot/MovingTarget
-dimwishlist:item=3569802112&perks=1926090095,3142289711,3523296417,957782887#notes:SteadyHand/Accurized/Demolitionist/Snapshot
-dimwishlist:item=3569802112&perks=1926090095,3142289711,3523296417,3038247973#notes:SteadyHand/Accurized/Demolitionist/Explosive
-dimwishlist:item=3569802112&perks=1926090095,3142289711,3523296417,588594999#notes:SteadyHand/Accurized/Demolitionist/MovingTarget
-dimwishlist:item=3569802112&perks=1926090095,3142289711,2779035018,1015611457#notes:SteadyHand/Accurized/FeedingFrenzy/KillClip
-dimwishlist:item=3569802112&perks=1926090095,4134353779,3161816588,1015611457#notes:SteadyHand/DropMag/Slideshot/KillClip
-dimwishlist:item=3569802112&perks=1926090095,4134353779,3523296417,1015611457#notes:SteadyHand/DropMag/Demolitionist/KillClip
-dimwishlist:item=3569802112&perks=1926090094,3142289711,3161816588,957782887#notes:FastDraw/Accurized/Slideshot/Snapshot
-dimwishlist:item=3569802112&perks=1926090094,3142289711,3161816588,3038247973#notes:FastDraw/Accurized/Slideshot/Explosive
-dimwishlist:item=3569802112&perks=1926090094,3142289711,3161816588,588594999#notes:FastDraw/Accurized/Slideshot/MovingTarget
-dimwishlist:item=3569802112&perks=1926090094,3142289711,3523296417,957782887#notes:FastDraw/Accurized/Demolitionist/Snapshot
-dimwishlist:item=3569802112&perks=1926090094,3142289711,3523296417,3038247973#notes:FastDraw/Accurized/Demolitionist/Explosive
-dimwishlist:item=3569802112&perks=1926090094,3142289711,3523296417,588594999#notes:FastDraw/Accurized/Demolitionist/MovingTarget
-dimwishlist:item=3569802112&perks=1926090094,3142289711,2779035018,1015611457#notes:FastDraw/Accurized/FeedingFrenzy/KillClip
-dimwishlist:item=3569802112&perks=1926090094,4134353779,3161816588,1015611457#notes:FastDraw/DropMag/Slideshot/KillClip
-dimwishlist:item=3569802112&perks=1926090094,4134353779,3523296417,1015611457#notes:FastDraw/DropMag/Demolitionist/KillClip
-dimwishlist:item=3569802112&perks=1926090092,3142289711,3161816588,957782887#notes:TrueSight/Accurized/Slideshot/Snapshot
-dimwishlist:item=3569802112&perks=1926090092,3142289711,3161816588,3038247973#notes:TrueSight/Accurized/Slideshot/Explosive
-dimwishlist:item=3569802112&perks=1926090092,3142289711,3161816588,588594999#notes:TrueSight/Accurized/Slideshot/MovingTarget
-dimwishlist:item=3569802112&perks=1926090092,3142289711,3523296417,957782887#notes:TrueSight/Accurized/Demolitionist/Snapshot
-dimwishlist:item=3569802112&perks=1926090092,3142289711,3523296417,3038247973#notes:TrueSight/Accurized/Demolitionist/Explosive
-dimwishlist:item=3569802112&perks=1926090092,3142289711,3523296417,588594999#notes:TrueSight/Accurized/Demolitionist/MovingTarget
-dimwishlist:item=3569802112&perks=1926090092,3142289711,2779035018,1015611457#notes:TrueSight/Accurized/FeedingFrenzy/KillClip
-dimwishlist:item=3569802112&perks=1926090092,4134353779,3161816588,1015611457#notes:TrueSight/DropMag/Slideshot/KillClip
-dimwishlist:item=3569802112&perks=1926090092,4134353779,3523296417,1015611457#notes:TrueSight/DropMag/Demolitionist/KillClip
-dimwishlist:item=3569802112&perks=1926090090,3142289711,3161816588,957782887#notes:Crossfire/Accurized/Slideshot/Snapshot
-dimwishlist:item=3569802112&perks=1926090090,3142289711,3161816588,3038247973#notes:Crossfire/Accurized/Slideshot/Explosive
-dimwishlist:item=3569802112&perks=1926090090,3142289711,3161816588,588594999#notes:Crossfire/Accurized/Slideshot/MovingTarget
-dimwishlist:item=3569802112&perks=1926090090,3142289711,3523296417,957782887#notes:Crossfire/Accurized/Demolitionist/Snapshot
-dimwishlist:item=3569802112&perks=1926090090,3142289711,3523296417,3038247973#notes:Crossfire/Accurized/Demolitionist/Explosive
-dimwishlist:item=3569802112&perks=1926090090,3142289711,3523296417,588594999#notes:Crossfire/Accurized/Demolitionist/MovingTarget
-dimwishlist:item=3569802112&perks=1926090090,3142289711,2779035018,1015611457#notes:Crossfire/Accurized/FeedingFrenzy/KillClip
-dimwishlist:item=3569802112&perks=1926090090,3142289711,706527188,3038247973#notes:Crossfire/Accurized/QuickDraw/Explosive
-dimwishlist:item=3569802112&perks=1926090090,3142289711,706527188,588594999#notes:Crossfire/Accurized/QuickDraw/MovingTarget
-dimwishlist:item=3569802112&perks=1926090090,4134353779,3161816588,1015611457#notes:Crossfire/DropMag/Slideshot/KillClip
-dimwishlist:item=3569802112&perks=1926090090,4134353779,3523296417,1015611457#notes:Crossfire/DropMag/Demolitionist/KillClip
-dimwishlist:item=3569802112&perks=1926090090,4134353779,706527188,1015611457#notes:Crossfire/DropMag/QuickDraw/KillClip
-dimwishlist:item=3569802112&perks=1926090091,3142289711,706527188,3038247973#notes:Sureshot/Accurized/QuickDraw/Explosive
-dimwishlist:item=3569802112&perks=1926090091,3142289711,706527188,588594999#notes:Sureshot/Accurized/QuickDraw/MovingTarget
-dimwishlist:item=3569802112&perks=1926090091,4134353779,706527188,1015611457#notes:Sureshot/DropMag/QuickDraw/KillClip
+The Old Fashioned - 38 Rolls
+dimwishlist:item=3569802112&perks=106909392,3142289711,3161816588,1015611457#notes: TacMag/Slideshot/KillClip
+dimwishlist:item=3569802112&perks=106909392,3142289711,3523296417,1015611457#notes: TacMag/Demolitionist/KillClip
+dimwishlist:item=3569802112&perks=106909392,3142289711,3523296417,3038247973#notes: TacMag/Demolitionist/Explosive
+dimwishlist:item=3569802112&perks=106909392,3142289711,2779035018,1015611457#notes: TacMag/FeedingFrenzy/KillClip
+dimwishlist:item=3569802112&perks=106909392,3142289711,2779035018,3038247973#notes: TacMag/FeedingFrenzy/Explosive
+dimwishlist:item=3569802112&perks=106909392,3142289711,706527188,1015611457#notes: TacMag/QuickDraw/KillClip
+dimwishlist:item=3569802112&perks=3177308360,3142289711,3161816588,1015611457#notes: Steady/Slideshot/KillClip
+dimwishlist:item=3569802112&perks=3177308360,3142289711,3161816588,957782887#notes: Steady/Slideshot/Snapshot
+dimwishlist:item=3569802112&perks=3177308360,3142289711,3161816588,3038247973#notes: Steady/Slideshot/Explosive
+dimwishlist:item=3569802112&perks=3177308360,3142289711,3161816588,588594999#notes: Steady/Slideshot/MovingTarget
+dimwishlist:item=3569802112&perks=3177308360,3142289711,706527188,1015611457#notes: Steady/Quickdraw/KillClip
+dimwishlist:item=3569802112&perks=3177308360,3142289711,706527188,957782887#notes: Steady/Quickdraw/Snapshot
+dimwishlist:item=3569802112&perks=3177308360,3142289711,706527188,3038247973#notes: Steady/Quickdraw/Explosive
+dimwishlist:item=3569802112&perks=3177308360,3142289711,706527188,588594999#notes: Steady/Quickdraw/MovingTarget
+dimwishlist:item=3569802112&perks=1087426260,3142289711,3523296417,1015611457#notes: Appended/Demolitionist/KillClip
+dimwishlist:item=3569802112&perks=1087426260,3142289711,3523296417,3038247973#notes: Appended/Demolitionist/Explosive
+dimwishlist:item=3569802112&perks=1087426260,3142289711,2779035018,1015611457#notes: Appended/FeedingFrenzy/KillClip
+dimwishlist:item=3569802112&perks=1087426260,3142289711,2779035018,3038247973#notes: Appended/FeedingFrenzy/Explosive
+dimwishlist:item=3569802112&perks=3230963543,3142289711,3161816588,1015611457#notes: Flared/Slideshot/KillClip
+dimwishlist:item=3569802112&perks=3230963543,3142289711,3523296417,1015611457#notes: Flared/Demolitionist/KillClip
+dimwishlist:item=3569802112&perks=3230963543,3142289711,3523296417,3038247973#notes: Flared/Demolitionist/Explosive
+dimwishlist:item=3569802112&perks=3230963543,3142289711,2779035018,1015611457#notes: Flared/FeedingFrenzy/KillClip
+dimwishlist:item=3569802112&perks=3230963543,3142289711,2779035018,3038247973#notes: Flared/FeedingFrenzy/Explosive
+dimwishlist:item=3569802112&perks=3230963543,3142289711,706527188,1015611457#notes: Flared/QuickDraw/KillClip
+dimwishlist:item=3569802112&perks=1926090093,3142289711,3161816588,1015611457#notes: Accurized/Slideshot/KillClip
+dimwishlist:item=3569802112&perks=1926090093,3142289711,3161816588,957782887#notes: Accurized/Slideshot/Snapshot
+dimwishlist:item=3569802112&perks=1926090093,3142289711,3161816588,3038247973#notes: Accurized/Slideshot/Explosive
+dimwishlist:item=3569802112&perks=1926090093,3142289711,3161816588,588594999#notes: Accurized/Slideshot/MovingTarget
+dimwishlist:item=3569802112&perks=1926090093,3142289711,706527188,1015611457#notes: Accurized/Quickdraw/KillClip
+dimwishlist:item=3569802112&perks=1926090093,3142289711,706527188,957782887#notes: Accurized/Quickdraw/Snapshot
+dimwishlist:item=3569802112&perks=1926090093,3142289711,706527188,3038247973#notes: Accurized/Quickdraw/Explosive
+dimwishlist:item=3569802112&perks=1926090093,3142289711,706527188,588594999#notes: Accurized/Quickdraw/MovingTarget
+dimwishlist:item=3569802112&perks=4134353779,3142289711,3161816588,1015611457#notes: DropMag/Slideshot/KillClip
+dimwishlist:item=3569802112&perks=4134353779,3142289711,3523296417,1015611457#notes: DropMag/Demolitionist/KillClip
+dimwishlist:item=3569802112&perks=4134353779,3142289711,3523296417,3038247973#notes: DropMag/Demolitionist/Explosive
+dimwishlist:item=3569802112&perks=4134353779,3142289711,2779035018,1015611457#notes: DropMag/FeedingFrenzy/KillClip
+dimwishlist:item=3569802112&perks=4134353779,3142289711,2779035018,3038247973#notes: DropMag/FeedingFrenzy/Explosive
+dimwishlist:item=3569802112&perks=4134353779,3142289711,706527188,1015611457#notes: DropMag/QuickDraw/KillClip
+
 —————————————————————————
 Pribina-D -16 Rolls
 dimwishlist:item=4211534763&perks=1926090094,3142289711,588594999,47981717#notes:FastDraw/Accurized/MovingTarget/OpeningShot
