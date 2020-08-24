@@ -19,7 +19,6 @@ Index:
 [13]: Rocket Launchers
 [14]: Linear Fusion Rifles
 [15]: Universal Sword Rolls
-[16]: Universal Perk Synergies
 —————————————————————————
 —————————————————————————
 [1]: Auto Rifles 
@@ -4088,25 +4087,5 @@ dimwishlist:item=-69420&perks=2590710093,354401740#notes: Tireless/Assassin
 dimwishlist:item=-69420&perks=2590710093,3708227201#notes: Tireless/Surrounded
 dimwishlist:item=-69420&perks=1749209109,3913600130#notes: Relentless/Whirlwind
 dimwishlist:item=-69420&perks=3708227201,354401740#notes: Surrounded/Assassin
-—————————————————————————
-[16]: Universal Perk Synergies
-—————————————————————————
-dimwishlist:item=-69420&perks=1168162263,1015611457#notes: Outlaw/KillClip
-dimwishlist:item=-69420&perks=1168162263,3425386926#notes: Outlaw/Rampage
-dimwishlist:item=-69420&perks=1168162263,2458213969#notes: Outlaw/MultikillClip
---
-dimwishlist:item=-69420&perks=2779035018,1015611457#notes: FeedingFrenzy/KillClip
-dimwishlist:item=-69420&perks=2779035018,3425386926#notes: FeedingFrenzy/Rampage
-dimwishlist:item=-69420&perks=2779035018,2458213969#notes: FeedingFrenzy/MultikillClip
---
-dimwishlist:item=-69420&perks=247725512,1015611457#notes: RapidHit/Kill Clip
-dimwishlist:item=-69420&perks=247725512,3425386926#notes: RapidHit/Rampage
-dimwishlist:item=-69420&perks=247725512,2458213969#notes: RapidHit/Multikill Clip
-dimwishlist:item=-69420&perks=247725512,3400784728#notes: RapidHit/TripleTap
---
-dimwishlist:item=-69420&perks=706527188,3300816228#notes: Quickdraw/AutoLoading
-dimwishlist:item=-69420&perks=3458972548,588594999#notes: Snapshot/MovingTarget
-dimwishlist:item=-69420&perks=1890422124,4267945040#notes: TapTheTrigger/FullAuto
-dimwishlist:item=-69420&perks=1631667848,4082225868#notes: GraveRobber/Swashbuckler
 —————————————————————————
 —————————————————————————
