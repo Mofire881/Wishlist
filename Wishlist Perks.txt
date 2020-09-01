@@ -139,7 +139,7 @@ DIM Wishlist Perk Codes:
 1890422124 TapTheTrigger
 4071163871 ThreatDetector
 1954620775 TimedPayload
-806159697 TrenchBarrel
+2360754333 TrenchBarrel
 3400784728 TripleTap
 3108830275 Unrelenting
 1546637391 Vorpal
