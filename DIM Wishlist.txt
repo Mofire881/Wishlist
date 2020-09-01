@@ -2721,7 +2721,7 @@ dimwishlist:item=2957367743&perks=106909392,4071163871,3425386926#notes: TacMag/
 —————————————————————————
 Seventh Seraph CQC-12  - 22 Rolls
 dimwishlist:item=1821724780&perks=791862061,3161816588,1546637391#notes: AssaultMag/Slideshot/Vorpal
-dimwishlist:item=1821724780&perks=791862061,3161816588,806159697#notes: AssaultMag/Slideshot/TrenchBarrel
+dimwishlist:item=1821724780&perks=791862061,3161816588,2360754333#notes: AssaultMag/Slideshot/TrenchBarrel
 dimwishlist:item=1821724780&perks=791862061,3300816228,1546637391#notes: AssaultMag/AutoLoading/Vorpal
 dimwishlist:item=1821724780&perks=791862061,3300816228,806159697#notes: AssaultMag/AutoLoading/TrenchBarrel
 dimwishlist:item=1821724780&perks=106909392,3161816588,1546637391#notes: TacMag/Slideshot/Vorpal
