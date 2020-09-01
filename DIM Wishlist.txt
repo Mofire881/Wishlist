@@ -3115,6 +3115,32 @@ dimwishlist:item=607191995&perks=4090651448,3868766766,2039302152,1600092898#not
 —————————————————————————
 [8]: Pulse Rifles
 —————————————————————————
+Cold Denial - 24 Rolls
+dimwishlist:item=1216130969&perks=1885400500,2779035018,3108830275#notes: Ricochet/FeedingFrenzy/Unrelenting 
+dimwishlist:item=1216130969&perks=1885400500,2779035018,2458213969#notes: Ricochet/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1216130969&perks=1885400500,2450788523,3108830275#notes: Ricochet/KillingWind/Unrelenting 
+dimwishlist:item=1216130969&perks=1885400500,2450788523,699525795#notes: Ricochet/KillingWind/EyeOfTheStorm
+dimwishlist:item=1216130969&perks=1885400500,2387244414,3108830275#notes: Ricochet/ZenMoment/Unrelenting 
+dimwishlist:item=1216130969&perks=1885400500,2387244414,699525795#notes: Ricochet/ZenMoment/EyeOfTheStorm
+dimwishlist:item=1216130969&perks=1885400500,1631667848,4082225868#notes: Ricochet/GraveRobber/Swashbuckler
+dimwishlist:item=1216130969&perks=3230963543,2779035018,3108830275#notes: Flared/FeedingFrenzy/Unrelenting 
+dimwishlist:item=1216130969&perks=3230963543,2779035018,2458213969#notes: Flared/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1216130969&perks=3230963543,1631667848,4082225868#notes: Flared/GraveRobber/Swashbuckler
+dimwishlist:item=1216130969&perks=679225683,2779035018,3108830275#notes: LightMag/FeedingFrenzy/Unrelenting 
+dimwishlist:item=1216130969&perks=679225683,2779035018,2458213969#notes: LightMag/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1216130969&perks=679225683,1631667848,4082225868#notes: LightMag/GraveRobber/Swashbuckler
+dimwishlist:item=1216130969&perks=2420895100,1631667848,4082225868#notes: Extended/GraveRobber/Swashbuckler
+dimwishlist:item=1216130969&perks=1087426260,2779035018,3108830275#notes: Appended/FeedingFrenzy/Unrelenting 
+dimwishlist:item=1216130969&perks=1087426260,2779035018,2458213969#notes: Appended/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1216130969&perks=1087426260,1631667848,4082225868#notes: Appended/GraveRobber/Swashbuckler
+dimwishlist:item=1216130969&perks=1561002382,2779035018,3108830275#notes: High-Cal/FeedingFrenzy/Unrelenting 
+dimwishlist:item=1216130969&perks=1561002382,2779035018,2458213969#notes: High-Cal/FeedingFrenzy/MultiKillClip
+dimwishlist:item=1216130969&perks=1561002382,2450788523,3108830275#notes: High-Cal/KillingWind/Unrelenting 
+dimwishlist:item=1216130969&perks=1561002382,2450788523,699525795#notes: High-Cal/KillingWind/EyeOfTheStorm
+dimwishlist:item=1216130969&perks=1561002382,2387244414,3108830275#notes: High-Cal/ZenMoment/Unrelenting 
+dimwishlist:item=1216130969&perks=1561002382,2387244414,699525795#notes: High-Cal/ZenMoment/EyeOfTheStorm
+dimwishlist:item=1216130969&perks=1561002382,1631667848,4082225868#notes: High-Cal/GraveRobber/Swashbuckler
+—————————————————————————
 Blast Furnace - 78
 dimwishlist:item=3843477312&perks=1096957638,1087426260,1168162263,1015611457#notes: RasmussenISA/Appended/Outlaw/KillClip
 dimwishlist:item=3843477312&perks=1096957638,1087426260,1168162263,3425386926#notes: RasmussenISA/Appended/Outlaw/Rampage
