@@ -2740,6 +2740,12 @@ dimwishlist:item=1253087083&perks=839105230,588594999,2213355989#notes: Arrowhea
 dimwishlist:item=1253087083&perks=839105230,588594999,2551157718#notes: Arrowhead/Steady/MovingTarget/BoxBreathing 
 dimwishlist:item=1253087083&perks=839105230,588594999,2213355989#notes: Arrowhead/Steady/MovingTarget/HiImpactReserves
 —————————————————————————
+Fate Cries Foul - 5 Rolls
+dimwishlist:item=1203091695&perks=2420895100,247725512,3400784728#notes: Extended/RapidHit/TripleTap 
+dimwishlist:item=1203091695&perks=2420895100,2869569095,3400784728#notes: Extended/FieldPrep/TripleTap
+dimwishlist:item=1203091695&perks=1087426260,247725512,3400784728#notes: Appended/RapidHit/TripleTap 
+dimwishlist:item=1203091695&perks=1087426260,2869569095,3400784728#notes: Appended/FieldPrep/TripleTap
+dimwishlist:item=1203091695&perks=1885400500,957782887,588594999#notes: Ricochet/Snapshot/MovingTarget
 —————————————————————————
 —————————————————————————
 [7]: Fusion Rifles
