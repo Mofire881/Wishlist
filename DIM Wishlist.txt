@@ -413,6 +413,13 @@ dimwishlist:item=93253474&perks=2414725841,1561002382,706527188,1890422124#notes
 dimwishlist:item=93253474&perks=2414725841,679225683,2387244414,1015611457#notes: SatouPrecision/LightMag/ZenMoment/KillClip 
 dimwishlist:item=93253474&perks=2414725841,3230963543,2387244414,1015611457#notes: SatouPrecision/Flared/ZenMoment/KillClip 
 —————————————————————————
+Steelfeather Repeater - My Roll
+dimwishlist:item=1251729046&perks=839105230,1885400500,2779035018,2458213969#notes: My Roll
+—————————————————————————
+—————————————————————————
+—————————————————————————
+—————————————————————————
+
 [2]: Hand Cannons 
 —————————————————————————
 The Old Fashioned - 38 Rolls
