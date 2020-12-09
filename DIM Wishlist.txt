@@ -1991,34 +1991,19 @@ dimwishlist:item=766323545&perks=4090651448,4134353779,1354429876,2848615171#not
 dimwishlist:item=766323545&perks=4090651448,3230963543,1354429876,1546637391#notes: Corkscrew/FlaredMag/FourthTime/Vorpal
 dimwishlist:item=766323545&perks=4090651448,3230963543,1354429876,2848615171#notes: Corkscrew/FlaredMag/FourthTime/Dragonfly
 —————————————————————————
-Ikelos_SMG_v1.0.2 - 30 Rolls
-dimwishlist:item=2222560548&perks=106909392,4071163871,1546637391#notes: TacMag/ThreatDetector/Vorpal
-dimwishlist:item=2222560548&perks=106909392,4071163871,3523296417#notes: TacMag/ThreatDetector/Demolitionist
-dimwishlist:item=2222560548&perks=106909392,4071163871,3708227201#notes: TacMag/ThreatDetector/Surrounded
-dimwishlist:item=2222560548&perks=106909392,1820235745,1546637391#notes: TacMag/Subsistence/Vorpal
-dimwishlist:item=2222560548&perks=106909392,1820235745,3523296417#notes: TacMag/Subsistence/Demolitionist
-dimwishlist:item=2222560548&perks=106909392,1820235745,3708227201#notes: TacMag/Subsistence/Surrounded
+Ikelos_SMG_v1.0.2 - 15 Rolls
 dimwishlist:item=2222560548&perks=3230963543,4071163871,1546637391#notes: FlaredMag/ThreatDetector/Vorpal
 dimwishlist:item=2222560548&perks=3230963543,4071163871,3523296417#notes: FlaredMag/ThreatDetector/Demolitionist
 dimwishlist:item=2222560548&perks=3230963543,4071163871,3708227201#notes: FlaredMag/ThreatDetector/Surrounded
 dimwishlist:item=2222560548&perks=3230963543,1820235745,1546637391#notes: FlaredMag/Subsistence/Vorpal
 dimwishlist:item=2222560548&perks=3230963543,1820235745,3523296417#notes: FlaredMag/Subsistence/Demolitionist
 dimwishlist:item=2222560548&perks=3230963543,1820235745,3708227201#notes: FlaredMag/Subsistence/Surrounded
-dimwishlist:item=2222560548&perks=1140096971,4071163871,1546637391#notes: SeraphRounds/ThreatDetector/Vorpal
-dimwishlist:item=2222560548&perks=1140096971,4071163871,3523296417#notes: SeraphRounds/ThreatDetector/Demolitionist
-dimwishlist:item=2222560548&perks=1140096971,4071163871,1890422124#notes: SeraphRounds/ThreatDetector/TapTheTrigger
 dimwishlist:item=2222560548&perks=1140096971,1359896290,1546637391#notes: SeraphRounds/DynamicSway/Vorpal
 dimwishlist:item=2222560548&perks=1140096971,1359896290,3523296417#notes: SeraphRounds/DynamicSway/Demolitionist
 dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124#notes: SeraphRounds/DynamicSway/TapTheTrigger
-dimwishlist:item=2222560548&perks=3142289711,4071163871,1546637391#notes: Accurized/ThreatDetector/Vorpal
-dimwishlist:item=2222560548&perks=3142289711,4071163871,3523296417#notes: Accurized/ThreatDetector/Demolitionist
-dimwishlist:item=2222560548&perks=3142289711,4071163871,1890422124#notes: Accurized/ThreatDetector/TapTheTrigger
 dimwishlist:item=2222560548&perks=3142289711,1359896290,1546637391#notes: Accurized/DynamicSway/Vorpal
 dimwishlist:item=2222560548&perks=3142289711,1359896290,3523296417#notes: Accurized/DynamicSway/Demolitionist
 dimwishlist:item=2222560548&perks=3142289711,1359896290,1890422124#notes: Accurized/DynamicSway/TapTheTrigger
-dimwishlist:item=2222560548&perks=3177308360,4071163871,1546637391#notes: Steady/ThreatDetector/Vorpal
-dimwishlist:item=2222560548&perks=3177308360,4071163871,3523296417#notes: Steady/ThreatDetector/Demolitionist
-dimwishlist:item=2222560548&perks=3177308360,4071163871,1890422124#notes: Steady/ThreatDetector/TapTheTrigger
 dimwishlist:item=2222560548&perks=3177308360,1359896290,1546637391#notes: Steady/DynamicSway/Vorpal
 dimwishlist:item=2222560548&perks=3177308360,1359896290,3523296417#notes: Steady/DynamicSway/Demolitionist
 dimwishlist:item=2222560548&perks=3177308360,1359896290,1890422124#notes: Steady/DynamicSway/TapTheTrigger
